@@ -1,15 +1,18 @@
 # ViteX Operators Submission Guideline
 
 ## Requirements
+
 ### Information Preparation
 
-#### Prepare the profile with json-type and logo image.
+Prepare the profile with json-type and logo image.
 
 `LOGO IMAGE`
+
 - Image format: `png` `transparent background`
 - Image size: `20x20 pixels`
 
 `JSON FILE`
+
 | field | necessity |description | schema type |
 |:------------:|:-----:|:-----------:|:-----:|
 | name | necessary | gateway name | String |
@@ -21,19 +24,41 @@
 > Filename in the `lowercase` format, named by your operator address, eg: vite_050697d3810c30816b005a03511c734c1159f50907662b046f
 
 #### Keyword in the field  Map-Value above.
+
 * `links`
 
-    *website* | *whitepaper* | *github* | explorer | email | twitter | facebook | reddit | instagram | steemit | coinmarketcap | youtube | telegram | discord | linkedin | medium | blog
+    * **website** 
+    * **whitepaper** 
+    * **github** 
+    * explorer
+    * email
+    * twitter
+    * facebook
+    * reddit
+    * instagram
+    * steemit
+    * coinmarketcap
+    * youtube
+    * telegram
+    * discord
+    * linkedin
+    * medium
+    * blog
 
-    > Note: *We consider projects that fill in the `website`,`whitepaper`,`github` fields to be generally reliable gateways that do not give warning messages in ViteX*.
+    > Note: We consider projects that fill in the `website`,`whitepaper`,`github` fields to be generally reliable gateways that do not give warning messages in ViteX.
 
 * `overview`
     
-    en | zh
+    * **en** 
+    * zh
+
+    > Note: Providing an English version is essential.
 
 > Note: you must use the right key name, and all must be `lowercase`.
 
+
 ##### Example:
+
 ```json 
 {
 	"name":"Vite Labs",
@@ -56,7 +81,7 @@
 ```
 
 
-### Steps to upload
+## Steps to upload
 
 1. Fork the repo to your own github account
 

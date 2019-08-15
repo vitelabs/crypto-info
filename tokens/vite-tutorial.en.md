@@ -1,15 +1,18 @@
 # Vite Token Profile Submission Guideline
 
 ## Requirements
+
 ### Information Preparation
 
-#### Prepare the profile with json-type and logo image.
+Prepare the profile with json-type and logo image.
 
 `LOGO IMAGE`
+
 - Image format: `png` `transparent background`
 - Image size: `20x20 pixels`
 
 `JSON FILE`
+
 | field | necessity |description | schema type |
 |:------------:|:-----:|:-----------:|:-----:|
 | tokenId | necessary | tokenId on Vite BlockChain | String |
@@ -20,24 +23,47 @@
 > Filename in the `lowercase` format, named by your tokenId, eg: tti_b90c9baffffc9dae58d1f33f.json, tti_b90c9baffffc9dae58d1f33f.png
 
 #### Keyword in the field  Map-Value above.
+
 * `links`
 
-    *website* | *whitepaper* | *github* | explorer | email | twitter | facebook | reddit | instagram | steemit | coinmarketcap | youtube | telegram | discord | linkedin | medium | blog
+    * **website** 
+    * **whitepaper** 
+    * **github** 
+    * explorer
+    * email
+    * twitter
+    * facebook
+    * reddit
+    * instagram
+    * steemit
+    * coinmarketcap
+    * youtube
+    * telegram
+    * discord
+    * linkedin
+    * medium
+    * blog
 
-    > Note: *We consider projects that fill in the `website`,`whitepaper`,`github` fields to be generally reliable gateways that do not give warning messages in ViteX*.
+    > Note: We consider projects that fill in the `website`,`whitepaper`,`github` fields to be generally reliable gateways that do not give warning messages in ViteX.
 
 * `overview`
     
-    en | zh
+    * **en** 
+    * zh
+
+    > Note: Providing an English version is essential.
 
 * `initialPrice`
     
-    btc | eth | usd
+    * btc
+    * eth
+    * usd
 
 > Note: you must use the right key name, and all must be `lowercase`.
 
 
 ##### Example:
+
 ```json 
 {
     "tokenId": "tti_b90c9baffffc9dae58d1f33f",
@@ -59,7 +85,7 @@
 ```
 
 
-### Steps to upload
+## Steps to upload
 
 1. Fork the repo to your own github account
 

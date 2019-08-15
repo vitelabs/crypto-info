@@ -1,15 +1,18 @@
 # Vite Gateways Submission Guideline
 
 ## Requirements
+
 ### Information Preparation
 
-#### Prepare the profile with json-type and logo image.
+Prepare the profile with json-type and logo image.
 
 `LOGO IMAGE`
+
 - Image format: `png` `transparent background`
 - Image size: `20x20 pixels`
 
 `JSON FILE`
+
 | field | necessity |description | schema type |
 |:------------:|:-----:|:-----------:|:-----:|
 | name | necessary | gateway name | String |
@@ -22,6 +25,7 @@
 > Filename in the `lowercase` format, string join with `-`, eg: Vite Labs -> vite-labs, vite-labs.json | vite-labs.png
 
 #### GatewayMappedTokenDetail
+
 | field | necessity |description | schema type |
 |:------------:|:-----:|:-----------:|:-----:|
 | mappedSymbol | necessary | symbol of the extranet coin mapped , eg: VITE | String |
@@ -32,19 +36,42 @@
 > Note: For more information about API specification for the field `url`, please refer to the tutorial here: [Gateway Profile Guideline](gateways/apiurl-tutorial.en.md)
 
 #### Keyword in the field  Map-Value above.
+
 * `gatewayTokens`
     tti_[xxxxxxxxxxxxxxxxxxxxxxxx]
+
+
 * `links`
 
-    *website* | *whitepaper* | *github* | explorer | email | twitter | facebook | reddit | instagram | steemit | coinmarketcap | youtube | telegram | discord | linkedin | medium | blog
+    * **website** 
+    * **whitepaper** 
+    * **github** 
+    * explorer
+    * email
+    * twitter
+    * facebook
+    * reddit
+    * instagram
+    * steemit
+    * coinmarketcap
+    * youtube
+    * telegram
+    * discord
+    * linkedin
+    * medium
+    * blog
 
-    > Note: *We consider projects that fill in the `website`,`whitepaper`,`github` fields to be generally reliable gateways that do not give warning messages in ViteX*.
+    > Note: We consider projects that fill in the `website`,`whitepaper`,`github` fields to be generally reliable gateways that do not give warning messages in ViteX.
 
-* `overview` `policy`
+* `overview`
     
-    en | zh
+    * **en** 
+    * zh
+
+    > Note: Providing an English version is essential.
 
 > Note: you must use the right key name, and all must be `lowercase`.
+
 
 ##### Example:
 ```json 
