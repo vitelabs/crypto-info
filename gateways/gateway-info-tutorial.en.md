@@ -33,7 +33,7 @@ Prepare the profile with json-type and logo image.
 | mappedTokenId | necessary | unique key of the extranet coin mapped, eg: 0x1b793E49237758dBD8b752AFC9Eb4b329d5Da016 | String |
 | url | necessary | apiUrl your gateway provided | String |
 
-> Note: For more information about API specification for the field `url`, please refer to the tutorial here: [Gateway Profile Guideline](gateways/apiurl-tutorial.en.md)
+> Note: For more information about API specification for the field `url`, please refer to the tutorial here: [Gateway Profile Guideline](apiurl-tutorial.en.md)
 
 #### Keyword in the field  Map-Value above.
 
@@ -74,7 +74,8 @@ Prepare the profile with json-type and logo image.
 
 
 ##### Example:
-```json 
+::: demo
+```json
 {
 	"name":"Vite Labs",
     "policy":{
@@ -122,6 +123,7 @@ Prepare the profile with json-type and logo image.
 }
 
 ```
+:::
 
 
 ### Steps to upload
