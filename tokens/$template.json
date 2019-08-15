@@ -1,0 +1,17 @@
+{
+    "tokenId": "tti_b90c9baffffc9dae58d1f33f",
+    "overview":{
+        "en":"Bitcoin (BTC) is a consensus network that enables a new payment system and a completely digital currency. Powered by its users, it is a peer to peer payment network that requires no central authority to operate."
+    },
+    "links":{
+        "website":["https://bitcoin.org/en/"],
+        "whitepaper":["https://bitcoin.org/bitcoin.pdf"],
+        "explorer":["https://www.blockchain.com/explorer/"],
+        "github":["https://github.com/bitcoin/"]
+    },
+    "initialPrice":{
+        "usd": "11363.0394858",
+        "eth": "53.51367153483174",
+        "btc": "1.00000000"
+    }
+}

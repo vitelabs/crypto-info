@@ -1,0 +1,36 @@
+{
+	"name":"Gateway Name",
+    "policy":{
+    	"en":"https://your-awesome-project/privacy.html"
+    },
+    "overview":{
+        "en": "Gateway Description.",
+        "zh": "网关概述。"
+    },
+    "Links": {
+        "website":["https://your-awesome-project.org"],
+        "whitepaper":["https://your-awesome-project.pdf"],
+        "github": ["https://github.com/your-awesome-project/"]
+    },
+    "support":"gateway@support.org",
+    "gatewayTokens":{
+    	"tti_vitetokenaddress1":{
+			"mappedSymbol": "ETH",
+			"mappedNet": "ETH",
+			"mappedTokenId": "",
+			"url": "https://gate.your-awesome-project.net/gateway/eth/"
+    	},
+    	"tti_vitetokenaddress2":{
+			"mappedSymbol": "BTC",
+			"mappedNet": "BTC",
+			"mappedTokenId": "",
+			"url": "https://gate.your-awesome-project.net/gateway/btc/"
+    	},
+    	"tti_vitetokenaddress3":{
+			"mappedSymbol": "USDT",
+			"mappedNet": "ETH",
+			"mappedTokenId": "0xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+			"url": "https://gate.your-awesome-project.net/gateway/eth/"
+    	}
+    }
+}

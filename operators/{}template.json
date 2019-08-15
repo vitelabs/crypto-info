@@ -1,0 +1,15 @@
+{
+	"name":"Operator Name",
+    "address":"vite_operatoraddress",
+    "overview": {
+        "en": "Operator Description.",
+        "zh": "运营商简介。"
+    },
+    "links": {
+    	"website":["https://operator.your-awesome-project.org"],
+        "whitepaper":["https://your-awesome-project.pdf"],
+        "github": ["https://github.com/your-awesome-project/"]
+    },    
+    "support":"support@operator.org",
+    "gateway":"Gateway Name"
+}

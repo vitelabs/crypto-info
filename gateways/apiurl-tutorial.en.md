@@ -1,0 +1,1 @@
+# Vite Gateways API Specification Guideline
