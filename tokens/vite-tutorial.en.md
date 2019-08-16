@@ -20,7 +20,7 @@ Prepare the profile with json-type and logo image.
 | links | optional | website,whitepaper,github, and other media links. | Map<String,List<String>> |
 | initialPrice | optional | the initial price of your token to the base currency | String |
 
-> Filename in the `lowercase` format, named by your tokenId, eg: tti_b90c9baffffc9dae58d1f33f.json, tti_b90c9baffffc9dae58d1f33f.png
+> Filename in the `lowercase` format, named by your tokenId, same name for both .json and .png (Including capitalization), eg: tti_b90c9baffffc9dae58d1f33f.json, tti_b90c9baffffc9dae58d1f33f.png
 
 #### Keyword in the field  Map-Value above.
 
@@ -125,7 +125,7 @@ git commit -m "Add token-[tti_xxx]"
 git push origin token-[tti_xxx]
 ```
 
-8. Under your repo page, click the "New pull request" button. Then, attach the detailed XXXXXXXXXXXXXXXXXXXXXXXX.
+8. Under your repo page, click the "New pull request" button. Then, attach the detailed token project information, this includes but not limited to the following: (Project basic information; Project team background; Purpose of coinage; Contact information).
 
    Sample PR: https://github.com/vitelabs/crypto-info/pull/xxx
 

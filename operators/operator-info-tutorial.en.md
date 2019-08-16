@@ -21,7 +21,7 @@ Prepare the profile with json-type and logo image.
 | links | optional | website,whitepaper,github, and other media links. | Map<String,List<String>> |
 | support | necessary | customer service, eg: support@*****.com | String |
 
-> Filename in the `lowercase` format, named by your operator address, eg: vite_050697d3810c30816b005a03511c734c1159f50907662b046f
+> Filename in the `lowercase` format, named by your operator address, same name for both .json and .png (Including capitalization), eg: vite_050697d3810c30816b005a03511c734c1159f50907662b046f
 
 #### Keyword in the field  Map-Value above.
 
@@ -120,7 +120,7 @@ git commit -m "Add operator-[vite_xxx]"
 git push origin operator-[vite_xxx]
 ```
 
-8. Under your repo page, click the "New pull request" button. Then, attach the detailed XXXXXXXXXXXXXXXXXXXXXXXX.
+8. Under your repo page, click the "New pull request" button. Then, attach the detailed operator informatio, this includes but not limited to the following: (Operator name; Operator address on vite blockchain; Contact information).
 
    Sample PR: https://github.com/vitelabs/crypto-info/pull/xxx
 

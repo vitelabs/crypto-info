@@ -22,7 +22,7 @@ Prepare the profile with json-type and logo image.
 | support | necessary | customer service, eg: support@*****.com | String |
 | gatewayTokens | necessary | details of extranet coin mapped | Map<String,GatewayMappedTokenDetail> |
 
-> Filename in the `lowercase` format, string join with `-`, eg: Vite Labs -> vite-labs, vite-labs.json | vite-labs.png
+> Filename in the `lowercase` format, string join with `-`, same name for both .json and .png (Including capitalization), eg: Vite Labs -> vite-labs, vite-labs.json | vite-labs.png
 
 #### GatewayMappedTokenDetail
 
@@ -163,7 +163,7 @@ git commit -m "Add gateway-[gatewayname]"
 git push origin gateway-[gatewayname]
 ```
 
-8. Under your repo page, click the "New pull request" button. Then, attach the detailed XXXXXXXXXXXXXXXXXXXXXXXX.
+8. Under your repo page, click the "New pull request" button. Then, attach the detailed gateway informatio, this includes but not limited to the following: (Gateway name;  Gateway original applicant name; Real name of submitter; Contact information).
 
    Sample PR: https://github.com/vitelabs/crypto-info/pull/xxx
 
