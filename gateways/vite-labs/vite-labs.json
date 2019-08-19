@@ -35,7 +35,7 @@
     	"tti_289ee0569c7d3d75eac1b100":{
 			"mappedSymbol": "GRIN",
 			"mappedNet": "GRIN",
-			"mappedTokenId": "GRIN",
+			"mappedTokenId": "",
 			"url": "https://gate.vite.net/gateway/grin/"
     	}
     }
