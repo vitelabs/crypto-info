@@ -1,0 +1,39 @@
+{
+    "name":"VGATE",
+    "policy":{
+        "en":"https://vgate.io/clause"
+    },
+    "overview":{
+        "en":"As an operator of ViteX, VGATE is responsible for listing coins, deposit and withdrawal, cryptocurrency marketing and promoting and other services within VGATE's own marketing area.VGATE has complete capabilities as an operator, namely the capabilities of operating VGATE and its cryptos. In addition to helping users list cryptos, deposit and withdraw, and adjust transaction fees, VGATE can also mint coins, help other operators mint coins and run their gateways."
+    },
+    "Links": {
+        "website":["https://vgate.io/"]
+    },
+    "support":"vgateservice@gmail.com",
+     "gatewayTokens":{
+        "tti_60e20567a20282bfd25ab56c":{
+            "mappedNet": "TERA",
+            "mappedSymbol": "TERA",
+            "mappedTokenId": "",
+            "url": "https://gateway.vgate.io/tera/"	
+        },
+        "tti_e80bcafb642ce4898857eccc":{
+            "mappedNet": "BIS",
+            "mappedSymbol": "BIS",
+            "mappedTokenId": "",
+            "url": "https://gateway.vgate.io/bismuth/"
+        },
+        "tti_26472d9be08f8f2fdeb3030d":{
+            "mappedNet": "DERO",
+            "mappedSymbol": "DERO",
+            "mappedTokenId": "",
+            "url": "https://gateway.vgate.io/dero/"
+        },
+        "tti_0570e763918b4355074661ac":{
+            "mappedNet": "TURTLE",
+            "mappedSymbol": "TURTLE",
+            "mappedTokenId": "",
+            "url": "https://gateway.vgate.io/turtle/"
+        }
+    }
+}

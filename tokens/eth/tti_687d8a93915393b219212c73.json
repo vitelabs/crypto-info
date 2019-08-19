@@ -1,0 +1,15 @@
+{
+    "tokenId": "tti_687d8a93915393b219212c73",
+    "overview":{
+        "en":"Ethereum (ETH) is a smart contract platform that enables developers to build decentralized applications (dapps) conceptualized by Vitalik Buterin in 2013. ETH is the native currency for the Ethereum platform and also works as the transaction fees to miners on the Ethereum network."
+    },
+    "links":{
+        "website":["https://www.ethereum.org/"],
+        "whitepaper":["https://github.com/ethereum/wiki/wiki/White-Paper/"],
+        "explorer":["https://etherscan.io/"],
+	    "github":["https://github.com/ethereum/"],
+	    "twitter":["https://twitter.com/ethereum/"],
+	    "facebook":["https://www.facebook.com/ethereumproject/"],
+	    "blog":["https://blog.ethereum.org/"]
+    }
+}

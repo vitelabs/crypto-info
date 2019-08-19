@@ -1,0 +1,42 @@
+{
+	"name":"Vite Labs",
+    "policy":{
+    	"en":"https://x.vite.net/privacy.html"
+    },
+    "overview":{
+    	"zh":"Vite Labs官方网关，负责BTC、ETH、USDT(ERC20)、GRIN四种代币跨链服务",
+    	"en":"The gateway provided by Vite Labs, running cross-chain services for four coins: BTC, ETH, USDT(ERC20)"
+    },
+    "links": {
+      "website":["https://vite.org"],
+      "explorer":["https://explorer.vite.net"],
+      "whitepaper":["https://github.com/vitelabs/whitepaper/"]
+    },
+    "support":"gateway@vite.org",
+    "gatewayTokens":{
+    	"tti_687d8a93915393b219212c73":{
+			"mappedSymbol": "ETH",
+			"mappedNet": "ETH",
+			"mappedTokenId": "",
+			"url": "https://gate.vite.net/gateway/eth/"
+    	},
+    	"tti_b90c9baffffc9dae58d1f33f":{
+			"mappedSymbol": "BTC",
+			"mappedNet": "BTC",
+			"mappedTokenId": "",
+			"url": "https://gate.vite.net/gateway/btc/"
+    	},
+    	"tti_80f3751485e4e83456059473":{
+			"mappedSymbol": "USDT",
+			"mappedNet": "ETH",
+			"mappedTokenId": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"url": "https://gate.vite.net/gateway/eth/"
+    	},
+    	"tti_289ee0569c7d3d75eac1b100":{
+			"mappedSymbol": "GRIN",
+			"mappedNet": "GRIN",
+			"mappedTokenId": "GRIN",
+			"url": "https://gate.vite.net/gateway/grin/"
+    	}
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "tokenId": "tti_26472d9be08f8f2fdeb3030d",
+    "overview":{
+	    "en":"Dero is the first crypto project to combine a Proof of Work blockchain with a DAG block structure and wholly anonymous transactions. The fully distributed ledger processes transactions with a twelve-second average block time and is secure against majority hashrate attacks. Dero will be the first CryptoNote blockchain to have smart contracts on its native chain without any extra layers or secondary blockchains."
+    },
+    "links":{
+        "website":["https://dero.io/"],
+        "explorer": ["http://explorer.dero.io/"]
+     }
+}

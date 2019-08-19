@@ -1,0 +1,10 @@
+{
+    "tokenId": "tti_60e20567a20282bfd25ab56c",
+    "overview":{
+	    "en":"TERA aims to create a fully decentralized and high-performance blockchain platform for the development of DApps in JavaScript. The blockchain has a built-in cryptocurrency (Tera), free transactions, and DApps are stored on chain."
+    },
+    "links":{
+        "website":["https://terafoundation.org/"],
+        "explorer": ["https://teraexplorer.org/explorer.html"]
+     }
+}

@@ -1,0 +1,10 @@
+{
+    "tokenId": "tti_e80bcafb642ce4898857eccc",
+    "overview":{
+	"en":"Bismuth is a new blockchain protocol and a platform at the same time. It has an innovative approach to database scaling, introduces the concept of private contracts and limits contract execution to users willing to participate, while keeping them publicly verifiable through alternative mechanisms proposed by Nick Szabo."
+    },
+    "links":{
+        "website":["https://bismuth.cz/"],
+        "explorer": ["http://bismuth.online/"]
+     }
+}
