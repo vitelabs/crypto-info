@@ -1,0 +1,15 @@
+{
+    "tokenId": "tti_22a818227bb47f072f92f428",
+    "overview":{
+	"en":"PascalCoin describes itself as a ‘next generation’ cryptocurrency that aims to address the issue of blockchain scalability. It reportedly has a transaction speed of 72,000TPS, a simple account number (PASA), and an architecture which enables privacy. PascalCoin introduces a low-memory GPU- and ASIC-resistant hash algorithm called Random Hash. This CPU-native algorithm strives towards mining decentralization by combining hash primitives in a serial manner in conjunction with a branch-heavy and recursive implementation. PascalCoin uses a cryptographic data-structure known as the ‘SafeBox’ which functions as a dynamic ledger of all account balances."
+    },
+    "links":{
+        "website":["http://www.pascalcoin.org/"],
+        "explorer":["https://explore.pascalcoin.org/"],
+	    "github":["https://github.com/PascalCoin/PascalCoin/"],
+	    "telegram":["https://t.me/pascalcoin"],
+	    "twitter":["https://twitter.com/PascalCoin/"],
+	    "reddit":["https://reddit.com/r/pascalcoin/"],
+	    "discrod":["https://reddit.com/r/pascalcoin/"]
+    }
+}

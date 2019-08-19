@@ -1,0 +1,13 @@
+{
+    "tokenId": "tti_661d467c3f4d9c6d7b9e9dc9",
+    "overview":{
+	"en":"Ergo platform absorbs ready-to-use ideas, that are well-tested and formalized in scientific papers. Its primary focus is to provide an efficient, secure and easy way to implement financial contracts that will be useful and survivable in the long term. Finally, Ergo is a self-amendable protocol, that allows it to absorb new ideas and improve itself in the future in a decentralized manner."
+    },
+    "links":{
+        "website":["http://ergoplatform.org/"],
+        "explorer":["http://www.wavesgo.com/assets.html?725Yv9oceWsB4GsYwyy4A52kEwyVrL5avubkeChSnL46"],
+	    "github":["https://github.com/ergoplatform/ergo/"],
+	    "twitter":["https://twitter.com/ergoplatformorg/"],
+	    "telegram":["https://telegram.me/ergoplatform/"]
+    }
+}
