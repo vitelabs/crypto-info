@@ -34,6 +34,12 @@
             "mappedSymbol": "TURTLE",
             "mappedTokenId": "",
             "url": "https://gateway.vgate.io/turtle/"
-        }
+        },
+	    "tti_661d467c3f4d9c6d7b9e9dc9":{
+	        "mappedNet": "ERGO",
+            "mappedSymbol": "ERGO",
+            "mappedTokenId": "",
+            "url": "https://gateway.vgate.io/ergo/"
+	    }
     }
 }
