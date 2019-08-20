@@ -94,7 +94,7 @@ Prepare the profile with json-type and logo image.
 
 2. Clone the repo from your own account, please note: do no clone the origin one directly, but clone the repo you forked
 ```
-git clone https://github.com/vitelabs/crypto-info.git
+git clone https://github.com/[your-own-repo]/crypto-info.git
 cd crypto-info/
 ```
 
