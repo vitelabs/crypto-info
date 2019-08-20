@@ -132,7 +132,7 @@ Prepare the profile with json-type and logo image.
 
 2. Clone the repo from your own account, please note: do no clone the origin one directly, but clone the repo you forked
 ```
-git clone https://github.com/vitelabs/crypto-info.git
+git clone https://github.com/[your-own-repo]/crypto-info.git
 cd crypto-info/
 ```
 
@@ -146,7 +146,7 @@ git checkout gateway-[gatewayname]
 4. Please ensure to use UTF-8 encoding in the json file to avoid Travis-CI build error. Please check the template file to fill in the complete gateway information: [$template.json](../gateways/$template.json)
 
 
-5. Create the directory with the name of your operatorAddress under the directory `operators` if not exist. Add your gateway json file and logo image to the directory created, named by your gateway name. 
+5. Create the directory with the name of your gateway name with the required format under the directory `gateways` if not exist. Add your gateway json file and logo image to the directory created, named by your gateway name. 
   For example:
 ```
 gateways/vite-labs/
