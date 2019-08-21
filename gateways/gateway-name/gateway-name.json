@@ -1,0 +1,34 @@
+{
+	"gatewayTokens":{
+		"tti_vitetokenaddress1":{
+			"mappedNet":"ETH",
+			"mappedSymbol":"ETH",
+			"mappedTokenId":"",
+			"name":"Gateway Name",
+			"url":"https://gate.your-awesome-project.net/gateway/eth/"
+		},
+		"tti_vitetokenaddress2":{
+			"mappedNet":"BTC",
+			"mappedSymbol":"BTC",
+			"mappedTokenId":"",
+			"name":"Gateway Name",
+			"url":"https://gate.your-awesome-project.net/gateway/btc/"
+		},
+		"tti_vitetokenaddress3":{
+			"mappedNet":"ETH",
+			"mappedSymbol":"USDT",
+			"mappedTokenId":"0xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+			"name":"Gateway Name",
+			"url":"https://gate.your-awesome-project.net/gateway/eth/"
+		}
+	},
+	"name":"Gateway Name",
+	"overview":{
+		"en":"Gateway Description.",
+		"zh":"网关概述。"
+	},
+	"policy":{
+		"en":"https://your-awesome-project/privacy.html"
+	},
+	"support":"gateway@support.org"
+}
