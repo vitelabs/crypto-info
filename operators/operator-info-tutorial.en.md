@@ -85,6 +85,8 @@ Prepare the profile with json-type and logo image.
 
 ## Steps to upload
 
+We recommend that you complete the procedures with your developers, or you can follow [Github Guideline](../github-tutorial.en.md) to operate on github web page.
+
 1. Fork the repo to your own github account
 
 2. Clone the repo from your own account, please note: do no clone the origin one directly, but clone the repo you forked

@@ -28,8 +28,8 @@ Prepare the profile with json-type and logo image.
 
 | field | necessity |description | schema type |
 |:------------:|:-----:|:-----------:|:-----:|
-| mappedSymbol | necessary | symbol of the extranet coin mapped , eg: VITE | String |
-| mappedNet | necessary | category of the extranet coin mapped , eg: ETH | String |
+| mappedSymbol | necessary | symbol of the extranet coin mapped, eg: VITE | String |
+| mappedNet | necessary | category of the extranet coin mapped, eg: ETH | String |
 | mappedTokenId | necessary | unique key of the extranet coin mapped, eg: 0x1b793E49237758dBD8b752AFC9Eb4b329d5Da016 | String |
 | url | necessary | apiUrl your gateway provided | String |
 
@@ -64,6 +64,11 @@ Prepare the profile with json-type and logo image.
     > Note: We consider projects that fill in the `website`,`whitepaper`,`github` fields to be generally reliable gateways that do not give warning messages in ViteX.
 
 * `overview`
+    
+    * **en** 
+    * zh
+
+  * `policy`
     
     * **en** 
     * zh
@@ -128,6 +133,8 @@ Prepare the profile with json-type and logo image.
 
 ### Steps to upload
 
+We recommend that you complete the procedures with your developers, or you can follow [Github Guideline](../github-tutorial.en.md) to operate on github web page.
+
 1. Fork the repo to your own github account
 
 2. Clone the repo from your own account, please note: do no clone the origin one directly, but clone the repo you forked
@@ -163,7 +170,11 @@ git commit -m "Add gateway-[gatewayname]"
 git push origin gateway-[gatewayname]
 ```
 
-8. Under your repo page, click the "New pull request" button. Then, attach the detailed gateway informatio, this includes but not limited to the following: (Gateway name;  Gateway original applicant name; Real name of submitter; Contact information).
+8. Under your repo page, click the "New pull request" button. Then, attach the detailed gateway informatio, this includes but not limited to the following: 
+  * Name of gateway
+  * Applicant's legal name of gateway
+  * Legal name of submitter
+  * Contacts
 
    Sample PR: https://github.com/vitelabs/crypto-info/pull/xxx
 
