@@ -64,7 +64,6 @@ Prepare the profile with json-type and logo image.
 
 ##### Example:
 
-::: demo
 ```json 
 {
     "tokenId": "tti_b90c9baffffc9dae58d1f33f",
@@ -85,7 +84,6 @@ Prepare the profile with json-type and logo image.
 }
 
 ```
-:::
 
 
 ## Steps to upload

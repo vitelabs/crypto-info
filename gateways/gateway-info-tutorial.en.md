@@ -67,8 +67,10 @@ Prepare the profile with json-type and logo image.
     
     * **en** 
     * zh
+  
+    > Note: Providing an English version is essential.
 
-  * `policy`
+* `policy`
     
     * **en** 
     * zh
@@ -79,7 +81,7 @@ Prepare the profile with json-type and logo image.
 
 
 ##### Example:
-::: demo
+
 ```json
 {
 	"name":"Vite Labs",
@@ -128,7 +130,6 @@ Prepare the profile with json-type and logo image.
 }
 
 ```
-:::
 
 
 ### Steps to upload

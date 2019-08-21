@@ -36,13 +36,17 @@ Make sure all the files were under the directory with the format-required name o
 1. Fork the repo to your own github account.
     ![Github Fork](./assets/images/github1.png)
 
+
+
 2. Upload your files, make sure you are at the right path.
 
 * Click the `Upload files` button.
     ![Github Upload 1](./assets/images/github2.png)
 
+
 *  Make sure you are at the right path, drag local files or directory to the designated area, attach the detailed commit information, then click the `Commit changes` button to push and update your own fork.
     ![Github Upload 2](./assets/images/github3.png)
+
     * Token commit information: add token [token_symbol] [tti_xxx]
 
         * Project basic information
@@ -56,11 +60,13 @@ Make sure all the files were under the directory with the format-required name o
         * Applicant's legal name of gateway
         * Legal name of submitter
         * Contacts
+
     * Operator commit information: add operator [Operator Name] [vite_xxx]
 
         * Operator name
         * Operator address on vite blockchain
         * Contacts
+
 
 4. Pull request to `github.com/vitelabs/crypto-info`.
 

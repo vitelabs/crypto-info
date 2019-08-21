@@ -59,7 +59,6 @@ Prepare the profile with json-type and logo image.
 
 ##### Example:
 
-::: demo
 ```json 
 {
 	"name":"Vite Labs",
@@ -81,7 +80,6 @@ Prepare the profile with json-type and logo image.
 }
 
 ```
-:::
 
 ## Steps to upload
 
