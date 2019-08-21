@@ -4,11 +4,7 @@
 
 * LOGO IMAGE
 * JSON FILE
->  NOTE: Please ensure to use UTF-8 encoding in the json file to avoid Travis-CI build error. Please check the template file to fill in the complete information: 
-    
-    `token`[[$template.json](../tokens/$template.json)]  
-    `gateway`[[$template.json](../gateways/$template.json)]  
-    `operator`[[$template.json](../operators/$template.json)]  
+>  NOTE: Please ensure to use UTF-8 encoding in the json file to avoid Travis-CI build error. Please check the template file to fill in the complete information: [token-template](./tokens/$template.json)  [gateway-template](./gateways/$template.json)  [operator-template](./operators/$template.json)
 
 Make sure all the files were under the directory with the format-required name on your own operating system. 
   For example:
