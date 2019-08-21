@@ -43,6 +43,24 @@ Make sure all the files were under the directory with the format-required name o
 
 *  Make sure you are at the right path, drag local files or directory to the designated area, attach the detailed commit information, then click the `Commit changes` button to push and update your own fork.
     ![Github Upload 2](./assets/images/github3.png)
+    * Token commit information: add token [token_symbol] [tti_xxx]
+
+        * Project basic information
+        * Project team background
+        * Purpose of coinage
+        * Contacts
+
+    * Gateway commit information: add gateway [Gateway Name]
+
+        * Name of gateway
+        * Applicant's legal name of gateway
+        * Legal name of submitter
+        * Contacts
+    * Operator commit information: add operator [Operator Name] [vite_xxx]
+
+        * Operator name
+        * Operator address on vite blockchain
+        * Contacts
 
 4. Pull request to `github.com/vitelabs/crypto-info`.
 

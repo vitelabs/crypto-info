@@ -123,7 +123,7 @@ ti_b90c9baffffc9dae58d1f33f.png
   For example:
 ```
 git add -A
-git commit -m "Add token-[tti_xxx]"
+git commit -m "add token [token_symbol] [tti_xxx]"
 git push origin token-[tti_xxx]
 ```
 

@@ -118,7 +118,7 @@ vite_050697d3810c30816b005a03511c734c1159f50907662b046f.png
   For example:
 ```
 git add -A
-git commit -m "Add operator-[vite_xxx]"
+git commit -m "add operator [Operator Name] [vite_xxx]"
 git push origin operator-[vite_xxx]
 ```
 

@@ -166,7 +166,7 @@ vite-labs.png
   For example:
 ```
 git add -A
-git commit -m "Add gateway-[gatewayname]"
+git commit -m "add gateway [Gateway Name]"
 git push origin gateway-[gatewayname]
 ```
 
