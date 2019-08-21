@@ -5,6 +5,7 @@
 * LOGO IMAGE
 * JSON FILE
 >  NOTE: Please ensure to use UTF-8 encoding in the json file to avoid Travis-CI build error. Please check the template file to fill in the complete information: 
+    
     `token`[[$template.json](../tokens/$template.json)]  
     `gateway`[[$template.json](../gateways/$template.json)]  
     `operator`[[$template.json](../operators/$template.json)]  
@@ -12,27 +13,27 @@
 Make sure all the files were under the directory with the format-required name on your own operating system. 
   For example:
 
-::: demo
-```json tab:token
+`token`
+``` 
     ../btc/
 
     tti_b90c9baffffc9dae58d1f33f.json
     ti_b90c9baffffc9dae58d1f33f.png
 ```
-
-```json tab:gateway
+`gateway`
+``` 
     ../vite-labs/
 
     vite-labs.json
     vite-labs.png
 ```
-```json tab:operator
+`operator`
+``` 
     ../vite_050697d3810c30816b005a03511c734c1159f50907662b046f/
 
     vite_050697d3810c30816b005a03511c734c1159f50907662b046f.json
     vite_050697d3810c30816b005a03511c734c1159f50907662b046f.png
 ```
-:::
 
 ## How to fork your own repository on GitHub and pull request. 
 
