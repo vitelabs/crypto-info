@@ -37,26 +37,26 @@ Make sure all the files were under the directory with the format-required name o
 ## How to fork your own repository on GitHub and pull request. 
 
 1. Fork the repo to your own github account.
-    ![Github Fork](../assets/images/github1.png)
+    ![Github Fork](./assets/images/github1.png)
 
 2. Upload your files, make sure you are at the right path.
 
 * Click the `Upload files` button.
-    ![Github Upload 1](../assets/images/github2.png)
+    ![Github Upload 1](./assets/images/github2.png)
 
 *  Make sure you are at the right path, drag local files or directory to the designated area, attach the detailed commit information, then click the `Commit changes` button to push and update your own fork.
-    ![Github Upload 2](../assets/images/github3.png)
+    ![Github Upload 2](./assets/images/github3.png)
 
 4. Pull request to `github.com/vitelabs/crypto-info`.
 
 * Check if your commit record exists, then click the `New pull request` button.
-    ![Github Pull Request 1](../assets/images/github4.png)
+    ![Github Pull Request 1](./assets/images/github4.png)
 
 * Click the `Create pull request` button.
-    ![Github Pull Request 2](../assets/images/github5.png)
+    ![Github Pull Request 2](./assets/images/github5.png)
 
 * You can check and modify your commit information again.
-    ![Github Pull Request 3](../assets/images/github6.png)
+    ![Github Pull Request 3](./assets/images/github6.png)
 
 * It’s already submitted successfully here, you can contract us to merge your pull request.
-    ![Github Pull Request 4](../assets/images/github7.png)
+    ![Github Pull Request 4](./assets/images/github7.png)
