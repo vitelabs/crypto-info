@@ -1,1 +1,14 @@
-
+{
+    "tokenId": "tti_9f6004f13ffbcc207692c6f4",
+    "overview":{
+        "en":"The Bi23 team issued the BITT (Bi_Two_Three) on the Vite, mainly serving community users in the Vite  ecosystem,  total circulation of 10 million (never added, no pre-release)",
+        "zh":"Bi23团队在Vite公链上发行代号为BITT（Bi_Two_Three）代币，目前主要服务于Vite公链生态中社区用户,总发行量1000万枚（恒定永不增发，无预先释放）"
+    },
+    "links":{
+        "website":["https://bi23.com"],
+        "whitepaper":["https://bi23.com/bitt"]
+        "twitter":["https://twitter.com/bi23com"],
+        "github":["https://github.com/bi23com"],
+        "email":["support@bi23.com"]
+    }
+}
