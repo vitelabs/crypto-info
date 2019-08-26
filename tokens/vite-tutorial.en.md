@@ -9,7 +9,7 @@ Prepare the profile with json-type and logo image.
 `LOGO IMAGE`
 
 - Image format: `png` `transparent background`
-- Image size: `20x20 pixels`
+- Image size: `200x200 pixels`
 
 `JSON FILE`
 
