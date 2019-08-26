@@ -9,7 +9,6 @@
         "whitepaper":["https://cosmos.network/resources/whitepaper"],
         "explorer":["https://cosmos.bigdipper.live"],
         "twitter":["https://twitter.com/cosmos"],
-        "github":["https://github.com/cosmos/launch"],
-        "facebook":["https://www.facebook.com/tether.to"]
+        "github":["https://github.com/cosmos/launch"]
     }
 }
