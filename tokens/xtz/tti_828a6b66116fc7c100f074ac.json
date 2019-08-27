@@ -1,0 +1,13 @@
+{
+    "tokenId": "tti_828a6b66116fc7c100f074ac",
+    "overview":{
+        "zh":"Tezos(XTZ) 是一个新的去中心化公有区块链项目。他的特点是支持智能合约，拥有自己创建的智能合约语言，首次提出了通过数学证明的代码自制交易和网络共识机制，以解决目前棘手的网络升级分叉问题。",
+        "en":"Tezos is an open-source platform for assets and applications backed by a global community of validators, researchers, and builders."
+    },
+    "links":{
+        "website":["https://tezos.com"],
+        "whitepaper":["https://tezos.com/static/white_paper-2dc8c02267a8fb86bd67a108199441bf.pdf"],
+        "explorer":["https://tzscan.io"],
+        "github":["https://github.com/tacoinfra/developers.tezos.com"]
+    }
+}

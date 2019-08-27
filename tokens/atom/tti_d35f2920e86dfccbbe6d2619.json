@@ -1,0 +1,14 @@
+{
+    "tokenId": "tti_d35f2920e86dfccbbe6d2619",
+    "overview":{
+        "zh":"Cosmos项目的目标是通过实现代币转移这样一个基础的功能最终实现“区块链的互联网”，并构造一个深度集成的代币经济生态系统。Cosmos Hub 是Cosmos 生态的第一个跨链Hub, ATOM是Cosmos Hub的质押权益代币",
+        "en":"The Cosmos Hub is the first of thousands of interconnected blockchains that will eventually comprise the Cosmos Network. The primary token of the Cosmos Hub is the ATOM, but the Hub will support many tokens in the future"
+    },
+    "links":{
+        "website":["https://hub.cosmos.network"],
+        "whitepaper":["https://cosmos.network/resources/whitepaper"],
+        "explorer":["https://cosmos.bigdipper.live"],
+        "twitter":["https://twitter.com/cosmos"],
+        "github":["https://github.com/cosmos/launch"]
+    }
+}

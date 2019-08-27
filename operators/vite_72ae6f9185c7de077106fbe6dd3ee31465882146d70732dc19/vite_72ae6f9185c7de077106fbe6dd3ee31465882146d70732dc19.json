@@ -1,0 +1,16 @@
+{
+	"name":"Bi23",
+       	"address":"vite_72ae6f9185c7de077106fbe6dd3ee31465882146d70732dc19",
+        "overview": {
+            "zh": "Bi23团队目前已经成为Cosmos、IRISnet、Tezos、Terra、Vite等知名公链的超级节点和验证人，致力于为用户提供安全、便捷、收益更多的委托抵押和DeFi服务。",
+            "en": "Bi23 focuses on the blockchain and Crypto-Assets, providing customers with Staking and DeFi services."
+        },
+        "links": {
+            "website":["https://bi23.com"],
+						"twitter":["https://twitter.com/bi23com"],
+						"github":["https://github.com/bi23com"],
+						"email":["support@bi23.com"]
+        },
+        "support":"support@bi23.com",
+        "gateway":"Bi23"
+}
