@@ -4,7 +4,7 @@
 
 ### Information Preparation
 
-Prepare the profile with json-type and logo image.
+Prepare submission documents under the following requirements.
 
 `LOGO IMAGE`
 
@@ -22,7 +22,7 @@ Prepare the profile with json-type and logo image.
 | support | necessary | customer service, eg: support@*****.com | String |
 | gatewayTokens | necessary | details of extranet coin mapped | Map<String,GatewayMappedTokenDetail> |
 
-> Filename in the `lowercase` format, string join with `-`, same name for both .json and .png (Including capitalization), eg: Vite Labs -> vite-labs, vite-labs.json | vite-labs.png
+> Filename should be your gateway name in all `lowercase` letters and the string must be join with `-`, same name for both .json and .png (Including capitalization), eg: Vite Labs -> vite-labs, vite-labs.json | vite-labs.png
 
 #### GatewayMappedTokenDetail
 
