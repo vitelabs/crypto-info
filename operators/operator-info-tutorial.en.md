@@ -8,8 +8,10 @@ Prepare submission documents under the following requirements.
 
 `LOGO IMAGE`
 
-- Image format: `png` `transparent background`
+- Image format: `png`
 - Image size: `200x200 pixels`
+
+![Icon Specification](../assets/images/icon-specification.jpg)
 
 `JSON FILE`
 
