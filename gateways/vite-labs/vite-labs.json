@@ -1,7 +1,7 @@
 {
 	"name":"Vite Labs",
     "policy":{
-    	"en":"https://x.vite.net/privacy.html"
+    	"en":"https://x.vite.net/viteLabsGatePrivacy.html"
     },
     "overview":{
     	"zh":"Vite Labs官方网关，负责BTC、ETH、USDT(ERC20)、GRIN四种代币跨链服务",
