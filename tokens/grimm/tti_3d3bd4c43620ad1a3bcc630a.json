@@ -1,0 +1,14 @@
+{
+    "tokenId": "tti_3d3bd4c43620ad1a3bcc630a",
+    "overview":{
+        "en":"Grimm is developed based on Baldwin and Clark’s concept of Modularity: Breaking a technology or process into functionally relevant components.In a Grimm structure, modules can easily be addaed or swapped out, upgraded, and adapted in different ways for different systems.Enhanced Privacy and Scalability resulted from the implementation of magic Mimblewimble protocol.No founders TAX. All mining rewards go directly to the miners. No ICO, STO, IEO, Premine. No transaction fees.Built-in GPU and CPU mining capabilities enables Two-click mining.",
+        "zh":"Grimm的技术理念来源于Baldwin和Clark的模块化概念（Modularity）。该结构特点为将某一技术或流程分解为功能相关的组件。在Grimm结构中，模块可以很容易地添加或交换、升级，并以不同的方式适应不同的系统。MimbleWimble协议的实现保证了Grimm的隐私性和可伸缩性。创始团队不收取提成，矿工获得全部挖矿奖励。没有ICO, STO, IEO, Premine，无交易手续费。钱包内置GPU、CPU挖矿功能，点击两下轻松实现挖矿。"    },
+    "links":{
+        "website":["https://grimmw.com/"],
+        "explorer":["https://explorer.grimmw.com/"],
+        "github":["https://github.com/freenetcoder/"],
+        "telegram":["https://t.me/grimmw/"],
+	    "twitter":["https://twitter.com/grimmwcom/"],
+        "discord":["https://discordapp.com/invite/XKgPPW2/"]
+    }
+}
