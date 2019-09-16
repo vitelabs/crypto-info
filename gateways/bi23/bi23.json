@@ -4,8 +4,8 @@
     	"en":"https://bi23.com/privacy.html"
     },
     "overview":{
-    	"zh":"Bi23团队致力于为Vite公链社区用户提供安全、快捷的跨链服务，目前已支持三种代币: ATOM（Cosmos）、IRIS（IRISnet）、XTZ（Tezos）等跨链服务",
-    	"en":"The gateway provided by Bi23.com , running cross-chain services for three coins: ATOM(Cosmos),IRIS(IRISnet),XTZ(Tezos)"
+    	"zh":"Bi23团队是一支有深厚扎实的技术开发经验的团队，专注于跨链资产研究，提供给用户安全、便捷的质押奖励服务和去中心化金融服务。目前Bi23不仅是Vite的超级节点，也是ViteX的运营商，积极深入的活跃在Vite生态建设及共识增加的事业中。Bi23亦是Cosmos、IRISnet、Tezos和Terra等项目的激活验证节点，这也证实了Bi23雄厚的技术背景和在加密货币领域的丰富经验。",
+    	"en":"Bi23 team is an expericenced team in blockchain fields , focus on the Crypto-Assets, providing customers with Staking and DeFi services. Bi23 is not only the Third supernode of Vite, but also the operator of ViteX , through which we deeply participate in the construction of vite ecology and increasing consensus. Besides, Bi23 also are the active validators of Cosmos、IRISnet、Tezos and Terra , which proves Bi23's strong technical background and rich experiences in the field of Crypto-Assets."
     },
     "links": {
       "website":["https://bi23.com"],
