@@ -13,6 +13,7 @@
       "whitepaper":["https://github.com/vitelabs/whitepaper/"]
     },
     "support":"gateway@vite.org",
+    "serviceSupport":"https://vitex.zendesk.com/hc/en-001/requests/new",
     "gatewayTokens":{
     	"tti_687d8a93915393b219212c73":{
 			"mappedSymbol": "ETH",
