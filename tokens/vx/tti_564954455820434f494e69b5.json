@@ -6,9 +6,9 @@
     },
     "links":{
         "website":["https://vitex.net/"],
-        "whitepaper":["https://vite.wiki/dex/#highlights"],
-	    "twitter":["https://twitter.com/ViteXExchange"],
+        "whitepaper":["https://vite.wiki/dex/"],
+	    "twitter":["https://twitter.com/ViteXExchange/"],
         "explorer":["https://explorer.vite.net/"],
-        "github":["https://github.com/vitelabs"]
+        "github":["https://github.com/vitelabs/"]
     }
 }
