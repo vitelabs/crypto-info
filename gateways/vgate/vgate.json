@@ -40,6 +40,12 @@
             "mappedSymbol": "ERGO",
             "mappedTokenId": "",
             "url": "https://gateway.vgate.io/ergo/"
-	    }
+        },
+        "tti_f7e187a151e9c74b81e87cce":{
+            "mappedNet": "BEAM",
+            "mappedSymbol": "BEAM",
+            "mappedTokenId": "",
+            "url": "https://gateway.vgate.io/beam/"
+        }
     }
 }
