@@ -1,0 +1,16 @@
+{
+    "tokenId": "tti_bab0590655709032c865836f",
+    "overview":{
+        "en":"A secured Web 3.0 platform designed for enterprise-grade decentralized applications. Dune Network intends to become the most secure, and viable, Blockchain platform for business applications. Dune Network is, both, a public ledger that uses a working Liquid Delegated Proof-of-Stake (LDPOS) with its Dune (DUN) token, and a free software platform that can be used to instantiate private blockchains, with a focus on security, correctness and ergonomy.",
+        "zh":"Dune network是为企业级去中心化应用程序设计的Web 3.0平台，致力于成为最安全且长期可行的区块链商业应用平台。Dune既是一个在流动共识(LDPOS)支持下使用Dun通证的公共账本，也是一个可以实例化私有区块链，强调起安全、准确、和功能分化特性的免费软件平台。"
+    },
+    "links":{
+        "website":["https://dune.network/"],
+        "explorer":["https://dunscan.io/"],
+	    "github":["https://gitlab.com/dune-network"],
+	    "twitter":["https://twitter.com/dune_network"],
+	    "reddit":["https://www.reddit.com/r/dune_network/"],
+        "telegram":["https://t.me/dune_network"],
+        "discord":["https://discordapp.com/invite/JBUGqFg"]
+    }
+}
