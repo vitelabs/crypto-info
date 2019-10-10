@@ -46,6 +46,12 @@
             "mappedSymbol": "BEAM",
             "mappedTokenId": "",
             "url": "https://gateway.vgate.io/beam/"
+        },
+        "tti_bab0590655709032c865836f":{
+            "mappedNet": "DUNE",
+            "mappedSymbol": "DUNE",
+            "mappedTokenId": "",
+            "url": "https://gateway.vgate.io/dune/"
         }
     }
 }
