@@ -38,6 +38,12 @@
 			"mappedNet": "GRIN",
 			"mappedTokenId": "",
 			"url": "https://gate.vite.net/gateway/grin/"
-    	}
+		},
+		"tti_2f875c97d3a51b66a59c4411":{
+			"mappedSymbol": "ANKR",
+			"mappedNet": "ETH",
+			"mappedTokenId": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4",
+			"url": "https://crosschain.vite.net/gateway/eth"
+		}
     }
 }
