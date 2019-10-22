@@ -1,0 +1,14 @@
+{
+    "tokenId": "tti_815d918b397f85f70dda2694",
+    "overview":{
+        "en":"PFCT is the pegged token of the Factom protocol token FCT, and it is acquired through either burning FCT or trading in the market.",
+        "zh":"pFCT是factom协议币FCT的锚定币，通过单向销毁FCT或从市场交易获得，在Pegnet代币网络中流通交易。"
+    },
+    "links":{
+        "website":["https://pegnet.org/"],
+        "explorer": ["https://pegnetmarketcap.com/"],
+        "twitter":["https://twitter.com/PegNetNews"],
+        "reddit":["https://www.reddit.com/r/PegNet/"],
+        "bitcointalk":["https://bitcointalk.org/index.php?topic=5174967.0"]
+     }
+}
