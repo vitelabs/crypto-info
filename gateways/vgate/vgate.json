@@ -52,6 +52,12 @@
             "mappedSymbol": "DUNE",
             "mappedTokenId": "",
             "url": "https://gateway.vgate.io/dune/"
+        },
+        "tti_dfa872e9f0fccb1cc08502dd":{
+            "mappedNet": "PEGNET",
+            "mappedSymbol": "PEG",
+            "mappedTokenId": "PEG",
+            "url": "https://gateway.vgate.io/pegnet"
         }
     }
 }
