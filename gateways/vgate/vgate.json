@@ -58,6 +58,12 @@
             "mappedSymbol": "PEG",
             "mappedTokenId": "PEG",
             "url": "https://gateway.vgate.io/pegnet"
+        },
+        "tti_815d918b397f85f70dda2694":{
+            "mappedNet": "PEGNET",
+            "mappedSymbol": "pFCT",
+            "mappedTokenId": "pFCT",
+            "url": "https://gateway.vgate.io/pegnet"
         }
     }
 }
