@@ -4,9 +4,9 @@
 	    "en":"Vite describes itself as a public chain designed to provide a fast and feeless payment network and low-cost dApp platform for use in enterprise-grade applications. Vite uses a Directed Acyclic Graph (DAG) architecture with delegated Proof-of-Stake consensus algorithm. To reduce the security risks associated with DAG, Vite incorporates its Snapshot Chain technology."
     },
     "links":{
-        "website":["https://vite.org/","https://vitescan.io/"],
+        "website":["https://vite.org/"],
         "whitepaper":["https://github.com/vitelabs/whitepaper"],
-        "explorer":["https://explorer.vite.net/"],
+        "explorer":["https://explorer.vite.net/","https://vitescan.io/"],
         "github":["https://github.com/vitelabs"],
 	    "facebook":["https://www.facebook.com/vitelabs/"],
 	    "twitter":["https://twitter.com/vitelabs/"],
