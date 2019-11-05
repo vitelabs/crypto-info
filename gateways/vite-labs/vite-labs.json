@@ -44,6 +44,12 @@
 			"mappedNet": "ETH",
 			"mappedTokenId": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4",
 			"url": "https://crosschain.vite.net/gateway/eth"
+		},
+		"tti_c8c9ad17bc7b45e38eb88a44":{
+			"mappedSymbol": "BUSD",
+			"mappedNet": "ETH",
+			"mappedTokenId": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+			"url": "https://crosschain.vite.net/gateway/busd"
 		}
     }
 }
