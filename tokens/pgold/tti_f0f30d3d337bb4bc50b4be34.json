@@ -1,0 +1,16 @@
+{
+    "tokenId": "tti_f0f30d3d337bb4bc50b4be34",
+    "overview":{
+        "en":"pGold is the pegged token of Gold that circulates in the PegNet work.",
+        "zh":"pGold是Pegnet代币网络中黄金的锚定币。"
+    },
+    "links":{
+        "website":["https://pegnet.org/"],
+        "explorer": ["https://pegnetmarketcap.com/"],
+        "github":["https://github.com/pegnet"],
+        "twitter":["https://twitter.com/PegNetNews"],
+        "reddit":["https://www.reddit.com/r/PegNet/"],
+        "bitcointalk":["https://bitcointalk.org/index.php?topic=5174967.0"],
+        "faq":["https://pegnet.org/docs/faq.html"]
+     }
+}
