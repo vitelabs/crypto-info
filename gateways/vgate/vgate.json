@@ -70,6 +70,12 @@
             "mappedSymbol": "pUSD",
             "mappedTokenId": "pUSD",
             "url": "https://gateway.vgate.io/pegnet"
+        },
+        "tti_3cc6dddfb53f3cc5fbb4e7a4":{
+            "mappedNet": "PEGNET",
+            "mappedSymbol": "pGOLD",
+            "mappedTokenId": "pGOLD",
+            "url": "https://gateway.vgate.io/pegnet"
         }
     }
 }
