@@ -1,0 +1,16 @@
+{
+    "tokenId": "tti_4a04203e28bb8f3dc3d8f9b1",
+    "overview":{
+        "en":"Ripple (XRP) is an independent digital asset that is native to the Ripple Consensus Ledger. With proven governance and the fastest transaction confirmation of its kind, XRP is said to be the most efficient settlement option for financial institutions and liquidity providers seeking global reach, accessibility and fast settlement finality for interbank flows.",
+        "zh":"瑞波币是由OpenCoin公司发行的虚拟货币，称作Ripple Credits，又称作XRP，中文名为瑞波币。Ripple是世界上第一个开放的支付网络，通过这个支付网络可以转账任意一种货币，简便易行快捷，交易确认在几秒以内完成，交易费用几乎是零，没有所谓的跨行异地以及跨国支付费用。"
+    },
+    "links":{
+        "website":["https://ripple.com/xrp/"],
+        "explorer":["https://xrpcharts.ripple.com/#/graph/"],
+        "github":["https://github.com/ripple/"],
+        "reddit":["https://reddit.com/r/ripple"],
+        "forum":["http://www.xrpchat.com/"],
+        "twitter":["https://twitter.com/Ripple"],
+        "telegram":["https://t.me/Ripple"]
+    }
+}
