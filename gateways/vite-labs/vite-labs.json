@@ -56,6 +56,13 @@
 			"mappedSymbol": "XRP",
 			"mappedTokenId": "",
 			"url": "https://crosschain.vite.net/gateway/xrp"
+		},
+		"tti_9b8b779b0ca5b55464e1cfda":{
+			"gateway": "Vite Labs",
+			"mappedNet": "EOS",
+			"mappedSymbol": "EOS",
+			"mappedTokenId": "",
+			"url": "https://crosschain.vite.net/gateway/eos"
 		}
     }
 }
