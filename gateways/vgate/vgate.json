@@ -76,6 +76,12 @@
             "mappedSymbol": "pGOLD",
             "mappedTokenId": "pGOLD",
             "url": "https://gateway.vgate.io/pegnet"
+        },
+        "tti_52278701cf99308c8775337e":{
+            "mappedNet": "LITECASH",
+            "mappedSymbol": "CASH",
+            "mappedTokenId": "",
+            "url": "https://gateway.vgate.io/litecash"
         }
     }
 }
