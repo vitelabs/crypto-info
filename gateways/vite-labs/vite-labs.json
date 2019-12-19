@@ -58,11 +58,16 @@
 			"url": "https://crosschain.vite.net/gateway/xrp"
 		},
 		"tti_9b8b779b0ca5b55464e1cfda":{
-			"gateway": "Vite Labs",
 			"mappedNet": "EOS",
 			"mappedSymbol": "EOS",
 			"mappedTokenId": "",
 			"url": "https://crosschain.vite.net/gateway/eos"
+		},
+		"tti_3fa548491ae1309fb6045786":{
+			"mappedNet": "WAVES",
+			"mappedSymbol": "WAVES",
+			"mappedTokenId": "",
+			"url": "https://crosschain.vite.net/gateway/waves"
 		}
     }
 }
