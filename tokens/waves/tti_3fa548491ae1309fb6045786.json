@@ -8,10 +8,10 @@
         "website":["https://wavesplatform.com/"],
         "github":["https://github.com/wavesplatform/"],
         "explorer":["http://wavesexplorer.com/"],
-        "telegram":[" https://telegram.me/wavesnews"],
+        "telegram":["https://telegram.me/wavesnews"],
         "discrod":["https://discordapp.com/invite/cnFmDyA"],
         "forum":["https://forum.wavesplatform.com/"],
         "twitter":["https://twitter.com/wavesplatform"],
-        "reddit":[" https://reddit.com/r/Wavesplatform"]
+        "reddit":["https://reddit.com/r/Wavesplatform"]
     }
 }
