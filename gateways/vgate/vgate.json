@@ -82,6 +82,12 @@
             "mappedSymbol": "CASH",
             "mappedTokenId": "",
             "url": "https://gateway.vgate.io/litecash"
+        },
+        "tti_798de164753adddd70876a91":{
+            "mappedNet": "XBG",
+            "mappedSymbol": "XBG",
+            "mappedTokenId": "",
+            "url": "https://gateway.vgate.io/gateway/bitgrin"
         }
     }
 }
