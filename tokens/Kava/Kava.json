@@ -1,0 +1,14 @@
+{
+    "tokenId": "tti_096d6c6237189f268516aa12",
+    "overview":{
+        "zh":"Kava是基于cosmos hub的一个去中心化金融项目, $KAVA就是Kava项目的质押权益代币",
+        "en":"Kava is a decentralized financial project based on Cosmos hub, $kava is the token of kava project."
+    },
+    "links":{
+        "website":["https://kava.io"],
+        "whitepaper":["https://docsend.com/view/gwbwpc3"],
+        "explorer":["https://kava.bigdipper.live"],
+        "twitter":["https://twitter.com/kava_labs"],
+        "github":["https://github.com/kava-labs"]
+    }
+}
