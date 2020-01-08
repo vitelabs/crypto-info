@@ -68,6 +68,12 @@
 			"mappedSymbol": "WAVES",
 			"mappedTokenId": "",
 			"url": "https://crosschain.vite.net/gateway/waves"
+		},
+		"tti_c05c2c2fb8f6b428e3d60b04":{
+			"mappedSymbol": "TRB",
+			"mappedNet": "ETH",
+			"mappedTokenId": "0x0ba45a8b5d5575935b8158a88c631e9f9c95a2e5",
+			"url": "https://crosschain.vite.net/gateway/eth"
 		}
     }
 }
