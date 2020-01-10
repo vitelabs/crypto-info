@@ -1,7 +1,7 @@
 {
 	"name":"Vite Labs",
     "policy":{
-    	"en":"https://x.vite.net/privacy.html"
+    	"en":"https://x.vite.net/viteLabsGatePrivacy.html"
     },
     "overview":{
     	"zh":"Vite Labs官方网关，负责BTC、ETH、USDT(ERC20)、GRIN四种代币跨链服务",
@@ -13,6 +13,7 @@
       "whitepaper":["https://github.com/vitelabs/whitepaper/"]
     },
     "support":"gateway@vite.org",
+    "serviceSupport":"https://vitex.zendesk.com/hc/en-001/requests/new",
     "gatewayTokens":{
     	"tti_687d8a93915393b219212c73":{
 			"mappedSymbol": "ETH",
@@ -37,6 +38,42 @@
 			"mappedNet": "GRIN",
 			"mappedTokenId": "",
 			"url": "https://gate.vite.net/gateway/grin/"
-    	}
+		},
+		"tti_2f875c97d3a51b66a59c4411":{
+			"mappedSymbol": "ANKR",
+			"mappedNet": "ETH",
+			"mappedTokenId": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4",
+			"url": "https://crosschain.vite.net/gateway/eth"
+		},
+		"tti_c8c9ad17bc7b45e38eb88a44":{
+			"mappedSymbol": "BUSD",
+			"mappedNet": "ETH",
+			"mappedTokenId": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+			"url": "https://crosschain.vite.net/gateway/eth"
+		},
+		"tti_4a04203e28bb8f3dc3d8f9b1":{
+			"mappedNet": "XRP",
+			"mappedSymbol": "XRP",
+			"mappedTokenId": "",
+			"url": "https://crosschain.vite.net/gateway/xrp"
+		},
+		"tti_9b8b779b0ca5b55464e1cfda":{
+			"mappedNet": "EOS",
+			"mappedSymbol": "EOS",
+			"mappedTokenId": "",
+			"url": "https://crosschain.vite.net/gateway/eos"
+		},
+		"tti_3fa548491ae1309fb6045786":{
+			"mappedNet": "WAVES",
+			"mappedSymbol": "WAVES",
+			"mappedTokenId": "",
+			"url": "https://crosschain.vite.net/gateway/waves"
+		},
+		"tti_c05c2c2fb8f6b428e3d60b04":{
+			"mappedSymbol": "TRB",
+			"mappedNet": "ETH",
+			"mappedTokenId": "0x0ba45a8b5d5575935b8158a88c631e9f9c95a2e5",
+			"url": "https://crosschain.vite.net/gateway/eth"
+		}
     }
 }

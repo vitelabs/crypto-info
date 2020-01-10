@@ -1,0 +1,16 @@
+{
+    "tokenId": "tti_c1968fde12be9bc60e56a055",
+    "overview":{
+        "en":"pUSD is the pegged token of US Dollar that circulates in the PegNet work.",
+        "zh":"pUSD是在Pegnet代币网络中流通的美元锚定币。"
+    },
+    "links":{
+        "website":["https://pegnet.org/"],
+        "explorer": ["https://pegnetmarketcap.com/"],
+        "github":["https://github.com/pegnet"],
+        "twitter":["https://twitter.com/PegNetNews"],
+        "reddit":["https://www.reddit.com/r/PegNet/"],
+        "bitcointalk":["https://bitcointalk.org/index.php?topic=5174967.0"],
+        "faq":["https://pegnet.org/docs/faq.html"]
+     }
+}

@@ -10,6 +10,7 @@
         "website":["https://vgate.io/"]
     },
     "support":"vgateservice@gmail.com",
+    "serviceSupport":"https://vgate.zendesk.com/hc/en-us/requests/new",
      "gatewayTokens":{
         "tti_60e20567a20282bfd25ab56c":{
             "mappedNet": "TERA",
@@ -40,6 +41,60 @@
             "mappedSymbol": "ERGO",
             "mappedTokenId": "",
             "url": "https://gateway.vgate.io/ergo/"
-	    }
+        },
+        "tti_f7e187a151e9c74b81e87cce":{
+            "mappedNet": "BEAM",
+            "mappedSymbol": "BEAM",
+            "mappedTokenId": "",
+            "url": "https://gateway.vgate.io/beam/"
+        },
+        "tti_bab0590655709032c865836f":{
+            "mappedNet": "DUNE",
+            "mappedSymbol": "DUNE",
+            "mappedTokenId": "",
+            "url": "https://gateway.vgate.io/dune/"
+        },
+        "tti_dfa872e9f0fccb1cc08502dd":{
+            "mappedNet": "PEGNET",
+            "mappedSymbol": "PEG",
+            "mappedTokenId": "PEG",
+            "url": "https://gateway.vgate.io/pegnet"
+        },
+        "tti_815d918b397f85f70dda2694":{
+            "mappedNet": "PEGNET",
+            "mappedSymbol": "pFCT",
+            "mappedTokenId": "pFCT",
+            "url": "https://gateway.vgate.io/pegnet"
+        },
+        "tti_c1968fde12be9bc60e56a055":{
+            "mappedNet": "PEGNET",
+            "mappedSymbol": "pUSD",
+            "mappedTokenId": "pUSD",
+            "url": "https://gateway.vgate.io/pegnet"
+        },
+        "tti_3cc6dddfb53f3cc5fbb4e7a4":{
+            "mappedNet": "PEGNET",
+            "mappedSymbol": "pGOLD",
+            "mappedTokenId": "pGOLD",
+            "url": "https://gateway.vgate.io/pegnet"
+        },
+        "tti_52278701cf99308c8775337e":{
+            "mappedNet": "LITECASH",
+            "mappedSymbol": "CASH",
+            "mappedTokenId": "",
+            "url": "https://gateway.vgate.io/litecash"
+        },
+        "tti_798de164753adddd70876a91":{
+            "mappedNet": "XBG",
+            "mappedSymbol": "XBG",
+            "mappedTokenId": "",
+            "url": "https://gateway.vgate.io/gateway/bitgrin"
+        },
+        "tti_b9d622c68d486aa107a38a16":{
+            "mappedNet": "EPIC",
+            "mappedSymbol": "EPIC",
+            "mappedTokenId": "",
+            "url": "https://gateway.vgate.io/gateway/epic"
+        }
     }
 }

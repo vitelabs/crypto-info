@@ -4,12 +4,15 @@
 
 ### Information Preparation
 
-Prepare the profile with json-type and logo image.
+Prepare submission documents under the following requirements.
 
 `LOGO IMAGE`
 
-- Image format: `png` `transparent background`
-- Image size: `20x20 pixels`
+- Image format: `png`
+- Image size: `200x200 pixels`
+
+![Icon Specification](../assets/images/icon-specification.jpg)
+
 
 `JSON FILE`
 
@@ -20,7 +23,7 @@ Prepare the profile with json-type and logo image.
 | links | optional | website,whitepaper,github, and other media links. | Map<String,List<String>> |
 | initialPrice | optional | the initial price of your token to the base currency | String |
 
-> Filename in the `lowercase` format, named by your tokenId, same name for both .json and .png (Including capitalization), eg: tti_b90c9baffffc9dae58d1f33f.json, tti_b90c9baffffc9dae58d1f33f.png
+> Filename should be your token ID in all `lowercase` letters, same name for both .json and .png (Including capitalization), eg: tti_b90c9baffffc9dae58d1f33f.json, tti_b90c9baffffc9dae58d1f33f.png
 
 #### Keyword in the field  Map-Value above.
 

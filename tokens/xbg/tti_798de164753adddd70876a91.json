@@ -1,0 +1,15 @@
+{
+    "tokenId": "tti_798de164753adddd70876a91",
+    "overview":{
+        "en":"Launched on 31 Jan 2019 by an anonymous team of developers, Bitgrin describes itself as a decentralized, open-source, and privacy-centric cryptocurrency that is built on Mimblewimble. Transactions are private by default. Bitgrin is forked from Grin and has capped its maximum supply at 21,000,000 XBG.",
+        "zh":"XBG是Grin的分叉币，具有匿名性、安全性、拓展性，Bitgrin基于MimbleWimble隐私协议，并结合了比特币分配参数，每4年奖励减少一半。"
+    },
+    "links":{
+        "website":["http://bitgrin.dev/"],
+        "github":["https://github.com/bitgrin/bitgrin"],
+        "explorer":["https://explorer.bitgrin.dev"],
+        "telegram":["https://telegram.me/BitGrinCommunity"],
+        "discrod":["https://discord.gg/VnSdbV4"],
+        "twitter":["https://twitter.com/bitgrin"]
+    }
+}

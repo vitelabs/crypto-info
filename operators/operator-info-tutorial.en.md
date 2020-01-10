@@ -4,12 +4,14 @@
 
 ### Information Preparation
 
-Prepare the profile with json-type and logo image.
+Prepare submission documents under the following requirements.
 
 `LOGO IMAGE`
 
-- Image format: `png` `transparent background`
-- Image size: `20x20 pixels`
+- Image format: `png`
+- Image size: `200x200 pixels`
+
+![Icon Specification](../assets/images/icon-specification.jpg)
 
 `JSON FILE`
 
@@ -21,7 +23,7 @@ Prepare the profile with json-type and logo image.
 | links | optional | website,whitepaper,github, and other media links. | Map<String,List<String>> |
 | support | necessary | customer service, eg: support@*****.com | String |
 
-> Filename in the `lowercase` format, named by your operator address, same name for both .json and .png (Including capitalization), eg: vite_050697d3810c30816b005a03511c734c1159f50907662b046f
+> Filename should be your operator address in all `lowercase` letters, same name for both .json and .png (Including capitalization), eg: vite_050697d3810c30816b005a03511c734c1159f50907662b046f
 
 #### Keyword in the field  Map-Value above.
 

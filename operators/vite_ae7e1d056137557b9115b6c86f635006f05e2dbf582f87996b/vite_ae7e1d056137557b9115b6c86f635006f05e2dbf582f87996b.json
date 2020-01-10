@@ -1,0 +1,12 @@
+{
+    "name":"Roman Labs",
+    "address":"vite_ae7e1d056137557b9115b6c86f635006f05e2dbf582f87996b",
+    "overview": {
+        "en": "As the operator of the Vite Exchange project, Roman Labs will conduct various transactions as an operator after the official launch of Roman Labs. It will assist in the coinage and currency work of common cross-chain currencies and open corresponding trading pairs. Roman Labs aims to play an important role in the Vite ecosystem, enriching the ecology and building the ecology with Vite X.",
+        "zh": "Roman Labs作为Vite交易所项目运营方，在Roman Labs正式上线后会以运营商身份开展各类交易，届时将协助常见跨链币种的铸币及上币工作，并开启相应的交易对。Roman Labs旨在Vite生态发挥重要作用，与Vite X一起丰富生态，建设生态."
+    },
+    "links": {
+    	"website":["http://itdc.top/"],
+        "whitepaper":["http://itdc.top/img/itdc.pdf"]
+    }
+}

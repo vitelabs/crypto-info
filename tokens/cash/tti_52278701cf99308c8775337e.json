@@ -1,0 +1,13 @@
+{
+    "tokenId": "tti_52278701cf99308c8775337e",
+    "overview":{
+        "en":"Litecash (CASH) is the first cryptocurrency that prioritizes user experience. Our goal is to create the most user-friendly wallet. Litecash is open source, peer-to-peer digital cash. Our mission is to achieve mass adoption with real-world use cases on mobile.",
+        "zh":"Litecash (CASH) 是第一个优先用户体验的加密货币，旨在创建最人性化的点对点开源数字钱包。其使命是通过手机移动端实现大规模现实应用。"
+    },
+    "links":{
+        "website":["https://lite.cash/"],
+        "explorer":["http://explorer.lite.cash/explorer/index.php"],
+        "discord":["https://discordapp.com/invite/kga9sg"],
+	    "twitter":["https://twitter.com/mylitecash"]
+    }
+}

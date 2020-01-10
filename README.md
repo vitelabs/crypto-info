@@ -6,7 +6,7 @@ Currently Vite demonstrates information of tokens on Vite chain. To specify the 
 - [Vite Token Profile Guideline](tokens/vite-tutorial.en.md)
 
 ##  Gateways
-Cross-chain Gateways provide a way to transfer digital assets between any chains (Source Chain) and digital assets on the Vite chain (Gateway Tokens). You can create your own gateway. If you want to have a better display on Vite‘s apps, you should specify your gateway's information. For more instructions, please refer to the tutorial here:
+Cross-chain Gateways provide a way to transfer digital assets between any chains (Source Chain) and digital assets on the Vite chain (Gateway Tokens). You can create your own gateway. If you want to build/display a more reliable profile on Vite‘s apps, you should specify your gateway's information. For more instructions, please refer to the tutorial here:
 - [Gateway Profile Guideline](gateways/gateway-info-tutorial.en.md)
 
 

@@ -1,0 +1,17 @@
+{
+    "tokenId": "tti_f7e187a151e9c74b81e87cce",
+    "overview":{
+        "en":"Beam is a cryptocurrency that demonstrates an emphasis on privacy and anonymity with Mimblewimble implementation.Without address information stored on the blockchain and keeping transactions private by default. Beam is meant to give control over privacy to users and scalability in it’s compact design. Having no premine or ICO, Beam is backed by a Treasury and designated a non-profit foundation to govern the protocol.",
+        "zh":"Beam是基于MimbleWimble协议开发的加密货币，具有强隐私性、替代性和扩展性。Beam所有交易都默认是私密的。新节点加入网络无需同步整个交易历史，可以请求同步只包含系统状态的压缩历史记录和区块头，从而实现快速同步。Beam是尝试实现MimbleWimble的新币种，它是从C++中从头开始写的。和Grin相比较，Grin的代币总量是无限的，而Beam代币具有有限的供应及周期性报酬减半。"
+    },
+    "links":{
+        "website":["https://www.beam.mw/"],
+        "explorer":["https://explorer.beam.mw/"],
+        "github":["https://github.com/BeamMW/beam"],
+	    "twitter":["https://twitter.com/beamprivacy"],
+	    "reddit":["https://reddit.com/r/beamprivacy"],
+	    "forum":["https://forum.beam-mw.com/"],
+        "discord":["https://discord.gg/BHZvAhg/"],
+        "telegram":["https://t.me/BeamPrivacy"]
+    }
+}

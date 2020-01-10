@@ -1,0 +1,18 @@
+{
+    "tokenId": "tti_25e5f191cbb00a88a6267e0f",
+    "overview":{
+        "en":"Loopring (LRC) is a decentralized exchange (DEX) protocol offering orderbook-based trading infrastructure with anti-front-running, and zero-knowledge proof-based scaling technologies. This infrastructure consists of open source smart contracts, as well as off-chain matching and proving software. Loopring 3.0, leveraging zero knowledge proofs, reportedly allows for significant throughput increases of non-custodial exchanges while maintaining the security guarantees of the Ethereum blockchain. Loopring also offers an auction protocol called Oedax (Open-Ended Dutch Auction Exchange). LRC is the protocol token that is used on Loopring and Oedax to incentivize network liquidity and optimize exchange/participant behaviour."
+    },
+    "links":{
+        "website":["https://loopring.org"],
+	    "whitepaper":["https://github.com/Loopring/whitepaper/"],
+        "explorer":[
+            "https://etherscan.io/token/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd", 
+            "https://ethplorer.io/address/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd"
+        ],
+        "github":["https://github.com/loopring/"],
+	    "twitter":["https://twitter.com/loopringorg/"],
+	    "reddit":["https://reddit.com/r/loopringorg/"]
+    }
+}
+

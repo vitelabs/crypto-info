@@ -1,0 +1,14 @@
+{
+    "tokenId": "tti_2f875c97d3a51b66a59c4411",
+    "overview":{
+        "en":"Ankr Network aims to establish a more open cloud ecosystem by building a distributed computing platform that could leverage idle computing resources in an efficient marketplace. Noting high margins earned by tech giants involved in the cloud computing industry, the team behind Ankr Network believes there should be a way for researchers, students and startups to access affordable cloud computing in a way that is not centralized.",
+        "zh":"Ankr 是利用密码原语和可信任硬件提供高效计算资源的区块链和集成数据的反馈系统。它利用工作证明（POUW）的共识确立了一个自我可持续的区块链框架，其协议在支持 SGX 的 CPU 上运行，并通过远程证明来确保安全性和机密性。"
+    },
+    "links":{
+        "website":["https://www.ankr.com/"],
+        "explorer":["https://etherscan.io/token/0x8290333cef9e6d528dd5618fb97a76f268f3edd4/"],
+        "github":["https://github.com/Ankr-network/dccn-ui"],
+        "telegram":[" https://telegram.me/ankrnetwork"],
+	    "twitter":["https://twitter.com/ankrnetwork/"]
+    }
+}
