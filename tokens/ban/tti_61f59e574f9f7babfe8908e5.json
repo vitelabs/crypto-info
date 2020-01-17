@@ -10,6 +10,8 @@
         "github":["https://github.com/BananoCoin/banano"],
         "discrod":["https://discordapp.com/invite/SBPaSBS"],
         "telegram":["https://telegram.me/bananocurrency"],
-        "reddit":["https://www.reddit.com/r/banano/"]
+        "reddit":["https://www.reddit.com/r/banano/"],
+        "twitter":["https://twitter.com/bananocoin"],
+        "whitepaper":["https://banano.cc/yellowpaper/"]
     }
 }
