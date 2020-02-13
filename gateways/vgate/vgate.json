@@ -101,6 +101,12 @@
             "mappedSymbol": "BAN",
             "mappedTokenId": "",
             "url": "https://gateway.vgate.io/gateway/ban"
+        },
+        "tti_08afaead8fe29b24b6da330f":{
+            "mappedNet": "IXI",
+            "mappedSymbol": "IXI",
+            "mappedTokenId": "",
+            "url": "https://gateway.vgate.io/gateway/ixian"
         }
     }
 }
