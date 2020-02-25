@@ -1,0 +1,15 @@
+{
+    "tokenId": "tti_ba08360030939f1af8e4db88",
+    "overview":{
+        "en":"Ferrum Network describes itself as an ultra low-cap DeFI project with advanced financial products that will run on top of a DAG-based interoperability network.",
+        "zh":"Ferrum Network，金融领域中的高速跨链网络，致力于解决加密货币在金融领域使用时存在的例如交易成本高，交易速度慢，缺乏主链之间的交互性，对于新手上手难度高等实际问题。它将在其网络之上构建一个金融应用程序，允许用户购买、交换、交易和存储任何数字资产，在几毫秒之内购买商品或者服务。"
+    },
+    "links":{
+        "website":["https://ferrum.network"],
+        "explorer":["https://explorer.vite.net/token/tti_ba08360030939f1af8e4db88"],
+        "telegram":["https://telegram.me/ferrum_network"],
+        "twitter":["https://twitter.com/FerrumNetwork"],
+        "github":["https://github.com/ferrumnet/fenova"],
+        "reddit":["https://www.reddit.com/r/FerrumNetwork/"]
+    }
+}
