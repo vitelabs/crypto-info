@@ -86,6 +86,12 @@
 			"mappedNet": "ETH",
 			"mappedTokenId": "0xe5caef4af8780e59df925470b050fb23c43ca68c",
 			"url": "https://crosschain.vite.net/gateway/eth"
+		},
+		"tti_ccafb1cccca4469271d00241":{
+			"mappedSymbol": "ONE",
+			"mappedNet": "ONE",
+			"mappedTokenId": "",
+			"url": "https://crosschain.vite.net/gateway/harmony"
 		}
     }
 }
