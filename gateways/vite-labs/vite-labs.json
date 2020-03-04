@@ -84,8 +84,14 @@
 		"tti_ba08360030939f1af8e4db88":{
 			"mappedSymbol": "FRM",
 			"mappedNet": "ETH",
-			"mappedTokenId": "0xff4dbfdc99e1635f3f842e43e1812b7ffba0b67f",
+			"mappedTokenId": "0xe5caef4af8780e59df925470b050fb23c43ca68c",
 			"url": "https://crosschain.vite.net/gateway/eth"
+		},
+		"tti_ccafb1cccca4469271d00241":{
+			"mappedSymbol": "ONE",
+			"mappedNet": "ONE",
+			"mappedTokenId": "",
+			"url": "https://crosschain.vite.net/gateway/harmony"
 		}
     }
 }

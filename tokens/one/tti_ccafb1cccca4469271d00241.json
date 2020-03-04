@@ -1,0 +1,15 @@
+{
+  "tokenId": "tti_ccafb1cccca4469271d00241",
+  "overview":{
+    "zh":"Harmony是一个快捷且安全的区块链，为下一代区块链搭建基础设施。Harmony也创造了一个分享数据的开放经济体系，使用户能够分享数据，并且从中获得经济利益，而这一切丝毫不会损耗他们的隐私。Harmony是一个完全开源的平台，其核心创新是状态分片以及P2P网络，支持大规模采用，让分布式构想真正变成现实。",
+    "en":"Harmony aims to offer a high-throughput, low-latency, and low-fee consensus platform designed to power decentralized economies of the future."
+  },
+  "links":{
+    "website":["https://harmony.one/"],
+    "explorer":["https://explorer.harmony.one/#/"],
+    "github":["https://github.com/harmony-one/harmony"],
+    "telegram":["https://telegram.me/harmony_one"],
+    "discord":["https://discordapp.com/invite/rdCmBpe"],
+    "twitter":["https://twitter.com/harmonyprotocol"]
+  }
+}
