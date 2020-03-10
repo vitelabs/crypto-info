@@ -92,6 +92,12 @@
 			"mappedNet": "ONE",
 			"mappedTokenId": "",
 			"url": "https://crosschain.vite.net/gateway/harmony"
+		},
+		"tti_216a5553fcfc24126b06db19":{
+			"mappedSymbol": "BCH",
+			"mappedNet": "BCH",
+			"mappedTokenId": "",
+			"url": "https://crosschain.vite.net/gateway/bch"
 		}
     }
 }
