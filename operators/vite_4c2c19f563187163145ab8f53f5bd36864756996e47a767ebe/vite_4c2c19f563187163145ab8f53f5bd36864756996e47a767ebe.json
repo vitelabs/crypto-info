@@ -10,6 +10,6 @@
             "explorer":["https://explorer.vite.net"],
             "whitepaper":["https://github.com/vitelabs/whitepaper/"]
         },
-        "support":"gateway@vite.org",
+        "support":"https://vitex.zendesk.com/hc/en-001/requests/new",
         "gateway":"Vite Labs"
 }
