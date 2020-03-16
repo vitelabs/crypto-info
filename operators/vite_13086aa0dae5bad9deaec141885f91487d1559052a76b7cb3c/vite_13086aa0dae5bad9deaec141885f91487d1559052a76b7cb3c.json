@@ -7,5 +7,6 @@
         "links":{
             "website":["https://vgate.io/"]
         },
+        "support":"https://vgate.zendesk.com/hc/en-us/requests/new",
         "gateway":"VGATE"
 }
