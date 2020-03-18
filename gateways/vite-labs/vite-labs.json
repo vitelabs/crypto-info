@@ -98,6 +98,12 @@
 			"mappedNet": "BCH",
 			"mappedTokenId": "",
 			"url": "https://crosschain.vite.net/gateway/bch"
+		},
+		"tti_684be55f138c4145844170c3":{
+			"mappedSymbol": "BSV",
+			"mappedNet": "BSV",
+			"mappedTokenId": "",
+			"url": "https://crosschain.vite.net/gateway/bsv"
 		}
     }
 }
