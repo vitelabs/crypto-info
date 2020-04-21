@@ -1,0 +1,15 @@
+{
+  "tokenId": "tti_e5750d3c5b3bb5a31b8ba637",
+  "overview":{
+    "en":"Monero(XMR) is the leading cryptocurrency with a focus on private and censorship-resistant transactions. All Monero transactions are confidential and untraceable. It is electronic cash that allows fast, inexpensive payments to and from anywhere in the world.",
+    "zh":"门罗币（XMR）是一个创建于2014年4月开源加密货币，它着重于隐私、分权和可扩展性。与自比特币衍生的许多加密货币不同，Monero基于CryptoNote协议，并在区块链模糊化方面有显著的算法差异。"
+  },
+  "links":{
+    "website":["https://ww.getmonero.org/"],
+    "github":["https://github.com/monero-project/monero"],
+    "explorer":["https://explorer.vite.net/token/tti_e5750d3c5b3bb5a31b8ba637", "http://moneroblocks.info/"],
+    "telegram":["https://telegram.me/bitmonero"],
+    "reddit":["https://reddit.com/r/monero"],
+    "twitter":["https://twitter.com/monero"]
+  }
+}

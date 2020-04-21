@@ -110,6 +110,12 @@
 			"mappedNet": "ETH",
 			"mappedTokenId": "0x514910771af9ca656af840dff83e8264ecf986ca",
 			"url": "https://crosschain.vite.net/gateway/eth"
+		},
+		"tti_e5750d3c5b3bb5a31b8ba637":{
+			"mappedSymbol": "XMR",
+			"mappedNet": "XMR",
+			"mappedTokenId": "",
+			"url": "https://crosschain.vite.net/gateway/monero"
 		}
     }
 }
