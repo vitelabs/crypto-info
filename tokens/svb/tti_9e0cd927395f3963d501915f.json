@@ -1,0 +1,17 @@
+{
+   "tokenId": "tti_9e0cd927395f3963d501915f",
+   "overview":{
+      "zh": "参加VITE的矿业运行! 通过在钱包中持有SVB代币，您将立即有资格以0.02％（每年7.2％）的每日固定利息支付，每天以FAST支付1 SVB = 1 FAST。",
+      "en":"Participate in the VITE mining operation! By holding SVB tokens in your wallet, you are immediately eligible for a 0.02% fixed daily interest (7.2% annual), paid in VITE daily. 1 SVB = 1 VITE."
+   },
+   "links":{
+      "website":["https://swissvite.org/"],
+      "whitepaper":["https://swissvite.org/svb"],
+      "explorer":["https://explorer.vite.net/token/tti_9e0cd927395f3963d501915f"]
+   },
+   "initialPrice":{
+      "usd": "0.012",
+      "eth": "0.0000575",
+      "btc": "0.00000150"
+   }
+}
