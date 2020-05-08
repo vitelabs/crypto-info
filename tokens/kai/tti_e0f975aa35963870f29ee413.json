@@ -1,0 +1,15 @@
+{
+  "tokenId": "tti_e0f975aa35963870f29ee413",
+  "overview":{
+    "en":"Kardiachain is a public blockchain platform focused on Interoperability and providing hybrid blockchain solution/infrastructure for enterprises and governments in Vietnam and other countries in South & East Asia.",
+    "zh":"KardiaChain是一个专注于互操作性的公有链，并通过为大型企业和政府机构提供公私混合区块链 解决方案/架构，引领越南市场的区块链落地竞争。项目的目的是通过利用3个主要组件（网关， 基础架构和服务）为机构构建完整的区块链生态。"
+  },
+  "links":{
+    "website":["https://kardiachain.io/"],
+    "explorer":["https://explorer.vite.net/token/tti_e0f975aa35963870f29ee413"],
+    "telegram":["https://t.me/kardiachain"],
+    "twitter":["https://twitter.com/kardiachain"],
+    "whitepaper":["https://dl.kardiachain.io/KardiaChain-WhitePaper-Chinese.pdf"],
+    "reddit":["https://www.reddit.com/r/KardiaChain/"]
+  }
+}
