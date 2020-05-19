@@ -1,0 +1,12 @@
+{
+    "tokenId": "tti_514ee9c2eddcaae07a0feaa0",
+    "overview":{
+	    "en":"ThePayCash aims to build the network for fast and free transfer of different stable coins. COL token will be used for governance, staking and as collateral for minting native USDP stable coin."
+    },
+    "links":{
+        "website":["http://thepay.cash/"],
+        "telegram":["https://t.me/thepaycash"],
+        "github":["https://github.com/thepaycash"],
+        "explorer": ["https://explorer.thepay.cash/"]
+     }
+}
