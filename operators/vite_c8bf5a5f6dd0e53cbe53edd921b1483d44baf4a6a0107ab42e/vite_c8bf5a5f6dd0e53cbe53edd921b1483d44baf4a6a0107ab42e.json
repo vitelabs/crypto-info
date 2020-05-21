@@ -1,0 +1,12 @@
+{
+	"name": "ChainHedge",
+        "address": "vite_c8bf5a5f6dd0e53cbe53edd921b1483d44baf4a6a0107ab42e",
+        "overview": {
+            "en": "ChainHedge is the ViteX operator. Also we are organised group of crypto enthusiasts who aims to relocate resources the most efficient way for the beneficial of the whole crypto ecosystem. Technology is our passion."
+        },
+        "links":{
+            "website":["http://chainhedge.com/"]
+        },
+        "support":"hello@chainhedge.com",
+        "gateway":"ChainHedge"
+}
