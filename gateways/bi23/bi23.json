@@ -30,6 +30,12 @@
 			"mappedNet": "XTZ",
 			"mappedTokenId": "",
 			"url": "https://vite.bi23.com/gate"
-    	}
+    	},
+		"tti_62488531f24de9ac21e8aaed":{
+			"mappedSymbol": "cGLD",
+			"mappedNet": "cGLD",
+			"mappedTokenId": "tti_62488531f24de9ac21e8aaed",
+			"url": "https://vite.bi23.com/gate"
+		}
     }
 }
