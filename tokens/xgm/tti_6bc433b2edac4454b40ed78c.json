@@ -1,0 +1,14 @@
+{
+  "tokenId": "tti_6bc433b2edac4454b40ed78c",
+  "overview":{
+    "en":"DEFIS (Decentralized Financial System) is built on top of the cryptographic primitives. Owners of different cryptocurrencies can earn interest, borrow, exchange, and create custom cryptocurrencies on DEFIS all in a completely decentralized and anonymous manner.",
+    "zh":"DEFIS是一个去中心化金融系统，具有可扩展性，是面向隐私的脱链智能合约和金融协议。不同类型的加密货币和资产的所有者可以在DEFIS系统中获得利息，以去中心化模式借用，交换和创建自定义加密货币。"    },
+  "links":{
+    "website":["https://defisystem.io/"],
+    "explorer":["https://explorer.defisystem.io/"],
+    "github":["https://github.com/freenetcoder/defis"],
+    "telegram":["https://t.me/grimmw"],
+    "twitter":["https://twitter.com/defisystem"],
+    "discord":["https://discord.gg/XKgPPW2"]
+  }
+}
