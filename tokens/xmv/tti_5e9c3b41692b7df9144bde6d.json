@@ -1,0 +1,15 @@
+{
+  "tokenId": "tti_5e9c3b41692b7df9144bde6d",
+  "overview":{
+    "en":"MoneroV fulfills the long overdue desire for a truly anonymous, decentralized, finite peer-to-peer electronic currency. Individuals and businesses can transact securely, reliably and anonymously with low fees using MoneroV.",
+    "zh":"MoneroV满足了人们长期对于真正的匿名、去中心化、有限的点对点电子货币的需求。 个人和企业可通过MoneroV以低廉的费用安全、可靠和匿名地进行交易。"
+  },
+  "links":{
+    "website":["http://monerov.online"],
+    "explorer":["https://explorer.vite.net/token/tti_5e9c3b41692b7df9144bde6d"],
+    "telegram":["https://t.me/monerovofficial"],
+    "discord":["https://discord.gg/HxmStcE"],
+    "twitter": ["https://twitter.com/monerovofficial"],
+    "github": ["https://github.com/xmvdev/"]
+  }
+}
