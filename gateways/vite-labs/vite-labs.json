@@ -19,25 +19,25 @@
 			"mappedSymbol": "ETH",
 			"mappedNet": "ETH",
 			"mappedTokenId": "",
-			"url": "https://gate.vite.net/gateway/eth/"
+			"url": "https://crosschain.vite.net/gateway/eth/"
     	},
     	"tti_b90c9baffffc9dae58d1f33f":{
 			"mappedSymbol": "BTC",
 			"mappedNet": "BTC",
 			"mappedTokenId": "",
-			"url": "https://gate.vite.net/gateway/btc/"
+			"url": "https://crosschain.vite.net/gateway/btc/"
     	},
     	"tti_80f3751485e4e83456059473":{
 			"mappedSymbol": "USDT",
 			"mappedNet": "ETH",
 			"mappedTokenId": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-			"url": "https://gate.vite.net/gateway/eth/"
+			"url": "https://crosschain.vite.net/gateway/eth/"
     	},
     	"tti_289ee0569c7d3d75eac1b100":{
 			"mappedSymbol": "GRIN",
 			"mappedNet": "GRIN",
 			"mappedTokenId": "",
-			"url": "https://gate.vite.net/gateway/grin/"
+			"url": "https://crosschain.vite.net/gateway/grin/"
 		},
 		"tti_2f875c97d3a51b66a59c4411":{
 			"mappedSymbol": "ANKR",
