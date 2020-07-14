@@ -113,6 +113,12 @@
          "mappedSymbol": "XGM",
          "mappedTokenId": "",
          "url": "https://gateway.vgate.io/defis"
+       },
+       "tti_5e9c3b41692b7df9144bde6d":{
+         "mappedNet": "XMV",
+         "mappedSymbol": "XMV",
+         "mappedTokenId": "",
+         "url": "https://gateway.vgate.io/monerov"
        }
     }
 }
