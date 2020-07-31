@@ -8,7 +8,6 @@
         "whitepaper": ["https://github.com/mimblewimble/docs/wiki/A-Brief-History-of-MimbleWimble-White-Paper"],
         "explorer":["https://grinexplorer.net/","https://grin.blockscan.com/","https://grinscan.net/"],
         "github":["https://github.com/mimblewimble/grin/"],
-        "twitter": ["https://twitter.com/grinMW/"],
         "coinmarketcap": ["https://coinmarketcap.com/currencies/grin/"],
         "discord": ["https://discord.com/invite/Z3sEfEU"],
         "blog": ["https://grin.mw/blog/"]
