@@ -4,10 +4,12 @@
 	"en":"Launched on January 15th, 2019, Grin is a cryptocurrency focused on privacy without censorship in its implementation of Mimblewimble. According to their website, the developers want Grin to be usable by everyone regardless of borders, culture, skills or access."
     },
     "links":{
-        "website":["https://grin-tech.org/"],
-        "whitepaper": ["https://download.wpsoftware.net/bitcoin/wizardry/mimblewimble.txt"],
+        "website":["https://grin.mw/"],
+        "whitepaper": ["https://github.com/mimblewimble/docs/wiki/A-Brief-History-of-MimbleWimble-White-Paper"],
         "explorer":["https://grinexplorer.net/","https://grin.blockscan.com/","https://grinscan.net/"],
-	    "github":["https://github.com/mimblewimble/grin/"],
-        "twitter": ["https://twitter.com/grinMW/"]
+        "github":["https://github.com/mimblewimble/grin/"],
+        "coinmarketcap": ["https://coinmarketcap.com/currencies/grin/"],
+        "discord": ["https://discord.com/invite/Z3sEfEU"],
+        "blog": ["https://grin.mw/blog/"]
      }
 }
