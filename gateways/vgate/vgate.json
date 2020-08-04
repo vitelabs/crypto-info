@@ -119,6 +119,12 @@
          "mappedSymbol": "XMV",
          "mappedTokenId": "",
          "url": "https://gateway.vgate.io/monerov"
+       },
+       "tti_68af1261fba35f29b8d2115a":{
+         "mappedNet": "ETH",
+         "mappedSymbol": "XRT",
+         "mappedTokenId": "0x7de91b204c1c737bcee6f000aaa6569cf7061cb7",
+         "url": "https://gateway.vgate.io/eth"
        }
     }
 }
