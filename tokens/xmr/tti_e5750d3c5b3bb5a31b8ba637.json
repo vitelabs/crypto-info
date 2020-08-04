@@ -10,6 +10,10 @@
     "explorer":["https://explorer.vite.net/token/tti_e5750d3c5b3bb5a31b8ba637", "http://moneroblocks.info/"],
     "telegram":["https://telegram.me/bitmonero"],
     "reddit":["https://reddit.com/r/monero"],
-    "twitter":["https://twitter.com/monero"]
+    "twitter":["https://twitter.com/monero"],
+    "coinmarketcap":["https://coinmarketcap.com/currencies/monero/"],
+    "facebook":["https://www.facebook.com/monerocurrency/"],
+    "blog":["https://web.getmonero.org/blog/"],
+    "discord":["https://discord.com/invite/XVKK6hX"]
   }
 }
