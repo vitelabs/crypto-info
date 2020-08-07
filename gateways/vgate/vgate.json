@@ -125,6 +125,12 @@
          "mappedSymbol": "XRT",
          "mappedTokenId": "0x7de91b204c1c737bcee6f000aaa6569cf7061cb7",
          "url": "https://gateway.vgate.io/gateway/eth"
+       },
+       "tti_b421f7ce27c2f383ee86c5ac":{
+         "mappedNet": "ETH",
+         "mappedSymbol": "FMA",
+         "mappedTokenId": "0x0f8794f66c7170c4f9163a8498371a747114f6c4",
+         "url": "https://gateway.vgate.io/gateway/eth"
        }
     }
 }
