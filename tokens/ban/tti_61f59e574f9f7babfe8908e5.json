@@ -12,6 +12,9 @@
         "telegram":["https://telegram.me/bananocurrency"],
         "reddit":["https://www.reddit.com/r/banano/"],
         "twitter":["https://twitter.com/bananocoin"],
-        "whitepaper":["https://banano.cc/yellowpaper/"]
+        "facebook":["https://www.facebook.com/bananocurrency/"],
+        "instagram":["https://www.instagram.com/bananocurrency/"],
+        "whitepaper":["https://banano.cc/yellowpaper/"],
+        "coinmarketcap":["https://coinmarketcap.com/currencies/banano/"]
     }
 }
