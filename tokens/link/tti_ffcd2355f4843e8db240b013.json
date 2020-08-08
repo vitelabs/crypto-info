@@ -6,11 +6,16 @@
   },
   "links":{
     "website":["https://chain.link/"],
+    "whitepaper":["https://link.smartcontract.com/whitepaper"],
     "explorer":["https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca"],
     "github":["https://github.com/smartcontractkit/chainlink"],
     "telegram":["https://telegram.me/chainlinkofficial"],
     "reddit":["https://reddit.com/r/chainlink"],
     "twitter":["https://twitter.com/smart_contract"],
-    "forum": ["https://medium.com/chainlink"]
+    "forum": ["https://medium.com/chainlink"],
+    "coinmarketcap":["https://coinmarketcap.com/currencies/chainlink/"],
+    "youtube":["https://www.youtube.com/chainlinkofficial"],
+    "discord":["https://discord.gg/aSK4zew"],
+    "blog":["https://blog.chain.link/"]
   }
 }
