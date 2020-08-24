@@ -131,6 +131,12 @@
          "mappedSymbol": "FMA",
          "mappedTokenId": "0x0f8794f66c7170c4f9163a8498371a747114f6c4",
          "url": "https://gateway.vgate.io/gateway/eth"
+       },
+       "tti_c57651a60eff2e7d4b52babf":{
+         "mappedNet": "ETH",
+         "mappedSymbol": "SRK",
+         "mappedTokenId": "0x0488401c3f535193fa8df029d9ffe615a06e74e6",
+         "url": "https://gateway.vgate.io/gateway/eth"
        }
     }
 }
