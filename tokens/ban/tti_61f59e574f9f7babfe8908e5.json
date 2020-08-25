@@ -15,6 +15,12 @@
         "facebook":["https://www.facebook.com/bananocurrency/"],
         "instagram":["https://www.instagram.com/bananocurrency/"],
         "whitepaper":["https://banano.cc/yellowpaper/"],
-        "coinmarketcap":["https://coinmarketcap.com/currencies/banano/"]
+        "coinmarketcap":["https://coinmarketcap.com/currencies/banano/"],
+        "publish0x":["https://www.publish0x.com/banano"],
+        "youtube":["https://www.youtube.com/c/BananoPictures],
+        "uptrennd":["https://www.uptrennd.com/banano"],
+        "medium":["https://medium.com/@bananocurrency"],
+        "TikTok":["https://www.tiktok.com/@bananocurrency"],
+        "BitcoinTalk":["https://bitcointalk.org/index.php?topic=5165788"]
     }
 }
