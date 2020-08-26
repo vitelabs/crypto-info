@@ -1,0 +1,15 @@
+{
+  "tokenId": "tti_509c1977b40a86131dedaca4",
+  "overview":{
+    "en":"Arweave is a new type of storage that backs data with sustainable and perpetual endowments, allowing users and developers to truly store data forever.",
+    "zh":"Arweave 是一个基于新型访问共识机制证明的数据存储区块链协议，该协议将一次性创建真正永久性的数据存储。"
+  },
+  "links":{
+    "website":["https://www.arweave.org"],
+    "telegram":["https://telegram.me/arweave"],
+    "explorer":["https://viewblock.io/arweave"],
+    "github":["https://github.com/ArweaveTeam/arweave"],
+    "twitter":["https://twitter.com/arweaveteam"],
+    "reddit":["https://reddit.com/r/Arweave"]
+  }
+}

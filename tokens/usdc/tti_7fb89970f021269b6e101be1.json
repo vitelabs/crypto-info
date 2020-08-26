@@ -1,0 +1,12 @@
+{
+  "tokenId": "tti_7fb89970f021269b6e101be1",
+  "overview":{
+    "en":"USDC is a fully collateralized US dollar stablecoin. It is an Ethereum powered coin and is the brainchild of CENTRE, an open source project bootstrapped by contributions from Circle and Coinbase.",
+    "zh":"USDCoin（USDC）是一个完全可抵押的对标美元的稳定币，它提供详细的财务和运营透明度，并在美国货币流通法的框架内运行，而且跟多家银行机构和审计团队合作。"
+  },
+  "links":{
+    "website":["https://www.centre.io/usdc/"],
+    "explorer":["https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"],
+    "github":["https://github.com/centrehq/centre-tokens"]
+  }
+}
