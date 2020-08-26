@@ -6,21 +6,19 @@
     },
     "links":{
         "website":["https://banano.cc"],
-        "explorer":["https://creeper.banano.cc/"],
+        "whitepaper":["https://banano.cc/yellowpaper/"],
         "github":["https://github.com/BananoCoin/banano"],
-        "discord":["https://chat.banano.cc/"],
-        "telegram":["https://telegram.me/bananocurrency"],
-        "reddit":["https://www.reddit.com/r/banano/"],
+        "explorer":["https://creeper.banano.cc/"],
         "twitter":["https://twitter.com/bananocoin"],
         "facebook":["https://www.facebook.com/bananocurrency/"],
+        "reddit":["https://www.reddit.com/r/banano/"],        
         "instagram":["https://www.instagram.com/bananocurrency/"],
-        "whitepaper":["https://banano.cc/yellowpaper/"],
+        "steemit":["https://steemit.com/@bananocurrency"],
         "coinmarketcap":["https://coinmarketcap.com/currencies/banano/"],
-        "publish0x":["https://www.publish0x.com/banano"],
         "youtube":["https://www.youtube.com/c/BananoPictures],
-        "uptrennd":["https://www.uptrennd.com/banano"],
+        "telegram":["https://telegram.me/bananocurrency"],
+        "discord":["https://chat.banano.cc/"],
         "medium":["https://medium.com/@bananocurrency"],
-        "TikTok":["https://www.tiktok.com/@bananocurrency"],
-        "BitcoinTalk":["https://bitcointalk.org/index.php?topic=5165788"]
+        "blog":["https://www.publish0x.com/banano"]
     }
 }
