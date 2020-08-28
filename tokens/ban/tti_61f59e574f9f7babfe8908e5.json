@@ -6,15 +6,19 @@
     },
     "links":{
         "website":["https://banano.cc"],
-        "explorer":["https://creeper.banano.cc/"],
+        "whitepaper":["https://banano.cc/yellowpaper/"],
         "github":["https://github.com/BananoCoin/banano"],
-        "discrod":["https://discordapp.com/invite/SBPaSBS"],
-        "telegram":["https://telegram.me/bananocurrency"],
-        "reddit":["https://www.reddit.com/r/banano/"],
+        "explorer":["https://creeper.banano.cc/"],
         "twitter":["https://twitter.com/bananocoin"],
         "facebook":["https://www.facebook.com/bananocurrency/"],
+        "reddit":["https://www.reddit.com/r/banano/"],        
         "instagram":["https://www.instagram.com/bananocurrency/"],
-        "whitepaper":["https://banano.cc/yellowpaper/"],
-        "coinmarketcap":["https://coinmarketcap.com/currencies/banano/"]
+        "steemit":["https://steemit.com/@bananocurrency"],
+        "coinmarketcap":["https://coinmarketcap.com/currencies/banano/"],
+        "youtube":["https://www.youtube.com/c/BananoPictures"],
+        "telegram":["https://telegram.me/bananocurrency"],
+        "discord":["https://chat.banano.cc/"],
+        "medium":["https://medium.com/@bananocurrency"],
+        "blog":["https://www.publish0x.com/banano"]
     }
 }
