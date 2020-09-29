@@ -137,6 +137,12 @@
          "mappedSymbol": "SRK",
          "mappedTokenId": "0x0488401c3f535193fa8df029d9ffe615a06e74e6",
          "url": "https://gateway.vgate.io/gateway/eth"
+       },
+       "tti_03921398b4c7d86622b127d1":{
+         "mappedNet": "HTR",
+         "mappedSymbol": "HTR",
+         "mappedTokenId": "",
+         "url": ""
        }
     }
 }
