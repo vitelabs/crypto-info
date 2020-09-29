@@ -1,0 +1,15 @@
+{
+    "tokenId": "tti_03921398b4c7d86622b127d1",
+    "overview":{
+        "en":"Hathor(HTR) is a transactional consensus platform comprised of an entirely novel architecture, based on concepts from both Directed Acyclic Graph (DAG) and blockchain technologies combined.",
+        "zh":"Hathor（ HTR）旨在解决创建新令牌的复杂性，将有向无环图（DAG）和区块链技术组合，使Hathor具有高度的可扩展性和分散性。"
+    },
+    "links":{
+        "website":["https://hathor.network/"],
+        "github":["https://github.com/HathorNetwork"],
+        "explorer":["https://explorer.hathor.network/"],
+        "telegram":["https://t.me/HathorOfficial"],
+        "whitepaper":["https://s3.amazonaws.com/hathor-public-files/hathor-white-paper.pdf"],
+        "twitter":["https://twitter.com/hathornetwork"]
+    }
+}
