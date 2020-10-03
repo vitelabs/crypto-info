@@ -7,6 +7,8 @@
         "website":["https://bitcoin.org/en/"],
         "whitepaper":["https://bitcoin.org/bitcoin.pdf"],
         "explorer":["https://www.blockchain.com/explorer/"],
-        "github":["https://github.com/bitcoin/"]
+        "github":["https://github.com/bitcoin/"],
+        "blog": ["https://bitcoin.org/en/blog"],
+        "coinmarketcap": ["https://coinmarketcap.com/currencies/bitcoin/"]
     }
 }
