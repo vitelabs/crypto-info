@@ -1,11 +1,11 @@
 {
     "tokenId": "tti_3fa548491ae1309fb6045786",
     "overview":{
-        "en":"Waves Platform’s mission lies in creating an ecosystem that aims to accelerate the shift from centralized to decentralized systems and an emphasis on the individual’s control of their own funds and assets, personal data, and privacy. Waves Platform describes itself as an open network for Web 3.0 applications and custom decentralized solutions, with a range of purpose-designed tools for making the process of developing and running dApps easy and accessible. ",
-        "zh":"Waves是一个去中心化平台，是为了大型商业和消费习惯而设计的。Waves的创立是为了让传统商业和终端用户也能够享受到区块链技术带来的好处。"
+        "en":"Waves is an open blockchain protocol and development toolset for Web 3.0 applications and decentralized solutions, aiming to raise security, reliability and speed of IT systems. It enables anyone to build their apps, fostering mass adoption of blockchain.",
+        "zh":"Waves是面向Web 3.0应用程序和去中心化解决方案的开放式区块链协议和开发工具集，旨在提高IT系统的安全性、可靠性和速度。 任何人都可以基于它构建自己的应用程序，从而促进区块链的广泛应用。"
     },
     "links":{
-        "website":["https://wavesplatform.com/"],
+        "website":["https://waves.tech/"],
         "github":["https://github.com/wavesplatform/"],
         "explorer":["http://wavesexplorer.com/"],
         "telegram":["https://telegram.me/wavesnews"],
