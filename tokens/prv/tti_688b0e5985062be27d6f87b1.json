@@ -1,0 +1,13 @@
+{
+  "tokenId": "tti_688b0e5985062be27d6f87b1",
+  "overview":{
+    "en":"A community-driven, self-funded, and open-source network built to ensure all cryptoassets are safe to use.",
+    "zh":"Incognito 是一条专注于跨链隐私交易的区块链。Incognito 为其他链提供隐私解决方案和互操作性，可将每一个其他区块链的代币匿名化。Privacy coin（PRV）是 Incognito 链上 代币，可用于交易手续费。" },
+  "links":{
+    "website":["https://incognito.org/"],
+    "explorer":["https://incscan.io/dashboard/simple"],
+    "github":["https://github.com/incognitochain"],
+    "telegram":["https://github.com/incognitochain"],
+    "twitter":["https://twitter.com/incognitochain"]
+  }
+}
