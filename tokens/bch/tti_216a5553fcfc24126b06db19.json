@@ -1,15 +1,14 @@
 {
   "tokenId": "tti_216a5553fcfc24126b06db19",
   "overview":{
-    "zh":"比特币现金（BCH）是比特币的硬分叉，与比特币相同，是一种基于去中心化，采用点对点网络与共识主动性，开放源代码，以区块链作为底层技术的加密货货币。",
-    "en":"Bitcoin Cash (BCH) is hard fork (a community-activated update to the protocol or code) of Bitcoin that took effect on August 1st, 2017 that increased the block size to 8MB, to help the scale the underlying technology of Bitcoin.Nov 16th 2018: BCH was hard forked again and split into Bitcoin SV and Bitcoin ABC. Bitcoin ABC became the dominant chain and took over the BCH ticker as it had more hashpower and majority of the nodes in the network."
+    "zh":"Bitcoin Cash ABC (BCHA) 是 Bitcoin Cash 的分叉币种。Bitcoin Cash 于2020年11月15日进行硬分叉升级，按照每1BCH等比例分发1BCHA给全体BCH用户。",
+    "en":"Bitcoin Cash ABC (BCHA) is hard fork (a community-activated update to the protocol or code) of Bitcoin Cash that took effect on November 15th, 2020. During the hard fork, each BCH holder will receive the same amount of BCHA as the forked coin. (Note: Bitcoin Cash is the hard fork of original Bitcoin that increased the block size to 8MB, to help the scale the underlying technology of Bitcoin. On November 16th, 2018, BCH was hard forked again and split into Bitcoin SV and Bitcoin ABC. Bitcoin ABC became the dominant chain and took over the BCH ticker as it had more hashpower and majority of the nodes in the network.)"
   },
   "links":{
     "website":["https://www.bitcoincash.org/"],
-    "explorer":["https://blockchair.com/bitcoin-cash","https://explorer.vite.net/token/tti_216a5553fcfc24126b06db19"],
+    "explorer":["https://explorer.bitcoincash.org/"],
     "github":["https://github.com/bitcoincashorg/"],
-    "twitter":["https://twitter.com/bitcoin"],
-    "reddit":["https://reddit.com/r/Bitcoincash"],
-    "forum":["https://bitco.in/forum/forums/bitcoin-abc.25/"]
+    "twitter":["https://twitter.com/bitcoincashorg"],
+    "reddit":["https://www.reddit.com/r/bitcoin_cash/"]
   }
 }
