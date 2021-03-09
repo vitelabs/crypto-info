@@ -1,0 +1,14 @@
+{
+  "tokenId": "tti_cd927832cb1890645e627693",
+  "overview":{
+    "en":"A hyper-optimized cross-chain yield aggregator deployed on BSC and HECO.",
+    "zh":"AUTO是 BSC 和 HECO上的 DeFi 跨链收益率聚合器。" },
+  "links":{
+    "website":["https://autofarm.network/"],
+    "explorer":["https://bscscan.com/token/0xa184088a740c695e156f91f5cc086a06bb78b827"],
+    "github":["https://github.com/autofarm-network/autofarmV2"],
+    "telegram":["https://t.me/autofarm_network"],
+    "twitter":["https://twitter.com/autofarmnetwork"],
+    "medium":["https://autofarm-network.medium.com/"]
+  }
+}
