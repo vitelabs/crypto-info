@@ -140,6 +140,12 @@
       "mappedNet": "ETH",
       "mappedTokenId": "0x2f7b618993cc3848d6c7ed9cdd5e835e4fe22b98",
       "url": "https://crosschain.vite.net/gateway/eth/"
+    },
+    "tti_cd927832cb1890645e627693": {
+      "mappedSymbol": "AUTO",
+      "mappedNet": "BSC",
+      "mappedTokenId": "0xa184088a740c695e156f91f5cc086a06bb78b827",
+      "url": "https://crosschain.vite.net/gateway/bsc/"
     }
   }
 }
