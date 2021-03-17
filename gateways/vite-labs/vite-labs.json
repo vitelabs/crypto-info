@@ -146,6 +146,12 @@
       "mappedNet": "BSC",
       "mappedTokenId": "0xa184088a740c695e156f91f5cc086a06bb78b827",
       "url": "https://crosschain.vite.net/gateway/bsc/"
+    },
+    "tti_e9034802dcd5a2b5603e42fc": {
+      "mappedSymbol": "HFI",
+      "mappedNet": "HECO",
+      "mappedTokenId": "0x98fc3b60ed4a504f588342a53746405e355f9347",
+      "url": "https://crosschain.vite.net/gateway/heco/"
     }
   }
 }
