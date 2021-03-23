@@ -37,15 +37,7 @@
       "mappedSymbol": "USDT",
       "mappedNet": "ETH",
       "mappedTokenId": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-      "url": "https://crosschain.vite.net/gateway/eth/",
-      "extraStandards": [
-        {
-          "mappedNet": "BSC",
-          "mappedTokenId": "0x55d398326f99059ff775485246999027b3197955",
-          "standard": "BEP20",
-          "url": "https://crosschain.vite.net/gateway/bsc"
-        }
-      ]
+      "url": "https://crosschain.vite.net/gateway/eth/"
     },
     "tti_289ee0569c7d3d75eac1b100": {
       "mappedSymbol": "GRIN",
