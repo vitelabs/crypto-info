@@ -1,11 +1,11 @@
 {
-  "name": "Vite Labs",
+  "name": "Vite Gateway",
   "policy": {
     "en": "https://x.vite.net/viteLabsGatePrivacy.html"
   },
   "overview": {
-    "zh": "Vite Labs官方网关，负责BTC、ETH、USDT(ERC20)、GRIN四种代币跨链服务",
-    "en": "The gateway provided by Vite Labs, running cross-chain services for four coins: BTC, ETH, USDT(ERC20)"
+    "zh": "Vite Gateway 负责BTC、ETH、USDT(ERC20)、GRIN四种代币跨链服务",
+    "en": "Vite Gateway runs cross-chain services for four coins: BTC, ETH, USDT(ERC20)"
   },
   "links": {
     "website": [
