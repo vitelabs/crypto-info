@@ -8,11 +8,5 @@
     },
     "support":"XS_Fund@163.com",
      "gatewayTokens":{
-        "tti_25e5f191cbb00a88a6267e0f":{
-            "mappedNet": "ETH",
-            "mappedSymbol": "LRC",
-            "mappedTokenId": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
-            "url": "https://xinsheng.71an.com"	
-        }
     }
 }
