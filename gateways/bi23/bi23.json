@@ -13,11 +13,23 @@
     },
     "support":"support@bi23.com",
     "gatewayTokens":{
+    	"tti_d35f2920e86dfccbbe6d2619":{
+			"mappedSymbol": "ATOM",
+			"mappedNet": "ATOM",
+			"mappedTokenId": "",
+			"url": "https://vite.bi23.com/gate"
+    	},
     	"tti_439c032ae57b9f69b02abb3d":{
 			"mappedSymbol": "IRIS",
 			"mappedNet": "IRIS",
 			"mappedTokenId": "",
 			"url": "https://vite.bi23.com/gate"
-    	}
+    	},
+		"tti_62488531f24de9ac21e8aaed":{
+			"mappedSymbol": "cGLD",
+			"mappedNet": "cGLD",
+			"mappedTokenId": "",
+			"url": "https://vite.bi23.com/gate"
+		}
     }
 }
