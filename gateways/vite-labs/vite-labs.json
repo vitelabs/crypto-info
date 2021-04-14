@@ -158,6 +158,12 @@
       "mappedNet": "ETH",
       "mappedTokenId": "0xadd5e881984783dd432f80381fb52f45b53f3e70",
       "url": "https://crosschain.vite.net/gateway/eth/"
+    },
+    "tti_a2a290f98c963f6aca7bb9e7": {
+      "mappedSymbol": "NFY",
+      "mappedNet": "ETH",
+      "mappedTokenId": "0x1cbb83ebcd552d5ebf8131ef8c9cd9d9bab342bc",
+      "url": "https://crosschain.vite.net/gateway/eth/"
     }
   }
 }
