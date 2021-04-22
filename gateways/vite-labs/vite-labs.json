@@ -164,6 +164,12 @@
       "mappedNet": "ETH",
       "mappedTokenId": "0x1cbb83ebcd552d5ebf8131ef8c9cd9d9bab342bc",
       "url": "https://crosschain.vite.net/gateway/eth/"
+    },
+    "tti_733c4026779953052bd68017": {
+      "mappedSymbol": "RAD",
+      "mappedNet": "ETH",
+      "mappedTokenId": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
+      "url": "https://crosschain.vite.net/gateway/eth/"
     }
   }
 }
