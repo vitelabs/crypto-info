@@ -143,6 +143,12 @@
          "mappedSymbol": "HTR",
          "mappedTokenId": "",
          "url": ""
+       },
+       "tti_f370fadb275bc2a1a839c753":{
+         "mappedNet": "EPIC",
+         "mappedSymbol": "EPIC",
+         "mappedTokenId": "",
+         "url": ""
        }
     }
 }
