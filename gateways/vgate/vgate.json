@@ -90,12 +90,6 @@
             "mappedTokenId": "",
             "url": "https://gateway.vgate.io/gateway/bitgrin"
         },
-        "tti_b9d622c68d486aa107a38a16":{
-            "mappedNet": "EPIC",
-            "mappedSymbol": "EPIC",
-            "mappedTokenId": "",
-            "url": "https://gateway.vgate.io/gateway/epic"
-        },
         "tti_61f59e574f9f7babfe8908e5":{
             "mappedNet": "BAN",
             "mappedSymbol": "BAN",
@@ -148,7 +142,7 @@
          "mappedNet": "EPIC",
          "mappedSymbol": "EPIC",
          "mappedTokenId": "",
-         "url": ""
+         "url": "https://gateway.vgate.io/gateway/epic"
        }
     }
 }
