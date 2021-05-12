@@ -170,6 +170,12 @@
       "mappedNet": "ETH",
       "mappedTokenId": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
       "url": "https://crosschain.vite.net/gateway/eth/"
+    },
+    "tti_392a4a23e84f514608f0b3f0": {
+      "mappedSymbol": "MIST",
+      "mappedNet": "ETH",
+      "mappedTokenId": "0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab",
+      "url": "https://crosschain.vite.net/gateway/eth/"
     }
   }
 }
