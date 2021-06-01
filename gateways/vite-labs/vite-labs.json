@@ -4,7 +4,7 @@
     "en": "https://x.vite.net/viteLabsGatePrivacy.html"
   },
   "overview": {
-    "zh": "Vite Gateway 负责BTC、ETH、USDT(ERC20)、GRIN四种代币跨链服务",
+    "zh": "Vite Gateway runs cross-chain services for four coins: BTC, ETH, USDT(ERC20)",
     "en": "Vite Gateway runs cross-chain services for four coins: BTC, ETH, USDT(ERC20)"
   },
   "links": {
