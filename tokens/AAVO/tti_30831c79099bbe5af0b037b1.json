@@ -1,0 +1,14 @@
+{
+    "tokenId": "tti_30831c79099bbe5af0b037b1",
+    "overview":{
+        "en":"Aavo Club ($AAVO) is experimenting #DeFi with strategic investments and sharing profits to $AAVO stakeholders frequently."
+    },
+    "links":{
+        "website":["https://aavo.club"],
+        "whitepaper":["https://aavo.club/tokenomics-%26-lightpaper"],
+        "explorer":["https://vitescan.io/token/tti_30831c79099bbe5af0b037b1"],
+    },
+    "initialPrice":{
+        "usd": "0.0001",
+    }
+}
