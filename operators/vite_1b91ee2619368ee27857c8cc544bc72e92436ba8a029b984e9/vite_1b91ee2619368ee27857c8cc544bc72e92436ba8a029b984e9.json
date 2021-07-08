@@ -1,0 +1,12 @@
+{
+	"name": "ViNo",
+        "address": "vite_1b91ee2619368ee27857c8cc544bc72e92436ba8a029b984e9",
+        "overview": {
+            "en": "As an operator of ViteX, ViNo has the capabilities of operating cryptocurrencies on Vite via Gateways, coin listings, deposits and withdrawals, and adjusting transaction fees."
+        },
+        "links":{
+            "website":["https://twitter.com/nanogateorg"]
+        },
+        "support":"https://twitter.com/nanogateorg",
+        "gateway":"ViNo"
+}
