@@ -1,0 +1,43 @@
+{
+  "name": "ViNo",
+  "policy": {
+    "en": "https://github.com/ViNo-community/ViNo-Custodial-Gateway/blob/main/TOS"
+  },
+  "overview": {
+    "zh": "ViNo Gateway runs cross-chain services for NANO ",
+    "en": "ViNo Gateway runs cross-chain services for NANO"
+  },
+  "links": {
+    "website": [
+      "https://twitter.com/nanogateorg"
+    ],
+    "explorer": [
+      "https://explorer.vite.net"
+    ],
+     "github": [
+      "https://github.com/ViNo-community"
+    ],
+    "whitepaper": [
+      "https://forum.vite.net/topic/4745/introduction-of-vitex-operator-vino/"
+    ],
+     "twitter": [
+      "https://twitter.com/nanogateorg"
+    ],
+     "discord": [
+      "https://t.co/lm3GpFXzoZ?amp=1"
+    ],
+     "reddit": [
+      "https://www.reddit.com/user/ViNo_Community"
+    ]
+  },
+  "support": "nanocommunityoperator@gmail.com",
+  "serviceSupport": "https://twitter.com/nanogateorg",
+  "gatewayTokens": {
+    "tti_29a2af20212b985e9d49e899": {
+      "mappedSymbol": "NANO",
+      "mappedNet": "NANO",
+      "mappedTokenId": "",
+      "url": "https://crosschain.vite.net/gateway/nano/"
+    }
+  }
+}
