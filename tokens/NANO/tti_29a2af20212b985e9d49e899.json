@@ -19,8 +19,8 @@
         "telegram":["https://t.me/nanocurrency"],
         "discord":["https://chat.nano.org/"],
         "medium":["https://medium.com/nanocurrency"],
-        "forum"["https://forum.nano.org/"]
-        "linkedin"["https://www.linkedin.com/company/nano-foundation/"]
+        "forum":["https://forum.nano.org/"]
+        "linkedin":["https://www.linkedin.com/company/nano-foundation/"]
         "bitcointalk":["https://bitcointalk.org/index.php?topic=1381323.0"]
     }
 }
