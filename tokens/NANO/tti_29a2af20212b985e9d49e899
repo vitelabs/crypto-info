@@ -1,0 +1,26 @@
+{
+    "tokenId": "tti_29a2af20212b985e9d49e899",
+    "overview":{
+        "zh":"Nano 是一种去中心化的低延迟加密货币，建立在创新的块格数据结构上，提供无限的可扩展性和无交易费用。",
+        "en":"Nano is a decentralized low-latency cryptocurrency built on an innovative block-lattice data structure offering unlimited scalability and no transaction fees. "
+    },
+    "links":{
+        "website":["https://nano.org/"],
+        "whitepaper":["https://content.nano.org/whitepaper/Nano_Whitepaper_en.pdf"],
+        "github":["https://github.com/nanocurrency"],
+        "documentation":["https://docs.nano.org/"],
+        "explorer":["https://www.nanolooker.com/"],
+        "twitter":["https://twitter.com/nano"],
+        "facebook":["https://facebook.com/nanofoundation"],
+        "reddit":["https://reddit.com/r/nanocurrency"],        
+        "instagram":["https://instagram.com/nanocurrency"],
+        "coinmarketcap":["https://coinmarketcap.com/currencies/nano/"],
+        "youtube":["https://www.youtube.com/nanocurrency"],
+        "telegram":["https://t.me/nanocurrency"],
+        "discord":["https://chat.nano.org/"],
+        "medium":["https://medium.com/nanocurrency"],
+        "forum"["https://forum.nano.org/"]
+        "linkedin"["https://www.linkedin.com/company/nano-foundation/"]
+        "bitcointalk":["https://bitcointalk.org/index.php?topic=1381323.0"]
+    }
+}
