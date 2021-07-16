@@ -1,0 +1,14 @@
+{
+  "tokenId": "tti_e6218b92d202a0bef2d91fb1",
+  "overview":{
+    "en":"TWaultSwap is decentralised AMM exchange on Binance Smart chain with additional features where people can earn yield.",
+    "zh":"WaultSwap is decentralised AMM exchange on Binance Smart chain with additional features where people can earn yield." },
+  "links":{
+    "website":["https://wault.finance/"],
+    "explorer":["https://bscscan.com/token/0xa9c41a46a6b3531d28d5c32f6633dd2ff05dfb90"],
+    "github":["https://github.com/WaultFinance"],
+    "telegram":["https://github.com/WaultFinance"],
+    "twitter":["https://twitter.com/Wault_Finance"],
+    "medium":["https://waultfinance.medium.com/"]
+  }
+}
