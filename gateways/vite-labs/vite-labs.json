@@ -191,10 +191,22 @@
       "mappedTokenId": "0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab",
       "url": "https://crosschain.vite.net/gateway/eth/"
     },
+    "tti_e6218b92d202a0bef2d91fb1": {
+      "mappedSymbol": "WEX",
+      "mappedNet": "BSC",
+      "mappedTokenId": "0xa9c41a46a6b3531d28d5c32f6633dd2ff05dfb90",
+      "url": "https://crosschain.vite.net/gateway/bsc/"
+    },
     "tti_c06a133b8e89de647febc357": {
       "mappedSymbol": "PANTHER",
       "mappedNet": "BSC",
       "mappedTokenId": "0x1f546ad641b56b86fd9dceac473d1c7a357276b7",
+      "url": "https://crosschain.vite.net/gateway/bsc/"
+    },
+    "tti_c06a133b8e89de647febc357": {
+      "mappedSymbol": "BNB",
+      "mappedNet": "BSC",
+      "mappedTokenId": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "url": "https://crosschain.vite.net/gateway/bsc/"
     }
   }
