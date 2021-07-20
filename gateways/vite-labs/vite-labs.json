@@ -203,10 +203,10 @@
       "mappedTokenId": "0x1f546ad641b56b86fd9dceac473d1c7a357276b7",
       "url": "https://crosschain.vite.net/gateway/bsc/"
     },
-    "tti_c06a133b8e89de647febc357": {
+    "tti_fb901364ef662c25cf43125c": {
       "mappedSymbol": "BNB",
       "mappedNet": "BSC",
-      "mappedTokenId": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "mappedTokenId": "",
       "url": "https://crosschain.vite.net/gateway/bsc/"
     }
   }
