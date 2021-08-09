@@ -1,0 +1,15 @@
+{
+    "tokenId": "tti_edcc7056cc64fe425ec610f8",
+    "overview":{
+        "en":"CoVid Vaccine Coin (CVC) is a token for Vacinnated People can share and gather to remmember, or buying the next vacinne dose."
+    },
+    "links":{
+        "website":["https://covidvaccinecoin.com/],
+        "whitepaper":["https://covidvaccinecoin.com/whitepaper.pdf"],
+        "explorer":["https://explorer.vite.net/"],
+        "twitter":["https://twitter.com/Vaccine_Coin"]
+    },
+    "initialPrice":{
+        "usd": "0.10",
+    }
+}
