@@ -38,6 +38,12 @@
       "mappedNet": "NANO",
       "mappedTokenId": "",
       "url": "https://patrola.me/gateways/nano"
-    }
+     },
+    "tti_f9bd6782f966f899d74d7df8": {
+      "mappedSymbol": "BAN",
+      "mappedNet": "BAN",
+      "mappedTokenId": "",
+      "url": "https://patrola.me/gateways/banano"
+     }
   }
 }
