@@ -1,12 +1,12 @@
 {
-	"name":"Vite Labs",
+	"name":"Vite Gateway",
        	"address":"vite_4c2c19f563187163145ab8f53f5bd36864756996e47a767ebe",
         "overview": {
-            "en": "Vite Labs is a technology provider as well as the first operator of ViteX. Vite Labs will issue common cross-chain tokens and open corresponding trading pairs. Vite Labs will weaken its role as an operator after more participants become operators on ViteX platform."
+            "en": "Vite Gateway is a technology provider as well as the first operator of ViteX. Vite Gateway will issue common cross-chain tokens and open corresponding trading pairs."
         },
         "links": {
             "website":["https://vite.org"],
-            "explorer":["https://explorer.vite.net"],
+            "explorer":["https://vitescan.io"],
             "whitepaper":["https://github.com/vitelabs/whitepaper/"]
         },
         "support":"https://vitex.zendesk.com/hc/en-001/requests/new",
