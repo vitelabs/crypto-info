@@ -44,6 +44,12 @@
       "mappedNet": "BAN",
       "mappedTokenId": "",
       "url": "https://patrola.me/gateways/banano"
+     },
+    "tti_fa197647bfee344a03440cd0": {
+      "mappedSymbol": "TRX",
+      "mappedNet": "TRX",
+      "mappedTokenId": "",
+      "url": "https://patrola.me/gateways/tron"
      }
   }
 }
