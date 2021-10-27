@@ -1,9 +1,13 @@
 {
     "tokenId": "tti_7c6f76ec3db1c8de0bcbda97",
     "overview":{
-        "en":"Bussycoin is a pussy coin hehe."
+        "en":"Bussycoin is the future.  A universal cryptocurrency for everyone, men, women, lgbtq, and the world."
     },
     "links":{
-        "discord":["https://discord.gg/5tW9bb8Nph"]
+        "website":["https://bussycoin.com"],
+        "whitepaper":["https://bussycoin.com"],
+        "explorer":["https://vitescan.io/token/tti_7c6f76ec3db1c8de0bcbda97"],
+        "github":["https://github.com/blairdrager"],
+        "blog": ["https://bussycoin.com"]
     }
 }
