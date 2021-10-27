@@ -1,0 +1,18 @@
+{
+	"name":"Vitamin Coin",
+    "address":"vite_4041e7e3d80f879001b7ff67dbef4be23827b65131ef2c79ac",
+    "overview": {
+        "en": "An operator on vitex, Vitamincoin manages all vitc pairs, and retains the ability to create pairs, add liquidity, and adjust transaction fees.",
+        "zh": "Vitamincoin是ViteX上的运营方之一，管理所有Vitc交易对的运营，可以开设新交易对，添加流动性，以及调整交易手续费。"
+    },
+    "links": {
+    	"website":["https://vitamincoin.org"],
+        "whitepaper":["https://vitamincoin.org/whitepaper"],
+        "github": ["https://github.com/orgs/VitaminCoinOrg"],
+        "email": ["contact@vitamincoin.org"],
+        "twitter": ["https://twitter.com/vitamin_coin"],
+        "reddit": ["https://reddit.com/r/VitaminCoin"],
+        "discord": ["https://discord.gg/rujqMzZpbQ"]
+    },
+    "support":"contact@vitamincoin.org"
+}
