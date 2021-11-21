@@ -143,6 +143,12 @@
          "mappedSymbol": "EPIC",
          "mappedTokenId": "",
          "url": "https://gateway.vgate.io/gateway/epic"
+       },
+       "tti_44718c5f6996f0a000142344":{
+         "mappedNet": "BSC",
+         "mappedSymbol": "DXCT",
+         "mappedTokenId": "0x5b1baec64af6dc54e6e04349315919129a6d3c23",
+         "url": "https://gateway.vgate.io/gateway/bsc"
        }
     }
 }
