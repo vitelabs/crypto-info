@@ -1,0 +1,15 @@
+{
+	"name":"VITOGETEAM",
+    "address":"vite_4f0537829130dc838457cfbefd3b91be19e72730d6a7ab912b",
+    "overview": {
+        "en": "An operator on vitex, VITOGETEAM manages all Vitoge pairs, and retains the ability to create pairs, add liquidity, and adjust transaction fees.",
+    },
+    "links": {
+    	"website":["https://vitoge.org"],
+        "whitepaper":["https://vitoge.org/wp-content/uploads/2021/11/Vitoge-Lightpaper.pdf"],
+        "github": ["https://github.com/Vitogefather"],
+        "email": ["contact@vitoge.org"],
+        "twitter": ["https://twitter.com/VitoDoge"],
+        "discord": ["https://discord.gg/RkyBXbNP"]
+    },
+}
