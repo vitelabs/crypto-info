@@ -180,6 +180,12 @@
         }
       ]
     },
+    "tti_564954455820434f494e69b5": {
+      "mappedSymbol": "VX",
+      "mappedNet": "BSC",
+      "mappedTokenId": "0xbbdac6ca30ba9189c7bf67a1f7160379f7e25835",
+      "url": "https://crosschain.vite.net/gateway/bsc/"
+    },
     "tti_a2a290f98c963f6aca7bb9e7": {
       "mappedSymbol": "NFY",
       "mappedNet": "ETH",
