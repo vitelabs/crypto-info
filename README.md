@@ -1,4 +1,4 @@
-# crypto-info
+# tokens/PRIZE
 This repository is used to collect profiles of tokens, gateways, and operators on ViteX.
 
 ##  Tokens
