@@ -1,0 +1,14 @@
+{
+	     "name":"RayBlocks",
+    "address":"vite_9ddb5bf70fcfed5a5998476a3150deaa76845aef1018c55069",
+    "overview": {
+        "en": "An operator on vitex, RayBlocks manages all XRB pairs, and retains the ability to create pairs, add liquidity, and adjust transaction fees.",
+   },
+   "links":{
+        "website":["https://www.rayblocks.org/"],
+        "whitepaper":["https://www.rayblocks.org/whitepaper"],
+        "explorer":["https://vitescan.io/token/tti_4edfa56164529e67c719a1e0"],
+        "github":["https://github.com/Tonystark988"],
+        "blog": ["https://www.rayblocks.org/"]
+    }
+}
