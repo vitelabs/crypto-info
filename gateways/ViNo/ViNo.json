@@ -56,12 +56,6 @@
       "mappedNet": "XLM",
       "mappedTokenId": "",
       "url": "https://patrola.me/gateways/xlm"
-     },
-    "tti_ae7c9df2d83d9815424c5ecc": {
-      "mappedSymbol": "PAW",
-      "mappedNet": "PAW",
-      "mappedTokenId": "",
-      "url": "https://patrola.me/gateways/paw"
      }
   }
 }
