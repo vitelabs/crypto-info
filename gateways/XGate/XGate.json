@@ -1,0 +1,37 @@
+{
+  "name": "XGate",
+  "policy": {
+    "en": "https://github.com/ViNo-community/ViNo-Custodial-Gateway/blob/main/TOS"
+  },
+  "overview": {
+    "zh": "XGate runs cross-chain services for various cryptocurrencies on Vitex",
+    "en": "XGate runs cross-chain services for various cryptocurrencies on Vitex"
+  },
+  "links": {
+    "website": [
+      "https://twitter.com/xgatevite"
+    ],
+    "explorer": [
+      "https://explorer.vite.net"
+    ],
+     "github": [
+      "https://github.com/ViNo-community"
+    ],
+     "twitter": [
+      "https://twitter.com/xgatevite"
+    ],
+     "discord": [
+      "https://t.co/lm3GpFXzoZ?amp=1"
+    ]
+  },
+  "support": "xgatevite@gmail.com",
+  "serviceSupport": "https://twitter.com/xgatevite",
+  "gatewayTokens": {
+   "tti_ae7c9df2d83d9815424c5ecc": {
+      "mappedSymbol": "PAW",
+      "mappedNet": "PAW",
+      "mappedTokenId": "",
+      "url": "https://patrola.me/gateways/paw"
+     }
+  }
+}
