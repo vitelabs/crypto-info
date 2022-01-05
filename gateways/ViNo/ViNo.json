@@ -4,8 +4,8 @@
     "en": "https://github.com/ViNo-community/ViNo-Custodial-Gateway/blob/main/TOS"
   },
   "overview": {
-    "zh": "ViNo Gateway runs cross-chain services for NANO ",
-    "en": "ViNo Gateway runs cross-chain services for NANO"
+    "zh": "ViNo Gateway runs cross-chain services for various cryptocurrencies on Vitex",
+    "en": "ViNo Gateway runs cross-chain services for various cryptocurrencies on Vitex"
   },
   "links": {
     "website": [
@@ -50,6 +50,18 @@
       "mappedNet": "TRX",
       "mappedTokenId": "",
       "url": "https://patrola.me/gateways/tron"
+     },
+    "tti_181e08c4fdb2876956245076": {
+      "mappedSymbol": "XLM",
+      "mappedNet": "XLM",
+      "mappedTokenId": "",
+      "url": "https://patrola.me/gateways/xlm"
+     },
+    "tti_ae7c9df2d83d9815424c5ecc": {
+      "mappedSymbol": "PAW",
+      "mappedNet": "PAW",
+      "mappedTokenId": "",
+      "url": "https://patrola.me/gateways/paw"
      }
   }
 }
