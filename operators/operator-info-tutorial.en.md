@@ -89,7 +89,7 @@ We recommend that you complete the procedures with your developers, or you can f
 
 1. Fork the repo to your own github account
 
-2. Clone the repo from your own account, please note: do no clone the origin one directly, but clone the repo you forked
+2. Clone the repo from your own account, please note: do not clone the origin one directly, but clone the repo you forked
 ```
 git clone https://github.com/[your-own-repo]/crypto-info.git
 cd crypto-info/
@@ -122,7 +122,7 @@ git commit -m "add operator [Operator Name] [vite_xxx]"
 git push origin operator-[vite_xxx]
 ```
 
-8. Under your repo page, click the "New pull request" button. Then, attach the detailed operator informatio, this includes but not limited to the following: (Operator name; Operator address on vite blockchain; Contact information).
+8. Under your repo page, click the "New pull request" button. Then, attach the detailed operator information, this includes but not limited to the following: (Operator name; Operator address on vite blockchain; Contact information).
 
    Sample PR: https://github.com/vitelabs/crypto-info/pull/xxx
 
