@@ -79,5 +79,5 @@ Make sure all the files were under the directory with the format-required name o
 * You can check and modify your commit information again.
     ![Github Pull Request 3](./assets/images/github6.png)
 
-* It’s already submitted successfully here, you can contract us to merge your pull request.
+* It’s already submitted successfully here, you can contact us to merge your pull request.
     ![Github Pull Request 4](./assets/images/github7.png)
