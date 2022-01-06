@@ -11,5 +11,5 @@ Cross-chain gateway provides a way to transfer digital assets between native cha
 
 
 ##  Operators
-Operator is responsbile for listing token and providing service related to deposits and withdrawals on ViteX, and is required to prepare a detailed introduction.  The information should be provided here:
+Operator is responsible for listing token and providing service related to deposits and withdrawals on ViteX, and is required to prepare a detailed introduction.  The information should be provided here:
 - [Operator Profile Guideline](operators/operator-info-tutorial.en.md)
