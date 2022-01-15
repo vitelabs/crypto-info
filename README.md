@@ -6,7 +6,7 @@ Minting token is easy on Vite. In order to have your token well explained, such 
 - [Vite Token Profile Guideline](tokens/vite-tutorial.en.md)
 
 ##  Gateways
-Cross-chain gateway provides a way to transfer digital assets between native chains and the Vite chain. You is able to setup your own gateway, and submit the gateway's information so it can be correctly presented in ViteX. 
+Cross-chain gateway provides a way to transfer digital assets between native chains and the Vite chain. You are able to setup your own gateway, and submit the gateway's information so it can be correctly presented in ViteX. 
 - [Gateway Profile Guideline](gateways/gateway-info-tutorial.en.md)
 
 
