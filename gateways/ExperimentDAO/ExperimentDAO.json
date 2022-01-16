@@ -1,0 +1,49 @@
+{
+    "name": "ExperimentDAO",
+    "policy": {
+        "en": "https://github.com/thomiz-dev/public/blob/TOS.md"
+    },
+    "overview": {
+        "en": "The Most Advanced Gateway DAO on VITE. As a gateway, eDAO bridges external cryptocurrencies making a real change in the crypto ecosystem.",
+        "zh": "eDAO是VITE鏈上最先进的跨鏈网关去中心化治組織(DAO)。eDAO为在加密货币生态系统中做出真正改变的加密货币搭建一座通往VITE鏈的跨鏈桥梁。"
+    },
+    "links": {
+        "website": [
+            "https://dao.thomiz.dev"
+        ],
+        "whitepaper": [
+            "https://dao.thomiz.dev/intro.pdf"
+        ],
+        "github": [
+            "https://github.com/thomiz-dev"
+        ],
+        "discord": [
+            "https://discord.gg/pC3rMTSgcB"
+        ],
+        "explorer": [
+            "https://vitcscan.thomiz.dev"
+        ],
+        "email": [
+            "thomiz_dev@protonmail.com"
+        ],
+        "twitter": [
+            "https://twitter.com/ExperimentDAO"
+        ]
+    },
+    "support": "gateway@support.org",
+    "serviceSupport": "https://discord.gg/pC3rMTSgcB",
+    "gatewayTokens": {
+        "tti_60ce61fb1bf38a32be3bfb91": {
+            "mappedSymbol": "LUNA",
+            "mappedNet": "TERRA",
+            "mappedTokenId": "",
+            "url": "https://gateways.thomiz.dev"
+        },
+        "tti_3d482aaceb076a729cb3967b": {
+            "mappedSymbol": "UST",
+            "mappedNet": "TERRA",
+            "mappedTokenId": "",
+            "url": "https://gateways.thomiz.dev"
+        }
+    }
+}
