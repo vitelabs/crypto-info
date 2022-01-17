@@ -37,13 +37,13 @@
             "mappedSymbol": "LUNA",
             "mappedNet": "TERRA",
             "mappedTokenId": "",
-            "url": "https://gateways.thomiz.dev"
+            "url": "https://gateways.thomiz.dev/terra"
         },
         "tti_3d482aaceb076a729cb3967b": {
             "mappedSymbol": "UST",
             "mappedNet": "TERRA",
             "mappedTokenId": "",
-            "url": "https://gateways.thomiz.dev"
+            "url": "https://gateways.thomiz.dev/terra"
         }
     }
 }
