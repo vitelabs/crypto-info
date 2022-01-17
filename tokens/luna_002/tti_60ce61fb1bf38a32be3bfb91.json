@@ -1,0 +1,23 @@
+{
+    "tokenId": "tti_60ce61fb1bf38a32be3bfb91",
+    "overview": {
+        "en": "Mesh is a token on the Vite network. It uses the daily rewards earned by a Snapshot Block Producer (SBP) to reward its holders. All funds received in the presale will go towards listing Mesh and funding an SBP. Unlike other SBPs on the Vite network, MeshSBP will be the only SBP to distribute 100% of its rewards."
+    },
+    "links": {
+        "website": [
+            "https://terra.money"
+        ],
+        "whitepaper": [
+            "https://terra.money/Terra_White_paper.pdf"
+        ],
+        "explorer": [
+            "https://finder.terra.money/mainnet/"
+        ],
+        "github": [
+            "https://github.com/terra-project"
+        ],
+        "twitter": [
+            "https://twitter.com/terra_money"
+        ]
+    }
+}
