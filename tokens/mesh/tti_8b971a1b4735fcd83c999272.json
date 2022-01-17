@@ -1,0 +1,20 @@
+{
+    "tokenId": "tti_8b971a1b4735fcd83c999272",
+    "overview": {
+        "en": "Mesh is a token on the Vite network. It uses the daily rewards earned by a Snapshot Block Producer (SBP) to reward its holders. All funds received in the presale will go towards listing Mesh and funding an SBP. Unlike other SBPs on the Vite network, MeshSBP will be the only SBP to distribute 100% of its rewards."
+    },
+    "links": {
+        "website": [
+            "https://meshsbp.com"
+        ],
+        "whitepaper": [
+            "https://meshsbp.com/whitepaper.pdf"
+        ],
+        "explorer": [
+            "https://vitcscan.thomiz.dev/"
+        ],
+        "github": [
+            "https://github.com/meshsbp/"
+        ]
+    }
+}
