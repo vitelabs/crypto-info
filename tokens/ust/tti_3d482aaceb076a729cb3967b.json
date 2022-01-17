@@ -1,0 +1,23 @@
+{
+    "tokenId": "tti_3d482aaceb076a729cb3967b",
+    "overview": {
+        "en": "TerraUSD (or UST) is a decentralized, scalable, interest-bearing, and algorithmic stablecoin offering a wide range of features. In particular, it is famous for its predominantly infinitely scalable monetary policy. The stablecoin has grown into its role as the ultimately scalable stablecoin since its launch in 2020. With a surging demand in stablecoins, it was clear that most of them are not genuinely scalable. Therefore, there was a need for a stablecoin like TerraUSD."
+    },
+    "links": {
+        "website": [
+            "https://terra.money"
+        ],
+        "whitepaper": [
+            "https://terra.money/Terra_White_paper.pdf"
+        ],
+        "explorer": [
+            "https://finder.terra.money/mainnet/"
+        ],
+        "github": [
+            "https://github.com/terra-project"
+        ],
+        "twitter": [
+            "https://twitter.com/terra_money"
+        ]
+    }
+}
