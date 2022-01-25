@@ -47,8 +47,6 @@ Prepare submission documents under the following requirements.
     * medium
     * blog
 
-    > Note: We consider projects that fill in the `website`,`whitepaper`,`github` fields to be generally reliable gateways that do not give warning messages in ViteX.
-
 * `overview`
     
     * **en** 
