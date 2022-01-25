@@ -22,7 +22,7 @@ Prepare submission documents under the following requirements.
 | overview | necessary | introduction of your token | Map<String, String> |
 | links | necessary | website, whitepaper, github, and other media links | Map<String, List<String>> |
 | support | necessary | customer service can be provided through Discord or Telegram | String |
-| gatewayTokens | necessary | details of cross-chain coin mapped | Map<String, GatewayMappedTokenDetail> |
+| gatewayTokens | necessary | details of cross-chain coin | Map<String, GatewayMappedTokenDetail> |
 | selfCertification | necessary | self-certification status. It should be YES (see below for more details) | String |
 
 > The logo and json file names should both be your gateway name, and written in all `lowercase` letters. If the original name contains space, replace with `-`. Example: if your gateway name is Vite Labs, your file names should be vite-labs.json and vite-labs.png.
@@ -39,7 +39,7 @@ Gateway applicants should self-certify that the following guidelines have been m
 **_Ultimately the gateway is solely responsible for customer funds, and ViteX bears no liability for any loss._**
 	
 
-#### Gateway Mapped Token Detail
+#### Gateway Cross-chain Token ("Mapped Token") Detail
 
 | field | necessity |description | schema type |
 |:------------:|:-----:|:-----------:|:-----:|
