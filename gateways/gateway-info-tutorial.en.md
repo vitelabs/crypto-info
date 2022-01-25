@@ -18,14 +18,14 @@ Prepare submission documents under the following requirements.
 | field | necessity |description | schema type |
 |:------------:|:-----:|:-----------:|:-----:|
 | name | necessary | gateway name | String |
-| policy | necessary | Terms of service, terms of exchange, restrictions and privacy policies | Map<String,String> |
-| overview | necessary | introduction of your token | Map<String,String> |
-| links | necessary | website, whitepaper, github, and other media links | Map<String,List<String>> |
+| policy | necessary | Terms of service, terms of exchange, restrictions and privacy policies | Map<String, String> |
+| overview | necessary | introduction of your token | Map<String, String> |
+| links | necessary | website, whitepaper, github, and other media links | Map<String, List<String>> |
 | support | necessary | customer service can be provided through Discord or Telegram | String |
-| gatewayTokens | necessary | details of cross-chain coin mapped | Map<String,GatewayMappedTokenDetail> |
+| gatewayTokens | necessary | details of cross-chain coin mapped | Map<String, GatewayMappedTokenDetail> |
 | selfCertification | necessary | self-certification status. It should be YES (see below for more details) | String |
 
-> Filename should be your gateway name in all `lowercase` letters and the string must be join with `-`, same name for both .json and .png (Including capitalization), eg: Vite Labs -> vite-labs, vite-labs.json | vite-labs.png
+> The logo and json file names should both be your gateway name, and written in all `lowercase` letters. If the original name contains space, replace with `-`. Example: if your gateway name is Vite Labs, your file names should be vite-labs.json and vite-labs.png.
 
 #### Self-Certification
 	
@@ -36,8 +36,9 @@ Gateway applicants should self-certify that the following guidelines have been m
 - Unit Tests to make sure deposit/withdraw works well (try with edge cases)
 - Code Review of the gateway code by a trusted third-party (without sharing the code with a potential attacker looking to exploit the code)
 	
-**Ultimately the gateway is solely responsible for customer funds, and ViteX bears no liability for any loss.**
-	
+_**Ultimately the gateway is solely responsible for customer funds, and ViteX bears no liability for any loss.**
+_	
+
 #### Gateway Mapped Token Detail
 
 | field | necessity |description | schema type |
@@ -47,7 +48,7 @@ Gateway applicants should self-certify that the following guidelines have been m
 | mappedTokenId | necessary | unique key of the cross-chain coin, eg: 0x1b793E49237758dBD8b752AFC9Eb4b329d5Da016 | String |
 | url | necessary | apiUrl for your gateway | String |
 
-> Note: For more information about API specification for the field `url`, please refer to the tutorial here: [Gateway Profile Guideline](apiurl-tutorial.en.md)
+> Note: To learn more about the API specification for the field `url`, see this tutorial: [Gateway Profile Guideline](apiurl-tutorial.en.md)
 
 #### Keyword in the field  Map-Value above.
 
