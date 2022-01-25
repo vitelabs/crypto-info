@@ -1,0 +1,23 @@
+{
+    "tokenId": "tti_60ce61fb1bf38a32be3bfb91",
+    "overview": {
+        "en": "Terra (LUNA) is a blockchain protocol created to develop stable cryptocurrencies and a transparent financial infrastructure, focused on payments and smart contracts. Its key goal is to replace payment chains that include banks, payment gateways and credit card networks."
+    },
+    "links": {
+        "website": [
+            "https://terra.money"
+        ],
+        "whitepaper": [
+            "https://terra.money/Terra_White_paper.pdf"
+        ],
+        "explorer": [
+            "https://finder.terra.money/mainnet/"
+        ],
+        "github": [
+            "https://github.com/terra-project"
+        ],
+        "twitter": [
+            "https://twitter.com/terra_money"
+        ]
+    }
+}
