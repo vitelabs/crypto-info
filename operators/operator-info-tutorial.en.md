@@ -20,7 +20,7 @@ Prepare submission documents under the following requirements.
 | name | necessary | gateway name | String |
 | address | necessary | owner of the trade pairs | String |
 | overview | necessary | introduction of your token | Map<String,String> |
-| links | optional | website,whitepaper,github, and other media links. | Map<String,List<String>> |
+| links | necessary | website,whitepaper,github, and other media links. | Map<String,List<String>> |
 | support | necessary | customer service, eg: support@*****.com | String |
 
 > Filename should be your operator address in all `lowercase` letters, same name for both .json and .png (Including capitalization), eg: vite_050697d3810c30816b005a03511c734c1159f50907662b046f
