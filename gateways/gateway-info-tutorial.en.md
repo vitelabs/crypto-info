@@ -20,20 +20,32 @@ Prepare submission documents under the following requirements.
 | name | necessary | gateway name | String |
 | policy | necessary | Terms of service, terms of exchange, restrictions and privacy policies | Map<String,String> |
 | overview | necessary | introduction of your token | Map<String,String> |
-| links | optional | website,whitepaper,github, and other media links. | Map<String,List<String>> |
-| support | necessary | customer service, eg: support@*****.com | String |
-| gatewayTokens | necessary | details of extranet coin mapped | Map<String,GatewayMappedTokenDetail> |
+| links | necessary | website, whitepaper, github, and other media links | Map<String,List<String>> |
+| support | necessary | customer service can be provided through Discord or Telegram | String |
+| gatewayTokens | necessary | details of cross-chain coin mapped | Map<String,GatewayMappedTokenDetail> |
+| selfCertification | necessary | self-certification status. It should be YES (see below for more details) | String |
 
 > Filename should be your gateway name in all `lowercase` letters and the string must be join with `-`, same name for both .json and .png (Including capitalization), eg: Vite Labs -> vite-labs, vite-labs.json | vite-labs.png
 
-#### GatewayMappedTokenDetail
+#### Self-Certification
+	
+Gateway applicants should self-certify that the following guidelines have been met.
+
+- The cross-chain gateway has been set up and running for at a minimum of 1 month without known issues
+- Internal policy on securing the original assets, such as managing custody with hot/cold wallet approach, safeguarding keys to ensure they are not stolen
+- Unit Tests to make sure deposit/withdraw works well (try with edge cases)
+- Code Review of the gateway code by a trusted third-party (without sharing the code with a potential attacker looking to exploit the code)
+	
+**Ultimately the gateway is solely responsible for customer funds, and ViteX bears no liability for any loss.**
+	
+#### Gateway Mapped Token Detail
 
 | field | necessity |description | schema type |
 |:------------:|:-----:|:-----------:|:-----:|
-| mappedSymbol | necessary | symbol of the extranet coin mapped, eg: VITE | String |
-| mappedNet | necessary | category of the extranet coin mapped, eg: ETH | String |
-| mappedTokenId | necessary | unique key of the extranet coin mapped, eg: 0x1b793E49237758dBD8b752AFC9Eb4b329d5Da016 | String |
-| url | necessary | apiUrl your gateway provided | String |
+| mappedSymbol | necessary | symbol of the cross-chain coin, eg: UNI | String |
+| mappedNet | necessary | category of the cross-chain coin, eg: ETH | String |
+| mappedTokenId | necessary | unique key of the cross-chain coin, eg: 0x1b793E49237758dBD8b752AFC9Eb4b329d5Da016 | String |
+| url | necessary | apiUrl for your gateway | String |
 
 > Note: For more information about API specification for the field `url`, please refer to the tutorial here: [Gateway Profile Guideline](apiurl-tutorial.en.md)
 
@@ -63,8 +75,6 @@ Prepare submission documents under the following requirements.
     * medium
     * blog
 
-    > Note: We consider projects that fill in the `website`,`whitepaper`,`github` fields to be generally reliable gateways that do not give warning messages in ViteX.
-
 * `overview`
     
     * **en** 
@@ -86,7 +96,7 @@ Prepare submission documents under the following requirements.
 
 ```json
 {
-	"name":"Vite Labs",
+    "name":"Vite Labs",
     "policy":{
     	"en":"https://x.vite.net/privacy.html"
     },
