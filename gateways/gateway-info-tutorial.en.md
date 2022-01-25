@@ -15,7 +15,7 @@ Prepare submission documents under the following requirements.
 
 `JSON FILE`
 
-| field | necessity |description | schema type |
+| field | value required |description | schema type |
 |:------------:|:-----:|:-----------:|:-----:|
 | name | necessary | gateway name | String |
 | policy | necessary | Terms of service, terms of exchange, restrictions and privacy policies | Map<String, String> |
