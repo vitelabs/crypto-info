@@ -36,8 +36,8 @@ Gateway applicants should self-certify that the following guidelines have been m
 - Unit Tests to make sure deposit/withdraw works well (try with edge cases)
 - Code Review of the gateway code by a trusted third-party (without sharing the code with a potential attacker looking to exploit the code)
 	
-_**Ultimately the gateway is solely responsible for customer funds, and ViteX bears no liability for any loss.**
-_	
+**_Ultimately the gateway is solely responsible for customer funds, and ViteX bears no liability for any loss._**
+	
 
 #### Gateway Mapped Token Detail
 
