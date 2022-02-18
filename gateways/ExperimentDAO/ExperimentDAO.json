@@ -44,6 +44,12 @@
             "mappedNet": "TERRA",
             "mappedTokenId": "",
             "url": "https://gateways.thomiz.dev/terra"
+        },
+        "tti_8364a003d3a2d3c22af015ec": {
+            "mappedSymbol": "SAITO",
+            "mappedNet": "BSC",
+            "mappedTokenId": "0x3c6dad0475d3a1696b359dc04c99fd401be134da",
+            "url": "https://gateways.thomiz.dev/bsc"
         }
     }
 }
