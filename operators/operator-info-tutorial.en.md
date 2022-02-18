@@ -15,13 +15,13 @@ Prepare submission documents under the following requirements.
 
 `JSON FILE`
 
-| field | necessity |description | schema type |
+| field | value required |description | schema type |
 |:------------:|:-----:|:-----------:|:-----:|
 | name | necessary | gateway name | String |
 | address | necessary | owner of the trade pairs | String |
 | overview | necessary | introduction of your token | Map<String,String> |
-| links | optional | website,whitepaper,github, and other media links. | Map<String,List<String>> |
-| support | necessary | customer service, eg: support@*****.com | String |
+| links | necessary | website, whitepaper, github, and other media links | Map<String,List<String>> |
+| support | necessary | customer service can be provided through Discord or Telegram | String |
 
 > Filename should be your operator address in all `lowercase` letters, same name for both .json and .png (Including capitalization), eg: vite_050697d3810c30816b005a03511c734c1159f50907662b046f
 
@@ -46,8 +46,6 @@ Prepare submission documents under the following requirements.
     * linkedin
     * medium
     * blog
-
-    > Note: We consider projects that fill in the `website`,`whitepaper`,`github` fields to be generally reliable gateways that do not give warning messages in ViteX.
 
 * `overview`
     

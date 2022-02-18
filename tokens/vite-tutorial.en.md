@@ -16,11 +16,11 @@ Prepare submission documents under the following requirements.
 
 `JSON FILE`
 
-| field | necessity |description | schema type |
+| field | value required | description | schema type |
 |:------------:|:-----:|:-----------:|:-----:|
 | tokenId | necessary | tokenId on Vite BlockChain | String |
-| overview | necessary | introduction of your token | Map<String,String> |
-| links | optional | website,whitepaper,github, and other media links. | Map<String,List<String>> |
+| overview | necessary | introduction of your token | Map<String, String> |
+| links | optional | website, whitepaper, github, and other media links. | Map<String, List<String>> |
 | initialPrice | optional | the initial price of your token to the base currency | String |
 
 > Filename should be your token ID in all `lowercase` letters, same name for both .json and .png (Including capitalization), eg: tti_b90c9baffffc9dae58d1f33f.json, tti_b90c9baffffc9dae58d1f33f.png
@@ -46,8 +46,6 @@ Prepare submission documents under the following requirements.
     * linkedin
     * medium
     * blog
-
-    > Note: We consider projects that fill in the `website`,`whitepaper`,`github` fields to be generally reliable gateways that do not give warning messages in ViteX.
 
 * `overview`
     

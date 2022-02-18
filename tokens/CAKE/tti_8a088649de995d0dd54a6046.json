@@ -1,0 +1,21 @@
+{
+    "tokenId": "tti_8a088649de995d0dd54a6046",
+    "overview":{
+        "zh":"PancakeSwap is an automated market maker (AMM) — a decentralized finance (DeFi) application that allows users to exchange tokens, providing liquidity via farming and earning fees in return.",
+        "en":"PancakeSwap is an automated market maker (AMM) — a decentralized finance (DeFi) application that allows users to exchange tokens, providing liquidity via farming and earning fees in return."
+    },
+    "links":{
+        "website":["https://pancakeswap.finance/"],
+        "whitepaper":["https://docs.pancakeswap.finance/tokenomics/cake"],
+        "github":["https://github.com/pancakeswap"],
+        "documentation":["https://docs.pancakeswap.finance/"],
+        "explorer":["https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"],
+        "twitter":["https://twitter.com/pancakeswap"],
+        "reddit":["https://reddit.com/r/pancakeswap"],        
+        "instagram":["https://instagram.com/pancakeswap_official"],
+        "coinmarketcap":["https://coinmarketcap.com/currencies/pancakeswap/"],
+        "telegram":["https://t.me/pancakeswap"],
+        "discord":["https://discord.gg/pancakeswap"],
+        "medium":["https://medium.com/@pancakeswap"]
+    }
+}
