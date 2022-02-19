@@ -79,16 +79,10 @@ Gateway applicants should self-certify that the following guidelines have been m
 * `overview`
     
     * **en** 
-    * zh
-  
-    > Note: Providing an English version is essential.
 
 * `policy`
     
     * **en** 
-    * zh
-
-    > Note: Providing an English version is essential.
 
 > Note: you must use the right key name, and all must be `lowercase`.
 
@@ -102,7 +96,6 @@ Gateway applicants should self-certify that the following guidelines have been m
     	"en":"https://x.vite.net/privacy.html"
     },
     "overview":{
-    	"zh":"Vite Labs官方网关，负责BTC、ETH、USDT(ERC20)、GRIN四种代币跨链服务",
     	"en":"The gateway provided by Vite Labs, running cross-chain services for four coins: BTC, ETH, USDT(ERC20)"
     },
     "links": {
