@@ -1,0 +1,23 @@
+{
+    "tokenId": "tti_8364a003d3a2d3c22af015ec",
+    "overview": {
+        "en": "Saito is a layer one blockchain that pays nodes in the P2P network instead of miners or stakers, delivering a permissionless and scalable network capable of powering decentralized versions of Twitter, Facebook and Amazon without the need for predatory monopolies in the network layer."
+    },
+    "links": {
+        "website": [
+            "https://saito.io/"
+        ],
+        "whitepaper": [
+            "https://saito.io/saito-whitepaper.pdf"
+        ],
+        "explorer": [
+            "https://bscscan.com/"
+        ],
+        "github": [
+            "https://github.com/SaitoTech"
+        ],
+        "twitter": [
+            "https://twitter.com/SaitoOfficial"
+        ]
+    }
+}
