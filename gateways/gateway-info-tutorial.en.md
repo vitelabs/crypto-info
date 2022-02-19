@@ -48,7 +48,7 @@ Gateway applicants should self-certify that the following guidelines have been m
 | mappedTokenId | necessary | unique key of the cross-chain coin, eg: 0x1b793E49237758dBD8b752AFC9Eb4b329d5Da016 | String |
 | url | necessary | apiUrl for your gateway | String |
 
-> Note: To learn more about the API specification for the field `url`, see this tutorial: [Gateway Profile Guideline](apiurl-tutorial.en.md)
+> Note: To learn more about the API specification for the field `url`, see this tutorial: [Gateway Profile Guideline](https://docs.vite.org/go-vite/dex/gateway/gateway-protocol.html)
 
 #### Keyword in the field  Map-Value above.
 
