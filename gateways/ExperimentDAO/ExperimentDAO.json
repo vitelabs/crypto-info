@@ -56,6 +56,12 @@
             "mappedNet": "ONE",
             "mappedTokenId": "0x0007e7f456a6bb854606f04cc16989acfe42f2f2",
             "url": "https://gateways.thomiz.dev/one"
+        },
+        "tti_5c3e2df1729d8d402a8275b8": {
+            "mappedSymbol": "WAXP",
+            "mappedNet": "WAX",
+            "mappedTokenId": "",
+            "url": "https://gateways.thomiz.dev/wax"
         }
     }
 }
