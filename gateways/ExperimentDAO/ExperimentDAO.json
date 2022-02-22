@@ -50,6 +50,12 @@
             "mappedNet": "BSC",
             "mappedTokenId": "0x3c6dad0475d3a1696b359dc04c99fd401be134da",
             "url": "https://gateways.thomiz.dev/bsc"
+        },
+        "tti_22d0b205bed4d268a05dfc3c": {
+            "mappedSymbol": "VITC",
+            "mappedNet": "ONE",
+            "mappedTokenId": "0x0007e7f456a6bb854606f04cc16989acfe42f2f2",
+            "url": "https://gateways.thomiz.dev/one"
         }
     }
 }
