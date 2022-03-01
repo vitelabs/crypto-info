@@ -1,0 +1,16 @@
+{
+    "tokenId": "tti_3e84e81880b9eb297dd411e6",
+    "overview":{
+        "zh":"The PooCoin app provides chart and portfolio management for the Binance Smart Chain and aims to improve on existing DEXes in several ways. It mainly aims to rival Uniswap and Pancakeswap.",
+        "en":"The PooCoin app provides chart and portfolio management for the Binance Smart Chain and aims to improve on existing DEXes in several ways. It mainly aims to rival Uniswap and Pancakeswap."
+    },
+    "links":{
+        "website":["https://poocoin.app/"],
+        "explorer":["https://bscscan.com/token/0xb27adaffb9fea1801459a1a81b17218288c097cc"],
+        "twitter":["https://twitter.com/poocoin_token"],
+        "reddit":["https://reddit.com/r/PooCoin"],        
+        "coinmarketcap":["https://coinmarketcap.com/currencies/poocoin/"],
+        "telegram":["https://t.me/poocointokenchat"],
+        "youtube":["https://www.youtube.com/channel/UC3RkEL8zAZ4ViSoLQD4vgLQ"]
+    }
+}
