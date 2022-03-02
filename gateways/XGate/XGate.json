@@ -39,6 +39,18 @@
       "mappedTokenId": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
       "url": "https://patrola.me/gateways/bsc"
 },
+    "tti_6ec2144693dd31db48b20a63": {
+      "mappedSymbol": "MATIC",
+      "mappedNet": "BSC",
+      "mappedTokenId": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+      "url": "https://patrola.me/gateways/bsc"
+},
+    "tti_3e84e81880b9eb297dd411e6": {
+      "mappedSymbol": "POOCOIN",
+      "mappedNet": "BSC",
+      "mappedTokenId": "0xB27ADAfFB9fEa1801459a1a81B17218288c097cc",
+      "url": "https://patrola.me/gateways/bsc"
+},
     "tti_541b25bd5e5db35166864096": {
       "mappedSymbol": "VINU",
       "mappedNet": "BSC",

@@ -1,0 +1,21 @@
+{
+    "tokenId": "tti_6ec2144693dd31db48b20a63",
+    "overview":{
+        "zh":"Polygon is the first well-structured, easy-to-use platform for Ethereum scaling and infrastructure development. Its core component is Polygon SDK, a modular, flexible framework that supports building multiple types of applications.",
+        "en":"Polygon is the first well-structured, easy-to-use platform for Ethereum scaling and infrastructure development. Its core component is Polygon SDK, a modular, flexible framework that supports building multiple types of applications."
+    },
+    "links":{
+        "website":["https://polygon.technology/"],
+        "whitepaper":["https://github.com/maticnetwork/whitepaper"],
+        "github":["https://github.com/maticnetwork/"],
+        "documentation":["https://docs.polygon.technology/"],
+        "explorer":["https://bscscan.com/token/0xcc42724c6683b7e57334c4e856f4c9965ed682bd"],
+        "twitter":["https://twitter.com/0xPolygon"],
+        "reddit":["https://reddit.com/r/0xPolygon/"],        
+        "instagram":["https://instagram.com/0xpolygon/"],
+        "coinmarketcap":["https://coinmarketcap.com/currencies/polygon/"],
+        "telegram":["https://t.me/polygonofficial"],
+        "discord":["https://discord.gg/polygon"],
+        "blog":["https://blog.polygon.technology/"]
+    }
+}
