@@ -1,0 +1,23 @@
+{
+    "tokenId": "tti_42dda11891d8073f08578289",
+    "overview": {
+        "en": "Fantom is an open-source decentralized smart contract platform for DApps and digital assets that was created as an alternative to Ethereum. Fantom has the goal of overcoming the limitations of previous generation blockchains and balancing three components: scalability, security and decentralization. The project offers a set of tools to simplify the process of integrating existing DApps, as well as a detailed staking reward system and built-in DeFi instruments."
+    },
+    "links": {
+        "website": [
+            "https://fantom.foundation/"
+        ],
+        "whitepaper": [
+            "https://fantom.foundation/research/wp_fantom_v1.6.pdf "
+        ],
+        "explorer": [
+            "https://ftmscan.com/"
+        ],
+        "github": [
+            "https://github.com/Fantom-Foundation"
+        ],
+        "twitter": [
+            "https://twitter.com/FantomFDN"
+        ]
+    }
+}
