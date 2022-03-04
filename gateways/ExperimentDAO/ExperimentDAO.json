@@ -62,6 +62,12 @@
             "mappedNet": "WAX",
             "mappedTokenId": "",
             "url": "https://gateways.thomiz.dev/wax"
+        },
+        "tti_42dda11891d8073f08578289": {
+            "mappedSymbol": "FTM",
+            "mappedNet": "FTM",
+            "mappedTokenId": "",
+            "url": "https://gateways.thomiz.dev/ftm"
         }
     }
 }
