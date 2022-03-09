@@ -68,6 +68,12 @@
             "mappedNet": "FTM",
             "mappedTokenId": "",
             "url": "https://gateways.thomiz.dev/ftm"
+        },
+        "tti_c34069d833433fa25ae97441": {
+            "mappedSymbol": "AVAX",
+            "mappedNet": "AVAX",
+            "mappedTokenId": "",
+            "url": "https://gateways.thomiz.dev/avax"
         }
     }
 }
