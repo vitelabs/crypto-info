@@ -1,0 +1,23 @@
+{
+    "tokenId": "tti_f94c6bf7ffb1982691322d50",
+    "overview": {
+        "en": "VITCWONE is the Liquidity Pool token from ViperSwap on Harmony for the VITC/WONE pair. By bridging it to Vite, Vitamin Coin allows the staking and the trading of the said tokens."
+    },
+    "links": {
+        "website": [
+            "https://vitamincoin.org/home"
+        ],
+        "whitepaper": [
+            "https://www.vitamincoin.org/_files/ugd/5e11c5_38028ce8c7f8404194ecd065dfd83159.pdf"
+        ],
+        "explorer": [
+            "https://explorer.harmony.one/"
+        ],
+        "github": [
+            "https://github.com/vitamin-coin"
+        ],
+        "twitter": [
+            "https://twitter.com/vitamin_coin"
+        ]
+    }
+}
