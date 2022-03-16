@@ -44,6 +44,13 @@
       "mappedNet": "BSC",
       "mappedTokenId": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
       "url": "https://patrola.me/gateways/bsc"
+      "extraStandards": [ {
+        "mappedNet": "MATIC",
+        "mappedTokenId": "0x0000000000000000000000000000000000001010",
+        "standard": "MATIC",
+        "url": "https://patrola.me/gateways/matic"
+        }
+      ]
 },
     "tti_3e84e81880b9eb297dd411e6": {
       "mappedSymbol": "POOCOIN",
