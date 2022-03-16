@@ -14,50 +14,49 @@
     "explorer": [
       "https://explorer.vite.net"
     ],
-     "github": [
+    "github": [
       "https://github.com/ViNo-community"
     ],
-     "twitter": [
+    "twitter": [
       "https://twitter.com/xgatevite"
     ],
-     "discord": [
+    "discord": [
       "https://t.co/lm3GpFXzoZ?amp=1"
     ]
   },
   "support": "xgatevite@gmail.com",
   "serviceSupport": "https://twitter.com/xgatevite",
   "gatewayTokens": {
-   "tti_ae7c9df2d83d9815424c5ecc": {
+    "tti_ae7c9df2d83d9815424c5ecc": {
       "mappedSymbol": "PAW",
       "mappedNet": "PAW",
       "mappedTokenId": "",
       "url": "https://paw.patrola.me/"
-  },
+    },
     "tti_8a088649de995d0dd54a6046": {
       "mappedSymbol": "CAKE",
       "mappedNet": "BSC",
       "mappedTokenId": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
       "url": "https://patrola.me/gateways/bsc"
-},
+    },
     "tti_6ec2144693dd31db48b20a63": {
       "mappedSymbol": "MATIC",
       "mappedNet": "BSC",
       "mappedTokenId": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
-      "url": "https://patrola.me/gateways/bsc"
-      "extraStandards": [ {
+      "url": "https://patrola.me/gateways/bsc",
+      "extraStandards": [{
         "mappedNet": "MATIC",
         "mappedTokenId": "0x0000000000000000000000000000000000001010",
         "standard": "MATIC",
         "url": "https://patrola.me/gateways/matic"
-        }
-      ]
-},
+      }]
+    },
     "tti_3e84e81880b9eb297dd411e6": {
       "mappedSymbol": "POOCOIN",
       "mappedNet": "BSC",
       "mappedTokenId": "0xB27ADAfFB9fEa1801459a1a81B17218288c097cc",
       "url": "https://patrola.me/gateways/bsc"
-},
+    },
     "tti_541b25bd5e5db35166864096": {
       "mappedSymbol": "VINU",
       "mappedNet": "BSC",
