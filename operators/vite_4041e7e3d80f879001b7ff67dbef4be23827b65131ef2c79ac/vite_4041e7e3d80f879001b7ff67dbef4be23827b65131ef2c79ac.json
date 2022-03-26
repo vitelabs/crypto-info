@@ -1,5 +1,5 @@
 {
-	"name":"Vitamin Coin",
+    "name":"Vitamin Coin",
     "address":"vite_4041e7e3d80f879001b7ff67dbef4be23827b65131ef2c79ac",
     "overview": {
         "en": "An operator on vitex, Vitamincoin manages all vitc pairs, and retains the ability to create pairs, add liquidity, and adjust transaction fees.",
@@ -12,7 +12,7 @@
         "email": ["contact@vitamincoin.org"],
         "twitter": ["https://twitter.com/vitamin_coin"],
         "reddit": ["https://reddit.com/r/VitaminCoin"],
-        "discord": ["https://discord.gg/rujqMzZpbQ"]
+        "discord": ["https://discord.gg/VrpnESbxEm"]
     },
     "support":"contact@vitamincoin.org"
 }
