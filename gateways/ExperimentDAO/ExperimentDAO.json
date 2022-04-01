@@ -80,6 +80,12 @@
             "mappedNet": "AVAX",
             "mappedTokenId": "",
             "url": "https://gateways.thomiz.dev/avax"
+        },
+        "tti_b3fbb46b9318b3d168ba904e": {
+            "mappedSymbol": "VICAT",
+            "mappedNet": "BSC",
+            "mappedTokenId": "0x3bfad48181c9e88e1dd9c1b48887e33e2653db4d",
+            "url": "https://gateways.thomiz.dev/bsc"
         }
     }
 }
