@@ -56,12 +56,13 @@
       "mappedNet": "ETH",
       "mappedTokenId": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
       "url": "https://crosschain.vite.net/gateway/eth",
-      "extraStandards": [ {
-        "mappedNet": "BSC",
-        "mappedTokenId": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
-        "standard": "BEP20",
-        "url": "https://crosschain.vite.net/gateway/bsc/"
-      }
+      "extraStandards": [
+        {
+          "mappedNet": "BSC",
+          "mappedTokenId": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+          "standard": "BEP20",
+          "url": "https://crosschain.vite.net/gateway/bsc/"
+        }
       ]
     },
     "tti_4a04203e28bb8f3dc3d8f9b1": {

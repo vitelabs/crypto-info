@@ -92,6 +92,24 @@
             "mappedNet": "BSC",
             "mappedTokenId": "0x3bfad48181c9e88e1dd9c1b48887e33e2653db4d",
             "url": "https://gateways.thomiz.dev/bsc"
+        },
+        "tti_b16504fe7ab6ba16618c3645": {
+            "mappedSymbol": "ANA",
+            "mappedNet": "ANA",
+            "mappedTokenId": "",
+            "url": "https://gateways.thomiz.dev/ana",
+            "extraStandards": [{
+                "mappedNet": "XLM",
+                "mappedTokenId": "",
+                "standard": "XLM",
+                "url": "https://gateways.thomiz.dev/xlm"
+            }]
+        },
+        "tti_6312d2a685a9bd7a54250cb9": {
+            "mappedSymbol": "VITCWBNB",
+            "mappedNet": "BSC",
+            "mappedTokenId": "0xFc5A7fA67494677FB806dA463e8dF950205090b0",
+            "url": "https://gateways.thomiz.dev/bsc"
         }
     }
 }
