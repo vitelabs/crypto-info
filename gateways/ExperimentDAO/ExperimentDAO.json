@@ -53,9 +53,15 @@
         },
         "tti_22d0b205bed4d268a05dfc3c": {
             "mappedSymbol": "VITC",
-            "mappedNet": "ONE",
-            "mappedTokenId": "0x0007e7f456a6bb854606f04cc16989acfe42f2f2",
-            "url": "https://gateways.thomiz.dev/one"
+            "mappedNet": "BSC",
+            "mappedTokenId": "0x7C3cc93f39F0dbC9E00F96d1Fa4eA52E36b3476B",
+            "url": "https://gateways.thomiz.dev/bsc",
+            "extraStandards": [{
+                "mappedNet": "ONE",
+                "mappedTokenId": "0x0007e7f456a6bb854606f04cc16989acfe42f2f2",
+                "standard": "HRC20",
+                "url": "https://gateways.thomiz.dev/one"
+            }]
         },
         "tti_f94c6bf7ffb1982691322d50": {
             "mappedSymbol": "VITCWONE",
