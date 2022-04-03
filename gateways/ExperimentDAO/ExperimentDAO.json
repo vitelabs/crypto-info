@@ -59,7 +59,7 @@
             "extraStandards": [{
                 "mappedNet": "ONE",
                 "mappedTokenId": "0x0007e7f456a6bb854606f04cc16989acfe42f2f2",
-                "standard": "HRC20",
+                "standard": "Harmony",
                 "url": "https://gateways.thomiz.dev/one"
             }]
         },
