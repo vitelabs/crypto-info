@@ -1,0 +1,23 @@
+{
+    "tokenId": "tti_6312d2a685a9bd7a54250cb9",
+    "overview": {
+        "en": "VITCWBNB is the Liquidity Pool token from PancakeSwap on Binance Smart Chain for the VITC/WBNB pair. By bridging it to Vite, Vitamin Coin allows the staking and the trading of the said tokens."
+    },
+    "links": {
+        "website": [
+            "https://vitamincoin.org/home"
+        ],
+        "whitepaper": [
+            "https://www.vitamincoin.org/_files/ugd/5e11c5_38028ce8c7f8404194ecd065dfd83159.pdf"
+        ],
+        "explorer": [
+            "https://bscscan.com/"
+        ],
+        "github": [
+            "https://github.com/vitamin-coin"
+        ],
+        "twitter": [
+            "https://twitter.com/vitamin_coin"
+        ]
+    }
+}
