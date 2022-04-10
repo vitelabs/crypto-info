@@ -1,0 +1,20 @@
+{
+    "tokenId": "tti_1d0df1e636c9cb8ffecf535e",
+    "overview": {
+        "en": "Hedera is the most used, sustainable, enterprise-grade public network for the decentralized economy that allows individuals and businesses to create powerful decentralized applications (DApps)."
+    },
+    "links": {
+        "website": [
+            "https://hedera.com/"
+        ],
+        "whitepaper": [
+            "https://hedera.com/hh-whitepaper/"
+        ],
+        "explorer": [
+            "https://app.dragonglass.me/"
+        ],
+        "twitter": [
+            "https://twitter.com/hedera"
+        ]
+    }
+}
