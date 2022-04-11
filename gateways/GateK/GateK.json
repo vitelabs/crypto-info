@@ -1,0 +1,40 @@
+{
+    "name": "GateK",
+    "policy": {
+        "en": "https://github.com/ViNo-community/ViNo-Custodial-Gateway/blob/main/TOS"
+    },
+    "overview": {
+        "en": "A Gateway DAO on Vite that bridges revolutionary networks.",
+        "zh": "Vite 上的网关 DAO，连接了革命性的网络"
+    },
+    "links": {
+        "website": [
+            "https://twitter.com/GateKVite"
+        ],
+        "github": [
+            "https://github.com/KaffinPX"
+        ],
+        "discord": [
+            "https://discord.gg/yPCXUTPAZC"
+        ],
+        "explorer": [
+            "https://vitcscan.com"
+        ],
+        "email": [
+            "GateKVite@protonmail.com"
+        ],
+        "twitter": [
+            "https://twitter.com/GateKVite"
+        ]
+    },
+    "support": "GateKVite@protonmail.com",
+    "serviceSupport": "https://discord.gg/yPCXUTPAZC",
+    "gatewayTokens": {
+        "tti_1d0df1e636c9cb8ffecf535e": {
+            "mappedSymbol": "HBAR",
+            "mappedNet": "Hedera",
+            "mappedTokenId": "",
+            "url": "https://gateways.kaffinp.xyz/hedera"
+        }
+    }
+}
