@@ -1,0 +1,15 @@
+
+{
+    "tokenId": "tti_135ae433038c18fe0797f528",
+    "overview":{
+        "en":"ViCatBNB is the LP token for the ViCat BNB PancakeSwap liquidity pool. Meow"
+    },
+    "links":{
+        "website":["https://vicat.tech/"],
+        "discord":["https://discord.gg/bgeSc9RdVV"],
+        "twitter":["https://twitter.com/ViCat_777"],    
+        "telegram":["https://t.me/ViCat_777"],
+        "github":["https://github.com/vicatcoin"],
+        "explorer":["https://bscscan.com/token/0x387F1E0f57180D4e516165D7dbf001dAda3da3E9"]
+    }
+}
