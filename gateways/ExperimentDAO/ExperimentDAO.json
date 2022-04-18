@@ -110,6 +110,12 @@
             "mappedNet": "BSC",
             "mappedTokenId": "0xFc5A7fA67494677FB806dA463e8dF950205090b0",
             "url": "https://gateways.thomiz.dev/bsc"
+        },
+        "tti_135ae433038c18fe0797f528": {
+            "mappedSymbol": "VICATBNB",
+            "mappedNet": "BSC",
+            "mappedTokenId": "0x387f1e0f57180d4e516165d7dbf001dada3da3e9",
+            "url": "https://gateways.thomiz.dev/bsc"
         }
     }
 }
