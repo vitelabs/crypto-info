@@ -116,6 +116,12 @@
             "mappedNet": "BSC",
             "mappedTokenId": "0x387f1e0f57180d4e516165d7dbf001dada3da3e9",
             "url": "https://gateways.thomiz.dev/bsc"
+        },
+        "tti_b0de22e5d54c92c43c3a9e54": {
+            "mappedSymbol": "AUTK",
+            "mappedNet": "BSC",
+            "mappedTokenId": "0x5d7ea7c1c8b1077bde12a164c139aede6aaf9f5c",
+            "url": "https://gateways.thomiz.dev/bsc"
         }
     }
 }
