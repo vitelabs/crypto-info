@@ -57,6 +57,11 @@
             "mappedTokenId": "0x7C3cc93f39F0dbC9E00F96d1Fa4eA52E36b3476B",
             "url": "https://gateways.thomiz.dev/bsc",
             "extraStandards": [{
+                "mappedNet": "TERRA",
+                "mappedTokenId": "terra14vw4sfqwe7jw8ppcc7u44vq7hy9qa2nlstnxmu",
+                "standard": "Terra",
+                "url": "https://gateways.thomiz.dev/terra"
+            },{
                 "mappedNet": "ONE",
                 "mappedTokenId": "0x0007e7f456a6bb854606f04cc16989acfe42f2f2",
                 "standard": "Harmony",
