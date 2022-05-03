@@ -36,5 +36,6 @@
             "mappedTokenId": "",
             "url": "https://gateways.kaffinp.xyz/hedera"
         }
-    }
+    },
+    "selfCertification": "YES"
 }
