@@ -127,6 +127,12 @@
             "mappedNet": "BSC",
             "mappedTokenId": "0x5d7ea7c1c8b1077bde12a164c139aede6aaf9f5c",
             "url": "https://gateways.thomiz.dev/bsc"
+        },
+        "tti_c02dfff7255e31e43998415e": {
+            "mappedSymbol": "VITCWUST",
+            "mappedNet": "TERRA",
+            "mappedTokenId": "terra1ufhwwlu0yj4cprnqu0nzrr8us65whv0pmprvfe",
+            "url": "https://gateways.thomiz.dev/terra"
         }
     }
 }

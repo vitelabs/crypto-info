@@ -1,0 +1,23 @@
+{
+    "tokenId": "tti_c02dfff7255e31e43998415e",
+    "overview": {
+        "en": "VITCWUST is the Liquidity Pool token from TerraSwap on Terra for the VITC/UST pair. By bridging it to Vite, Vitamin Coin allows the staking and the trading of the said tokens."
+    },
+    "links": {
+        "website": [
+            "https://vitamincoin.org/home"
+        ],
+        "whitepaper": [
+            "https://www.vitamincoin.org/_files/ugd/5e11c5_38028ce8c7f8404194ecd065dfd83159.pdf"
+        ],
+        "explorer": [
+            "https://bscscan.com/"
+        ],
+        "github": [
+            "https://github.com/vitamin-coin"
+        ],
+        "twitter": [
+            "https://twitter.com/vitamin_coin"
+        ]
+    }
+}
