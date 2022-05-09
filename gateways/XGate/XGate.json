@@ -57,6 +57,12 @@
       "mappedTokenId": "0xB27ADAfFB9fEa1801459a1a81B17218288c097cc",
       "url": "https://patrola.me/gateways/bsc"
     },
+    "tti_905289db7f48f0a8ac64c824": {
+      "mappedSymbol": "MNTO",
+      "mappedNet": "BSC",
+      "mappedTokenId": "0x854A63B35B70A7becbED508ff0b6Ff5038D0C917",
+      "url": "https://patrola.me/gateways/bsc"
+    },
     "tti_e06b807b9c6fadd0391f8748": {
       "mappedSymbol": "VINUBNB",
       "mappedNet": "BSC",
