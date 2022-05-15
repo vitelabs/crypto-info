@@ -110,6 +110,12 @@
                 "url": "https://gateways.thomiz.dev/xlm"
             }]
         },
+        "tti_fb14e5b39124a833fec95fa9": {
+            "mappedNet": "XLM",
+            "mappedTokenId": "",
+            "mappedSymbol": "MANGO",
+            "url": "https://gateways.thomiz.dev/xlm"
+        },
         "tti_6312d2a685a9bd7a54250cb9": {
             "mappedSymbol": "VITCWBNB",
             "mappedNet": "BSC",
