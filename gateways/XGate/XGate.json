@@ -63,6 +63,18 @@
       "mappedTokenId": "0x854A63B35B70A7becbED508ff0b6Ff5038D0C917",
       "url": "https://patrola.me/gateways/bsc"
     },
+    "tti_6adff43eaa32068c9c8dbbfe": {
+      "mappedSymbol": "GNO",
+      "mappedNet": "Gnosis",
+      "mappedTokenId": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
+      "url": "https://patrola.me/gateways/gnosis"
+    },
+    "tti_2dceb296d0dfb34487837806": {
+      "mappedSymbol": "CELO",
+      "mappedNet": "Celo",
+      "mappedTokenId": "0x471EcE3750Da237f93B8E339c536989b8978a438",
+      "url": "https://patrola.me/gateways/celo"
+    },
     "tti_e06b807b9c6fadd0391f8748": {
       "mappedSymbol": "VINUBNB",
       "mappedNet": "BSC",
