@@ -74,6 +74,18 @@
       "mappedNet": "Celo",
       "mappedTokenId": "0x471EcE3750Da237f93B8E339c536989b8978a438",
       "url": "https://patrola.me/gateways/celo"
+     },
+    "tti_fa197647bfee344a03440cd0": {
+      "mappedSymbol": "TRX",
+      "mappedNet": "TRX",
+      "mappedTokenId": "",
+      "url": "https://patrola.me/gateways/tron"
+     },
+    "tti_181e08c4fdb2876956245076": {
+      "mappedSymbol": "XLM",
+      "mappedNet": "XLM",
+      "mappedTokenId": "",
+      "url": "https://patrola.me/gateways/xlm"
     },
     "tti_e06b807b9c6fadd0391f8748": {
       "mappedSymbol": "VINUBNB",
