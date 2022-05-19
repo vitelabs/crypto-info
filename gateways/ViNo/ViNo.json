@@ -44,18 +44,6 @@
       "mappedNet": "BAN",
       "mappedTokenId": "",
       "url": "https://patrola.me/gateways/banano"
-     },
-    "tti_fa197647bfee344a03440cd0": {
-      "mappedSymbol": "TRX",
-      "mappedNet": "TRX",
-      "mappedTokenId": "",
-      "url": "https://patrola.me/gateways/tron"
-     },
-    "tti_181e08c4fdb2876956245076": {
-      "mappedSymbol": "XLM",
-      "mappedNet": "XLM",
-      "mappedTokenId": "",
-      "url": "https://patrola.me/gateways/xlm"
      }
   }
 }
