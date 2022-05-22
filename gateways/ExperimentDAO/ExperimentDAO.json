@@ -139,6 +139,12 @@
             "mappedNet": "TERRA",
             "mappedTokenId": "terra1ufhwwlu0yj4cprnqu0nzrr8us65whv0pmprvfe",
             "url": "https://gateways.thomiz.dev/terra"
+        },
+        "tti_d28c96da024877252b8de16d": {
+            "mappedSymbol": "RNDR",
+            "mappedNet": "ETH",
+            "mappedTokenId": "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24",
+            "url": "https://gateways.thomiz.dev/eth"
         }
     }
 }

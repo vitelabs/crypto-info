@@ -1,0 +1,32 @@
+{
+    "tokenId": "tti_d28c96da024877252b8de16d",
+    "overview": {
+        "en": "RenderToken (RNDR) is a distributed GPU rendering network built on top of the Ethereum blockchain, aiming to connect artists and studios in need of GPU compute power with mining partners willing to rent their GPU capabilities out."
+    },
+    "links": {
+        "website": [
+            "https://rendertoken.com/"
+        ],
+        "whitepaper": [
+            "https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:d442da8a-067e-490f-88cf-2c4511016ff7"
+        ],
+        "explorer": [
+            "https://etherscan.io/token/0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24/"
+        ],
+        "github": [
+            "https://github.com/vitamin-coin"
+        ],
+        "twitter": [
+            "https://twitter.com/rendertoken"
+        ],
+        "telegram": [
+            "https://t.me/rendertoken"
+        ],
+        "coinmarketcap": [
+            "https://coinmarketcap.com/currencies/render-token/"
+        ],
+        "reddit": [
+            "https://reddit.com/r/RenderToken/"
+        ]
+    }
+}
