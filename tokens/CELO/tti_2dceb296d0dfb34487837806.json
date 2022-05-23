@@ -1,0 +1,21 @@
+{
+    "tokenId": "tti_2dceb296d0dfb34487837806",
+    "overview":{
+        "zh":"Celo is a blockchain ecosystem focused on increasing cryptocurrency adoption among smartphone users.",
+        "en":"Celo is a blockchain ecosystem focused on increasing cryptocurrency adoption among smartphone users."
+    },
+    "links":{
+        "website":["https://celo.org/"],
+        "whitepaper":["http://docs.celo.org/"],
+        "github":["https://github.com/celo-org/celo-monorepo"],
+        "documentation":["http://docs.celo.org/"],
+        "explorer":["https://explorer.celo.org/token/0x471EcE3750Da237f93B8E339c536989b8978a438/"],
+        "twitter":["https://twitter.com/CeloOrg"],
+        "reddit":["https://www.reddit.com/r/celo/"],        
+        "instagram":["https://www.instagram.com/celoorg/"],
+        "coinmarketcap":["https://coinmarketcap.com/currencies/celo/"],
+        "telegram":["https://t.me/celoplatform"],
+        "discord":["https://discord.gg/6yWMkgM"],
+        "medium":["https://medium.com/CeloHQ"]
+    }
+}
