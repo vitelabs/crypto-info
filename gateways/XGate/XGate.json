@@ -103,7 +103,7 @@
       "mappedSymbol": "VINU",
       "mappedNet": "BSC",
       "mappedTokenId": "0xfEbe8C1eD424DbF688551D4E2267e7A53698F0aa",
-      "url": "https://patrola.me/gateways/bsc"
+      "url": "https://patrola.me/gateways/bsc",
       "extraStandards": [{
         "mappedNet": "ETH",
         "mappedTokenId": "0xafcdd4f666c84fed1d8bd825aa762e3714f652c9",
