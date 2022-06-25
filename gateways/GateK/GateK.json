@@ -12,7 +12,7 @@
             "https://twitter.com/GateKVite"
         ],
         "github": [
-            "https://github.com/KaffinPX"
+            "https://github.com/GateKVite"
         ],
         "discord": [
             "https://discord.gg/yPCXUTPAZC"
@@ -30,6 +30,12 @@
     "support": "GateKVite@protonmail.com",
     "serviceSupport": "https://discord.gg/yPCXUTPAZC",
     "gatewayTokens": {
+        "tti_72f4cbbed88a5902c78a896f": {
+            "mappedSymbol": "KAS",
+            "mappedNet": "Kaspa",
+            "mappedTokenId": "",
+            "url": "https://gateways.kaffinp.xyz/kaspa"
+        },
         "tti_1d0df1e636c9cb8ffecf535e": {
             "mappedSymbol": "HBAR",
             "mappedNet": "Hedera",
