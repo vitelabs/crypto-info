@@ -34,7 +34,7 @@
     "serviceSupport": "https://discord.gg/pC3rMTSgcB",
     "gatewayTokens": {
         "tti_60ce61fb1bf38a32be3bfb91": {
-            "mappedSymbol": "LUNA",
+            "mappedSymbol": "LUNC",
             "mappedNet": "TERRA",
             "mappedTokenId": "",
             "url": "https://gateways.thomiz.dev/terra"
@@ -44,6 +44,12 @@
             "mappedNet": "TERRA",
             "mappedTokenId": "",
             "url": "https://gateways.thomiz.dev/terra"
+        },
+        "tti_f5c5446b8621bea7410fd454": {
+            "mappedSymbol": "LUNA",
+            "mappedNet": "TERRA2",
+            "mappedTokenId": "",
+            "url": "https://gateways.thomiz.dev/terra2"
         },
         "tti_8364a003d3a2d3c22af015ec": {
             "mappedSymbol": "SAITO",
