@@ -1,0 +1,23 @@
+{
+    "tokenId": "tti_d63139ee766ed13aa25f0a4b",
+    "overview": {
+        "en": "BendDAO is the best NFT liquidity protocol supporting instant NFT-backed loans, leveraged NFT trading, and NFT down payment. The seamless experience of down payment, borrowing, and selling creates a perfect closed loop for users, a one-stop NFT liquidity solution."
+    },
+    "links": {
+        "website": [
+            "https://benddao.xyz/"
+        ],
+        "whitepaper": [
+            "https://docs.benddao.xyz/portal/"
+        ],
+        "explorer": [
+            "https://etherscan.io/token/0x0d02755a5700414b26ff040e1de35d337df56218/"
+        ],
+        "github": [
+            "https://github.com/BendDAO"
+        ],
+        "twitter": [
+            "https://twitter.com/benddao"
+        ]
+    }
+}
