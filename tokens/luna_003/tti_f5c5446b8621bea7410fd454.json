@@ -1,0 +1,20 @@
+{
+    "tokenId": "tti_f5c5446b8621bea7410fd454",
+    "overview": {
+        "en": "Terra (LUNA) is a public blockchain protocol that emerged from Terra Classic. Terra Classic is home to the algorithmic stablecoin TerraClassicUSD (UST). It's now-renamed LUNC token collateralized UST, which crashed in a bank run in May 2022. That devalued LUNA to virtually zero and caused a launch of a new chain — resulting in Terra Classic and Terra. Read a full breakdown of the Terra crash here."
+    },
+    "links": {
+        "website": [
+            "https://terra.money/"
+        ],
+        "explorer": [
+            "https://finder.terra.money/mainnet"
+        ],
+        "github": [
+            "https://github.com/terra-money"
+        ],
+        "twitter": [
+            "https://twitter.com/terra_money"
+        ]
+    }
+}
