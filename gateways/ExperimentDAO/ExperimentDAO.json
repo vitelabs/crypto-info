@@ -163,6 +163,12 @@
             "mappedNet": "ETH",
             "mappedTokenId": "0x0d02755a5700414B26FF040e1dE35D337DF56218",
             "url": "https://gateways.thomiz.dev/eth"
+        },
+        "tti_a23c2f75791efafe5fada99e": {
+            "mappedSymbol": "VIVA",
+            "mappedNet": "BSC",
+            "mappedTokenId": "0xBC1afF2C8fBcF65a96e4A634F2d69D2cd483036A",
+            "url": "https://gateways.thomiz.dev/bsc"
         }
     }
 }
