@@ -169,6 +169,12 @@
             "mappedNet": "BSC",
             "mappedTokenId": "0xBC1afF2C8fBcF65a96e4A634F2d69D2cd483036A",
             "url": "https://gateways.thomiz.dev/bsc"
+        },
+        "tti_d05920af6f485fa52ffe4e69": {
+            "mappedSymbol": "VIVABNB",
+            "mappedNet": "BSC",
+            "mappedTokenId": "0xCf4a986C832D281b0b7f3690550Cdb030868f954",
+            "url": "https://gateways.thomiz.dev/bsc"
         }
     }
 }
