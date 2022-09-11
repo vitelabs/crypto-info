@@ -187,6 +187,12 @@
             "mappedNet": "DOGE",
             "mappedTokenId": "",
             "url": "https://gateways.thomiz.dev/doge"
+        },
+        "tti_49541d5cece6789a71757872": {
+            "mappedSymbol": "CANTO",
+            "mappedNet": "CANTO",
+            "mappedTokenId": "",
+            "url": "https://gateways.thomiz.dev/canto"
         }
     }
 }

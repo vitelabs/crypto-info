@@ -1,0 +1,17 @@
+{
+    "tokenId": "tti_49541d5cece6789a71757872",
+    "overview": {
+        "en": "Canto presents the radical notion that core DeFi primitives should exist as Free Public Infrastructure (FPI). Having observed the growth of the DeFi space, three core primitives have emerged to anchor any healthy DeFi ecosystem: decentralized exchanges (DEX), lending markets, and a decentralized unit of account. Canto chooses to launch all these core DeFi primitives as public utility protocols, or Free Public Infrastructure (FPI)."
+    },
+    "links": {
+        "website": [
+            "https://canto.io/"
+        ],
+        "explorer": [
+            "https://evm.explorer.canto.io/"
+        ],
+        "github": [
+            "https://github.com/Canto-Network"
+        ]
+    }
+}
