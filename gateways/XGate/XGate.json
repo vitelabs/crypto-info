@@ -115,7 +115,13 @@
         "mappedTokenId": "0xfEbe8C1eD424DbF688551D4E2267e7A53698F0aa",
         "standard": "BEP20",
         "url": "https://patrola.me/gateways/bsc"
-      }]
-    }
+                        }],
+      "extraStandards": [{
+        "mappedNet": "MATIC",
+        "mappedTokenId": "0xAFCdd4f666c84Fed1d8BD825aA762e3714F652c9",
+        "standard": "MATIC",
+        "url": "https://patrola.me/gateways/matic"
+                        }]      
+                                    }
   }
 }
