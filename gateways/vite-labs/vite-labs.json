@@ -37,7 +37,13 @@
       "mappedSymbol": "USDT",
       "mappedNet": "ETH",
       "mappedTokenId": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-      "url": "https://crosschain.vite.net/gateway/eth/"
+      "url": "https://crosschain.vite.net/gateway/eth/",
+      "extraStandards": [{
+        "mappedNet": "BSC",
+        "mappedTokenId": "0x55d398326f99059ff775485246999027b3197955",
+        "standard": "BEP20",
+        "url": "https://crosschain.vite.net/gateway/bsc/"
+      }]
     },
     "tti_289ee0569c7d3d75eac1b100": {
       "mappedSymbol": "GRIN",
@@ -56,13 +62,12 @@
       "mappedNet": "ETH",
       "mappedTokenId": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
       "url": "https://crosschain.vite.net/gateway/eth",
-      "extraStandards": [ {
+      "extraStandards": [{
         "mappedNet": "BSC",
         "mappedTokenId": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
         "standard": "BEP20",
         "url": "https://crosschain.vite.net/gateway/bsc/"
-      }
-      ]
+      }]
     },
     "tti_4a04203e28bb8f3dc3d8f9b1": {
       "mappedNet": "XRP",
@@ -105,13 +110,12 @@
       "mappedNet": "ONE",
       "mappedTokenId": "",
       "url": "https://crosschain.vite.net/gateway/harmony",
-      "extraStandards": [ {
+      "extraStandards": [{
         "mappedNet": "BSC",
         "mappedTokenId": "0x03fF0ff224f904be3118461335064bB48Df47938",
         "standard": "BEP20",
         "url": "https://crosschain.vite.net/gateway/bsc/"
-        }
-      ]
+      }]
     },
     "tti_216a5553fcfc24126b06db19": {
       "mappedSymbol": "BCH",
@@ -172,13 +176,12 @@
       "mappedNet": "ETH",
       "mappedTokenId": "0xadd5e881984783dd432f80381fb52f45b53f3e70",
       "url": "https://crosschain.vite.net/gateway/eth/",
-      "extraStandards": [ {
+      "extraStandards": [{
         "mappedNet": "BSC",
         "mappedTokenId": "0x2794dad4077602ed25a88d03781528d1637898b4",
         "standard": "BEP20",
         "url": "https://crosschain.vite.net/gateway/bsc/"
-        }
-      ]
+      }]
     },
     "tti_564954455820434f494e69b5": {
       "mappedSymbol": "VX",
