@@ -193,6 +193,18 @@
             "mappedNet": "CANTO",
             "mappedTokenId": "",
             "url": "https://gateways.thomiz.dev/canto"
+        },
+        "tti_c192655916fa8582e71d9999": {
+            "mappedSymbol": "HBIT",
+            "mappedNet": "HBIT",
+            "mappedTokenId": "",
+            "url": "https://gateways.thomiz.dev/hbit"
+        },
+        "tti_c51a895eb8c3dca03d362e4f": {
+            "mappedSymbol": "NBD",
+            "mappedNet": "XLM",
+            "mappedTokenId": "",
+            "url": "https://gateways.thomiz.dev/xlm"
         }
     }
 }
