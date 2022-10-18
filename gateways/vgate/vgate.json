@@ -10,7 +10,7 @@
         "website":["https://vgate.io/"]
     },
     "support":"vgateservice@gmail.com",
-    "serviceSupport":"https://vgate.zendesk.com/hc/en-us/requests/new",
+    "serviceSupport":"vgateservice@gmail.com",
      "gatewayTokens":{
         "tti_60e20567a20282bfd25ab56c":{
             "mappedNet": "TERA",
