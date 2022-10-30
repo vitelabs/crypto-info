@@ -1,0 +1,15 @@
+{
+	"name":"Making Cents",
+  "address":"vite_9cfaebac4766b07ab26cd400f33c0cd18536e99760789ae3cc",
+  "overview": {
+    "en": "Vite Labs is a technology provider as well as the first operator of ViteX. Vite Labs will issue common cross-chain tokens and open corresponding trading pairs. Vite Labs will weaken its role as an operator after more participants become operators on ViteX platform."
+  },
+  "links": {
+    "website":["https://makingcents.xyz"],
+    "explorer":["https://vitcscan.com"],
+    "whitepaper":[
+      "https://www.makingcents.xyz/_files/ugd/062eef_b6865fd0598f47589add2317647e1511.pdf"
+    ]
+  },
+  "support":"contact@makingcents.xyz"
+}
