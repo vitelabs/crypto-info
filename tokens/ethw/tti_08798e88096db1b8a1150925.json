@@ -1,0 +1,13 @@
+{
+    "tokenId": "tti_08798e88096db1b8a1150925",
+    "overview":{
+        "en":"EthereumPoW (ETHW) is a hard fork of Ethereum blockchain with the Ethereum Merge. The Merge saw Ethereum transition to proof-of-stake, while the forked version remains on proof-of-work."
+    },
+    "links":{
+        "website":["https://ethereumpow.org/"],
+        "explorer":["https://ethwscan.com/"],
+	    "github":["https://github.com/ethereumpow/"],
+	    "twitter":["https://twitter.com/EthereumPoW/"],
+	    "blog":["https://medium.com/@ETHW/"]
+    }
+}
