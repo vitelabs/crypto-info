@@ -51,6 +51,12 @@
       "mappedTokenId": "0xee37A338e781b9b86f3E79fBF09D6032D2DBc109",
       "url": "https://patrola.me/gateways/bsc"
     },
+    "tti_ac94b6c8081008a3a54cdae7": {
+      "mappedSymbol": "CENTBNB",
+      "mappedNet": "BSC",
+      "mappedTokenId": "0x292b2118812c9a43d8994271a81dbce870eeaf6b",
+      "url": "https://patrola.me/gateways/bsc"
+    },
     "tti_34c5ed639f97d1e826451c92": {
       "mappedSymbol": "UNI",
       "mappedNet": "ETH",
