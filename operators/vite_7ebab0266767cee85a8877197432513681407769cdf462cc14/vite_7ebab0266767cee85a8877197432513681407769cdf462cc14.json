@@ -1,0 +1,14 @@
+{
+	"name":"Vite Gateway",
+       	"address":"vite_7ebab0266767cee85a8877197432513681407769cdf462cc14",
+        "overview": {
+            "en": "Vite Gateway is a technology provider as well as the first operator of ViteX. Vite Gateway will issue common cross-chain tokens and open corresponding trading pairs."
+        },
+        "links": {
+            "website":["https://vite.org"],
+            "explorer":["https://vitescan.io"],
+            "whitepaper":["https://github.com/vitelabs/whitepaper/"]
+        },
+        "support":"https://vitex.zendesk.com/hc/en-001/requests/new",
+        "gateway":"Vite Gateway"
+}
