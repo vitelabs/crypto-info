@@ -1,0 +1,15 @@
+{
+	"name":"KnobsackCoin ",
+  "address":"vite_d620f903d902afe38215c70da70ba37a43e6cf33104fb09b86",
+  "overview": {
+    "en": "KnobsackCoin manages all trading pairs of Knobsack on the ViteX Dex."
+  },
+  "links": {
+    "website":["https://knobsackcoin.xyz/"],
+    "explorer":["https://vitcscan.com"],
+    "whitepaper":[
+      "https://drive.google.com/file/d/1C9nxFloxYOjgyLjZesKWlu3aWiLAYkmO/view"
+    ]
+  },
+  "support":"knobsackcoin@gmail.com"
+}
