@@ -1,5 +1,5 @@
 {
-    "name": "GateK",
+    "name": "Kivigate",
     "policy": {
         "en": "https://github.com/ViNo-community/ViNo-Custodial-Gateway/blob/main/TOS"
     },
@@ -9,38 +9,38 @@
     },
     "links": {
         "website": [
-            "https://twitter.com/GateKVite"
+            "https://twitter.com/Kivivite"
         ],
         "github": [
-            "https://github.com/GateKVite"
+            "https://github.com/Kivivite"
         ],
         "discord": [
-            "https://discord.gg/yPCXUTPAZC"
+            "https://discord.gg/2wJAsvWJR9"
         ],
         "explorer": [
             "https://vitcscan.com"
         ],
         "email": [
-            "GateKVite@protonmail.com"
+            "KaffinPX@protonmail.com"
         ],
         "twitter": [
-            "https://twitter.com/GateKVite"
+            "https://twitter.com/Kivivte"
         ]
     },
-    "support": "GateKVite@protonmail.com",
-    "serviceSupport": "https://discord.gg/yPCXUTPAZC",
+    "support": "KaffinPX@protonmail.com",
+    "serviceSupport": "https://discord.gg/2wJAsvWJR9",
     "gatewayTokens": {
         "tti_72f4cbbed88a5902c78a896f": {
             "mappedSymbol": "KAS",
             "mappedNet": "Kaspa",
             "mappedTokenId": "",
-            "url": "https://gateways.kaffinp.xyz/kaspa"
+            "url": "https://gateways.kivi.lol/kaspa"
         },
         "tti_1d0df1e636c9cb8ffecf535e": {
             "mappedSymbol": "HBAR",
             "mappedNet": "Hedera",
             "mappedTokenId": "",
-            "url": "https://gateways.kaffinp.xyz/hedera"
+            "url": "https://gateways.kivi.lol/hedera"
         }
     },
     "selfCertification": "YES"
