@@ -5,13 +5,13 @@
     },
     "links": {
         "website": [
-            "https://kaspanet.io/"
+            "https://kaspa.org/"
         ],
         "whitepaper": [
             "https://github.com/kaspanet/whitepaper"
         ],
         "explorer": [
-            "http://kgi.kaspad.net/"
+            "http://explorer.kaspa.org/"
         ]
     }
 }
