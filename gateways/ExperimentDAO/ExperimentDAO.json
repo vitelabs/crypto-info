@@ -21,7 +21,7 @@
             "https://discord.gg/pC3rMTSgcB"
         ],
         "explorer": [
-            "https://vitcscan.thomiz.dev"
+            "https://vitcscan.com"
         ],
         "email": [
             "thomiz_dev@protonmail.com"
@@ -205,6 +205,12 @@
             "mappedNet": "XLM",
             "mappedTokenId": "",
             "url": "https://gateways.thomiz.dev/xlm"
+        },
+        "tti_f446e57bcdb252282bdb8137": {
+            "mappedSymbol": "UCK",
+            "mappedNet": "BSC",
+            "mappedTokenId": "0x5Eb5bF14d44893D2b41b830f293E8de595616f67",
+            "url": "https://gateways.thomiz.dev/bsc"
         }
     }
 }
