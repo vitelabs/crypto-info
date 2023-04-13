@@ -1,0 +1,23 @@
+{
+    "tokenId": "tti_ffcb16eab521ec54daeba2ba",
+    "overview":{
+	    "en":"TON is a fully decentralized layer-1 blockchain designed by Telegram to onboard billions of users. It boasts ultra-fast transactions, tiny fees, easy-to-use apps, and is environmentally friendly."
+    },
+    "links":{
+        "website":[
+            "https://ton.org/"
+        ],
+        "whitepaper": [
+            "https://ton.org/whitepaper.pdf"
+        ],
+        "github":[
+            "https://github.com/ton-blockchain"
+        ],
+        "explorer": [
+            "https://tonscan.org/"
+        ],
+        "twitter": [
+            "https://twitter.com/ton_blockchain"
+        ]
+     }
+}
