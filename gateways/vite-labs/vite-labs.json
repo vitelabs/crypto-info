@@ -224,6 +224,12 @@
       "mappedNet": "BSC",
       "mappedTokenId": "",
       "url": "https://crosschain.vite.net/gateway/bsc/"
+    },
+    "tti_ffcb16eab521ec54daeba2ba": {
+      "mappedSymbol": "TON",
+      "mappedNet": "TON",
+      "mappedTokenId": "",
+      "url": "https://crosschain.vite.net/gateway/ton/"
     }
   }
 }
