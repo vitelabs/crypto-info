@@ -1,0 +1,23 @@
+{
+    "tokenId": "tti_15d7902d9c4b5d6efb9618af",
+    "overview": {
+        "en": "PEPE is a deflationary memecoin launched on Ethereum. The cryptocurrency was created as a tribute to the Pepe the Frog internet meme, created by Matt Furie, which gained popularity in the early 2000s."
+    },
+    "links": {
+        "website": [
+            "https://www.pepe.vip/"
+        ],
+        "explorer": [
+            "https://etherscan.io/token/0x6982508145454ce325ddbe47a25d4ec3d2311933"
+        ],
+        "twitter": [
+            "https://twitter.com/pepecoineth"
+        ],
+        "telegram": [
+            "https://t.me/pepecoineth"
+        ],
+        "discord": [
+            "https://discord.gg/pepe-palace"
+        ]
+    }
+}
