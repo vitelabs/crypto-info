@@ -230,6 +230,12 @@
       "mappedNet": "TON",
       "mappedTokenId": "",
       "url": "https://crosschain.vite.net/gateway/ton/"
+    },
+    "tti_15d7902d9c4b5d6efb9618af": {
+      "mappedSymbol": "PEPE",
+      "mappedNet": "ETH",
+      "mappedTokenId": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+      "url": "https://crosschain.vite.net/gateway/eth/"
     }
   }
 }
