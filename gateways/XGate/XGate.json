@@ -39,6 +39,12 @@
       "mappedTokenId": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
       "url": "https://patrola.me/gateways/bsc"
     },
+    "tti_b3d361aee7d057585a752271": {
+      "mappedSymbol": "ADIA",
+      "mappedNet": "ADIA",
+      "mappedTokenId": "",
+      "url": "https://paw.patrola.me/arcadia/"
+    },
     "tti_21e0cc2caf8b86b8b9cbd1c7": {
       "mappedSymbol": "VOLT",
       "mappedNet": "BSC",
