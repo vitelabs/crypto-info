@@ -50,6 +50,12 @@
       "mappedNet": "BSC",
       "mappedTokenId": "0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac",
       "url": "https://patrola.me/gateways/bsc"
+        },
+    "tti_2d064c49aeae9f460258faed": {
+      "mappedSymbol": "OSC",
+      "mappedNet": "BSC",
+      "mappedTokenId": "0xc6c94867d18b826022191b158334e1d6f70ae589",
+      "url": "https://patrola.me/gateways/
     },
     "tti_1ef6a8bef889022e0351886e": {
       "mappedSymbol": "CENT",
