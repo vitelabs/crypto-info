@@ -1,0 +1,20 @@
+{
+    "tokenId": "tti_0baed0d3ab3520d81eb04702",
+    "overview": {
+        "en": "Shiba Inu (SHIB) is a meme token which began as a fun currency and has now transformed into a decentralized ecosystem."
+    },
+    "links": {
+        "website": [
+            "https://shibatoken.com/"
+        ],
+        "whitepaper": [
+            "https://github.com/shytoshikusama/woofwoofpaper/raw/main/SHIBA_INU_WOOF_WOOF.pdf"
+        ],
+        "explorer": [
+            "https://etherscan.io/token/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce/"
+        ],
+        "twitter": [
+            "https://twitter.com/shibtoken"
+        ]
+    }
+}

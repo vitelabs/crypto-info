@@ -1,0 +1,14 @@
+{
+    "tokenId": "tti_564954455820434f494e69b5",
+    "overview":{
+        "en":"The ViteX native coin that will be mined by the community and be used to allocate rewards to the ViteX community. VX will have no pre-sale, pre-mining nor initial coin offering (ICO).",
+        "zh": "全球唯一基于 DAG 的去中心化交易所的平台币 --- 无预挖、无私募、100% 手续费永久分红、所有权益归持币者。"
+    },
+    "links":{
+        "website":["https://vitex.net/"],
+        "whitepaper":["https://vite.wiki/dex/"],
+	    "twitter":["https://twitter.com/ViteXExchange/"],
+        "explorer":["https://vitescan.io/"],
+        "github":["https://github.com/vitelabs/"]
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "tokenId": "tti_a049af7814324fce9f2c77d6",
+  "overview":{
+    "en":"The Dextoken Protocol is a DeFi infrastructure that implements the brand-new Speculative AMM. A unique Price Tick trading mechanism can benefit the crypto ecosystem by mitigating the issue of over-speculation smoothes out strong price fluctuations, a priceless automated market maker that determines the token price based on the volatility.",
+    "zh":"Dextoken 协议是一种DeFi基础架构，可实现全新的推断性AMM。 独特的Price Tick交易机制可通过缓解过度投机的问题来消除强烈的价格波动，从而使加密生态系统受益，这是种宝贵的自动做市商，可根据波动性确定代币价格。"
+  },
+  "links":{
+    "website":["https://flowchain.co/dextoken.html"],
+    "telegram":["https://t.me/Dextoken_Official_Group"],
+    "explorer":["https://etherscan.io/token/0xb81d70802a816b5dacba06d708b5acf19dcd436d"],
+    "github":["https://github.com/flowchain"],
+    "twitter":["https://twitter.com/DextokenG"],
+    "whitepaper":["https://flowchain.co/assets/DEXToken-Protocol-Whitepaper-1.0-en.pdf"]
+  }
+}

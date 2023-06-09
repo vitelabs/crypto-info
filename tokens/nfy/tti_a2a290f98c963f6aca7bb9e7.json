@@ -1,0 +1,14 @@
+{
+  "tokenId": "tti_a2a290f98c963f6aca7bb9e7",
+  "overview":{
+    "en":"Non-Fungible Yearn is a DeFi platform whose goal is to utilize the full potential of Non-Fungible Tokens (NFTs) in the DeFi sector."
+    },
+  "links":{
+    "website":["https://nfy.finance/"],
+    "explorer":["https://etherscan.io/token/0x1cbb83ebcd552d5ebf8131ef8c9cd9d9bab342bc"],
+    "github":["https://github.com/NFYFinance"],
+    "telegram":["https://t.me/NFYOfficialChat"],
+    "twitter":["https://twitter.com/NFYFinance"],
+    "medium":["https://nfy.medium.com/"]
+  }
+}

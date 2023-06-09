@@ -1,0 +1,14 @@
+{
+  "tokenId": "tti_216a5553fcfc24126b06db19",
+  "overview":{
+    "zh":"Bitcoin Cash ABC (BCHA) 是 Bitcoin Cash 的分叉币种。Bitcoin Cash 于2020年11月15日进行硬分叉升级，按照每1BCH等比例分发1BCHA给全体BCH用户。",
+    "en":"Bitcoin Cash ABC (BCHA) is hard fork (a community-activated update to the protocol or code) of Bitcoin Cash that took effect on November 15th, 2020. During the hard fork, each BCH holder will receive the same amount of BCHA as the forked coin. (Note: Bitcoin Cash is the hard fork of original Bitcoin that increased the block size to 8MB, to help the scale the underlying technology of Bitcoin. On November 16th, 2018, BCH was hard forked again and split into Bitcoin SV and Bitcoin ABC. Bitcoin ABC became the dominant chain and took over the BCH ticker as it had more hashpower and majority of the nodes in the network.)"
+  },
+  "links":{
+    "website":["https://www.bitcoincash.org/"],
+    "explorer":["https://explorer.bitcoincash.org/"],
+    "github":["https://github.com/bitcoincashorg/"],
+    "twitter":["https://twitter.com/bitcoincashorg"],
+    "reddit":["https://www.reddit.com/r/bitcoin_cash/"]
+  }
+}

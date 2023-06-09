@@ -1,0 +1,13 @@
+{
+	"name": "ViCat",
+        "address": "vite_cdd9b6770426a80f7285afb0739e68ffa9cf73ebebb231b61f",
+        "overview": {
+            "en": "As an operator of ViteX, ViCat retains the ability to create pairs, add liquidity, and adjust transaction fees."
+        },
+        "links":{
+            "website":["https://vicat.tech"],
+            "twitter":["https://twitter.com/ViCat_777"],
+            "discord":["https://discord.gg/mqRuTWP4wY"]
+        },
+        "support":"https://discord.gg/mqRuTWP4wY"
+}

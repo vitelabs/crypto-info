@@ -1,0 +1,216 @@
+{
+    "name": "ExperimentDAO",
+    "policy": {
+        "en": "https://github.com/thomiz-dev/public/blob/TOS.md"
+    },
+    "overview": {
+        "en": "The Most Advanced Gateway DAO on VITE. As a gateway, eDAO bridges external cryptocurrencies making a real change in the crypto ecosystem.",
+        "zh": "eDAO是VITE鏈上最先进的跨鏈网关去中心化治組織(DAO)。eDAO为在加密货币生态系统中做出真正改变的加密货币搭建一座通往VITE鏈的跨鏈桥梁。"
+    },
+    "links": {
+        "website": [
+            "https://dao.thomiz.dev"
+        ],
+        "whitepaper": [
+            "https://dao.thomiz.dev/intro.pdf"
+        ],
+        "github": [
+            "https://github.com/thomiz-dev"
+        ],
+        "discord": [
+            "https://discord.gg/pC3rMTSgcB"
+        ],
+        "explorer": [
+            "https://vitcscan.com"
+        ],
+        "email": [
+            "thomiz_dev@protonmail.com"
+        ],
+        "twitter": [
+            "https://twitter.com/ExperimentDAO"
+        ]
+    },
+    "support": "thomiz_dev@protonmail.com",
+    "serviceSupport": "https://discord.gg/pC3rMTSgcB",
+    "gatewayTokens": {
+        "tti_60ce61fb1bf38a32be3bfb91": {
+            "mappedSymbol": "LUNC",
+            "mappedNet": "TERRA",
+            "mappedTokenId": "",
+            "url": "https://gateways.thomiz.dev/terra"
+        },
+        "tti_3d482aaceb076a729cb3967b": {
+            "mappedSymbol": "UST",
+            "mappedNet": "TERRA",
+            "mappedTokenId": "",
+            "url": "https://gateways.thomiz.dev/terra"
+        },
+        "tti_f5c5446b8621bea7410fd454": {
+            "mappedSymbol": "LUNA",
+            "mappedNet": "TERRA2",
+            "mappedTokenId": "",
+            "url": "https://gateways.thomiz.dev/terra2"
+        },
+        "tti_8364a003d3a2d3c22af015ec": {
+            "mappedSymbol": "SAITO",
+            "mappedNet": "BSC",
+            "mappedTokenId": "0x3c6dad0475d3a1696b359dc04c99fd401be134da",
+            "url": "https://gateways.thomiz.dev/bsc"
+        },
+        "tti_22d0b205bed4d268a05dfc3c": {
+            "mappedSymbol": "VITC",
+            "mappedNet": "BSC",
+            "mappedTokenId": "0x7C3cc93f39F0dbC9E00F96d1Fa4eA52E36b3476B",
+            "url": "https://gateways.thomiz.dev/bsc",
+            "extraStandards": [{
+                "mappedNet": "TERRA",
+                "mappedTokenId": "terra14vw4sfqwe7jw8ppcc7u44vq7hy9qa2nlstnxmu",
+                "standard": "Terra",
+                "url": "https://gateways.thomiz.dev/terra"
+            },{
+                "mappedNet": "ONE",
+                "mappedTokenId": "0x0007e7f456a6bb854606f04cc16989acfe42f2f2",
+                "standard": "Harmony",
+                "url": "https://gateways.thomiz.dev/one"
+            }]
+        },
+        "tti_f94c6bf7ffb1982691322d50": {
+            "mappedSymbol": "VITCWONE",
+            "mappedNet": "ONE",
+            "mappedTokenId": "0xf8cb473fe65ef819a77973877953d3de1f980562",
+            "url": "https://gateways.thomiz.dev/one"
+        },
+        "tti_5c3e2df1729d8d402a8275b8": {
+            "mappedSymbol": "WAXP",
+            "mappedNet": "WAX",
+            "mappedTokenId": "",
+            "url": "https://gateways.thomiz.dev/wax"
+        },
+        "tti_42dda11891d8073f08578289": {
+            "mappedSymbol": "FTM",
+            "mappedNet": "FTM",
+            "mappedTokenId": "",
+            "url": "https://gateways.thomiz.dev/ftm"
+        },
+        "tti_c34069d833433fa25ae97441": {
+            "mappedSymbol": "AVAX",
+            "mappedNet": "AVAX",
+            "mappedTokenId": "",
+            "url": "https://gateways.thomiz.dev/avax"
+        },
+        "tti_b3fbb46b9318b3d168ba904e": {
+            "mappedSymbol": "VICAT",
+            "mappedNet": "BSC",
+            "mappedTokenId": "0x3bfad48181c9e88e1dd9c1b48887e33e2653db4d",
+            "url": "https://gateways.thomiz.dev/bsc"
+        },
+        "tti_b16504fe7ab6ba16618c3645": {
+            "mappedSymbol": "ANA",
+            "mappedNet": "ANA",
+            "mappedTokenId": "",
+            "url": "https://gateways.thomiz.dev/ana",
+            "extraStandards": [{
+                "mappedNet": "XLM",
+                "mappedTokenId": "",
+                "standard": "XLM",
+                "url": "https://gateways.thomiz.dev/xlm"
+            }]
+        },
+        "tti_fb14e5b39124a833fec95fa9": {
+            "mappedNet": "XLM",
+            "mappedTokenId": "",
+            "mappedSymbol": "MANGO",
+            "url": "https://gateways.thomiz.dev/xlm"
+        },
+        "tti_6312d2a685a9bd7a54250cb9": {
+            "mappedSymbol": "VITCWBNB",
+            "mappedNet": "BSC",
+            "mappedTokenId": "0xFc5A7fA67494677FB806dA463e8dF950205090b0",
+            "url": "https://gateways.thomiz.dev/bsc"
+        },
+        "tti_135ae433038c18fe0797f528": {
+            "mappedSymbol": "VICATBNB",
+            "mappedNet": "BSC",
+            "mappedTokenId": "0x387f1e0f57180d4e516165d7dbf001dada3da3e9",
+            "url": "https://gateways.thomiz.dev/bsc"
+        },
+        "tti_b0de22e5d54c92c43c3a9e54": {
+            "mappedSymbol": "AUTK",
+            "mappedNet": "BSC",
+            "mappedTokenId": "0x5d7ea7c1c8b1077bde12a164c139aede6aaf9f5c",
+            "url": "https://gateways.thomiz.dev/bsc"
+        },
+        "tti_c02dfff7255e31e43998415e": {
+            "mappedSymbol": "VITCWUST",
+            "mappedNet": "TERRA",
+            "mappedTokenId": "terra1ufhwwlu0yj4cprnqu0nzrr8us65whv0pmprvfe",
+            "url": "https://gateways.thomiz.dev/terra"
+        },
+        "tti_d28c96da024877252b8de16d": {
+            "mappedSymbol": "RNDR",
+            "mappedNet": "ETH",
+            "mappedTokenId": "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24",
+            "url": "https://gateways.thomiz.dev/eth"
+        },
+        "tti_52c672080a7f5cdcb8addbdc": {
+            "mappedSymbol": "HBOT",
+            "mappedNet": "ETH",
+            "mappedTokenId": "0xE5097D9baeAFB89f9bcB78C9290d545dB5f9e9CB",
+            "url": "https://gateways.thomiz.dev/eth"
+        },
+        "tti_d63139ee766ed13aa25f0a4b": {
+            "mappedSymbol": "BEND",
+            "mappedNet": "ETH",
+            "mappedTokenId": "0x0d02755a5700414B26FF040e1dE35D337DF56218",
+            "url": "https://gateways.thomiz.dev/eth"
+        },
+        "tti_0baed0d3ab3520d81eb04702": {
+            "mappedSymbol": "SHIB",
+            "mappedNet": "ETH",
+            "mappedTokenId": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+            "url": "https://gateways.thomiz.dev/eth"
+        },
+        "tti_a23c2f75791efafe5fada99e": {
+            "mappedSymbol": "VIVA",
+            "mappedNet": "BSC",
+            "mappedTokenId": "0xBC1afF2C8fBcF65a96e4A634F2d69D2cd483036A",
+            "url": "https://gateways.thomiz.dev/bsc"
+        },
+        "tti_d05920af6f485fa52ffe4e69": {
+            "mappedSymbol": "VIVABNB",
+            "mappedNet": "BSC",
+            "mappedTokenId": "0xCf4a986C832D281b0b7f3690550Cdb030868f954",
+            "url": "https://gateways.thomiz.dev/bsc"
+        },
+        "tti_6f1756ae2c4eecbd13dfea82": {
+            "mappedSymbol": "DOGE",
+            "mappedNet": "DOGE",
+            "mappedTokenId": "",
+            "url": "https://gateways.thomiz.dev/doge"
+        },
+        "tti_49541d5cece6789a71757872": {
+            "mappedSymbol": "CANTO",
+            "mappedNet": "CANTO",
+            "mappedTokenId": "",
+            "url": "https://gateways.thomiz.dev/canto"
+        },
+        "tti_c192655916fa8582e71d9999": {
+            "mappedSymbol": "HBIT",
+            "mappedNet": "HBIT",
+            "mappedTokenId": "",
+            "url": "https://gateways.thomiz.dev/hbit"
+        },
+        "tti_c51a895eb8c3dca03d362e4f": {
+            "mappedSymbol": "NBD",
+            "mappedNet": "XLM",
+            "mappedTokenId": "",
+            "url": "https://gateways.thomiz.dev/xlm"
+        },
+        "tti_f446e57bcdb252282bdb8137": {
+            "mappedSymbol": "UCK",
+            "mappedNet": "BSC",
+            "mappedTokenId": "0x5Eb5bF14d44893D2b41b830f293E8de595616f67",
+            "url": "https://gateways.thomiz.dev/bsc"
+        }
+    }
+}

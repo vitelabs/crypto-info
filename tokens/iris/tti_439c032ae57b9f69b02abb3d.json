@@ -1,0 +1,13 @@
+{
+    "tokenId": "tti_439c032ae57b9f69b02abb3d",
+    "overview":{
+        "zh":"IRIS网络是上海边界智能和Tendermint团队合作打造的跨链区块链网络，将是Cosmos网络生态中的第一个区域性枢纽(Hub)，并专注于为分布式商业应用提供基础设施和协议，IRIS是IRISnet Hub自己的原生通证。",
+        "en":"The IRIS network is intended to provide the service infrastructure for handing and coordinating on-chain transaction processing with off-chain data processing and business logic execution. "
+    },
+    "links":{
+        "website":["https://www.irisnet.org"],
+        "whitepaper":["https://github.com/irisnet/irisnet/blob/master/WHITEPAPER.md"],
+        "explorer":["https://www.irisplorer.io"],
+        "github":["https://github.com/irisnet"]
+    }
+}

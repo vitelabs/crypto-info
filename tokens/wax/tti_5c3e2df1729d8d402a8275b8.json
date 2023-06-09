@@ -1,0 +1,23 @@
+{
+    "tokenId": "tti_5c3e2df1729d8d402a8275b8",
+    "overview": {
+        "en": "WAX is purpose-built blockchain and protocol token designed to make e-commerce transactions faster, easier, and safer for all participants."
+    },
+    "links": {
+        "website": [
+            "https://wax.io/"
+        ],
+        "whitepaper": [
+            "https://github.com/worldwide-asset-exchange/whitepaper"
+        ],
+        "explorer": [
+            "https://wax.bloks.io/"
+        ],
+        "github": [
+            "https://github.com/worldwide-asset-exchange"
+        ],
+        "twitter": [
+            "https://twitter.com/WAX_io"
+        ]
+    }
+}

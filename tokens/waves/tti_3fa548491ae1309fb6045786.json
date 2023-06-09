@@ -1,0 +1,17 @@
+{
+    "tokenId": "tti_3fa548491ae1309fb6045786",
+    "overview":{
+        "en":"Waves is an open blockchain protocol and development toolset for Web 3.0 applications and decentralized solutions, aiming to raise security, reliability and speed of IT systems. It enables anyone to build their apps, fostering mass adoption of blockchain.",
+        "zh":"Waves是面向Web 3.0应用程序和去中心化解决方案的开放式区块链协议和开发工具集，旨在提高IT系统的安全性、可靠性和速度。 任何人都可以基于它构建自己的应用程序，从而促进区块链的广泛应用。"
+    },
+    "links":{
+        "website":["https://waves.tech/"],
+        "github":["https://github.com/wavesplatform/"],
+        "explorer":["http://wavesexplorer.com/"],
+        "telegram":["https://telegram.me/wavesnews"],
+        "discrod":["https://discordapp.com/invite/cnFmDyA"],
+        "forum":["https://forum.wavesplatform.com/"],
+        "twitter":["https://twitter.com/wavesplatform"],
+        "reddit":["https://reddit.com/r/Wavesplatform"]
+    }
+}

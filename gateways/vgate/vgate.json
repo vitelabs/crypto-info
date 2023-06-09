@@ -10,6 +10,7 @@
         "website":["https://vgate.io/"]
     },
     "support":"vgateservice@gmail.com",
+    "serviceSupport":"vgateservice@gmail.com",
      "gatewayTokens":{
         "tti_60e20567a20282bfd25ab56c":{
             "mappedNet": "TERA",
@@ -40,6 +41,114 @@
             "mappedSymbol": "ERGO",
             "mappedTokenId": "",
             "url": "https://gateway.vgate.io/ergo/"
-	    }
+        },
+        "tti_f7e187a151e9c74b81e87cce":{
+            "mappedNet": "BEAM",
+            "mappedSymbol": "BEAM",
+            "mappedTokenId": "",
+            "url": "https://gateway.vgate.io/beam/"
+        },
+        "tti_bab0590655709032c865836f":{
+            "mappedNet": "DUNE",
+            "mappedSymbol": "DUNE",
+            "mappedTokenId": "",
+            "url": "https://gateway.vgate.io/dune/"
+        },
+        "tti_dfa872e9f0fccb1cc08502dd":{
+            "mappedNet": "PEGNET",
+            "mappedSymbol": "PEG",
+            "mappedTokenId": "PEG",
+            "url": "https://gateway.vgate.io/pegnet"
+        },
+        "tti_815d918b397f85f70dda2694":{
+            "mappedNet": "PEGNET",
+            "mappedSymbol": "pFCT",
+            "mappedTokenId": "pFCT",
+            "url": "https://gateway.vgate.io/pegnet"
+        },
+        "tti_c1968fde12be9bc60e56a055":{
+            "mappedNet": "PEGNET",
+            "mappedSymbol": "pUSD",
+            "mappedTokenId": "pUSD",
+            "url": "https://gateway.vgate.io/pegnet"
+        },
+        "tti_3cc6dddfb53f3cc5fbb4e7a4":{
+            "mappedNet": "PEGNET",
+            "mappedSymbol": "pGOLD",
+            "mappedTokenId": "pGOLD",
+            "url": "https://gateway.vgate.io/pegnet"
+        },
+        "tti_52278701cf99308c8775337e":{
+            "mappedNet": "LITECASH",
+            "mappedSymbol": "CASH",
+            "mappedTokenId": "",
+            "url": "https://gateway.vgate.io/litecash"
+        },
+        "tti_798de164753adddd70876a91":{
+            "mappedNet": "XBG",
+            "mappedSymbol": "XBG",
+            "mappedTokenId": "",
+            "url": "https://gateway.vgate.io/gateway/bitgrin"
+        },
+        "tti_61f59e574f9f7babfe8908e5":{
+            "mappedNet": "BAN",
+            "mappedSymbol": "BAN",
+            "mappedTokenId": "",
+            "url": "https://gateway.vgate.io/gateway/ban"
+        },
+        "tti_08afaead8fe29b24b6da330f":{
+            "mappedNet": "IXI",
+            "mappedSymbol": "IXI",
+            "mappedTokenId": "",
+            "url": "https://gateway.vgate.io/gateway/ixian"
+        },
+       "tti_6bc433b2edac4454b40ed78c":{
+         "mappedNet": "DEFIS",
+         "mappedSymbol": "XGM",
+         "mappedTokenId": "",
+         "url": "https://gateway.vgate.io/defis"
+       },
+       "tti_5e9c3b41692b7df9144bde6d":{
+         "mappedNet": "XMV",
+         "mappedSymbol": "XMV",
+         "mappedTokenId": "",
+         "url": "https://gateway.vgate.io/monerov"
+       },
+       "tti_68af1261fba35f29b8d2115a":{
+         "mappedNet": "ETH",
+         "mappedSymbol": "XRT",
+         "mappedTokenId": "0x7de91b204c1c737bcee6f000aaa6569cf7061cb7",
+         "url": "https://gateway.vgate.io/gateway/eth"
+       },
+       "tti_b421f7ce27c2f383ee86c5ac":{
+         "mappedNet": "ETH",
+         "mappedSymbol": "FMA",
+         "mappedTokenId": "0x0f8794f66c7170c4f9163a8498371a747114f6c4",
+         "url": "https://gateway.vgate.io/gateway/eth"
+       },
+       "tti_c57651a60eff2e7d4b52babf":{
+         "mappedNet": "ETH",
+         "mappedSymbol": "SRK",
+         "mappedTokenId": "0x0488401c3f535193fa8df029d9ffe615a06e74e6",
+         "url": "https://gateway.vgate.io/gateway/eth"
+       },
+       "tti_03921398b4c7d86622b127d1":{
+         "mappedNet": "HTR",
+         "mappedSymbol": "HTR",
+         "mappedTokenId": "",
+         "url": ""
+       },
+       "tti_f370fadb275bc2a1a839c753":{
+         "mappedNet": "EPIC",
+         "mappedSymbol": "EPIC",
+         "mappedTokenId": "",
+         "url": "https://gateway.vgate.io/gateway/epic"
+       },
+       "tti_44718c5f6996f0a000142344":{
+         "mappedNet": "BSC",
+         "mappedSymbol": "DXCT",
+         "mappedTokenId": "0x5b1baec64af6dc54e6e04349315919129a6d3c23",
+         "url": "https://gateway.vgate.io/gateway/bsc"
+       }
     }
 }

@@ -1,0 +1,16 @@
+{
+    "tokenId": "tti_52278701cf99308c8775337e",
+    "overview":{
+        "en":"Litecash (CASH) provides what today's cryptocurrency enthusiast craves. High speed, compact size, privacy, and low fees.",
+        "zh":"Litecash (CASH) 提供了当今加密货币爱好者的渴望。 高速，紧凑的尺寸，私密性和低廉的费用。"
+    },
+    "links":{
+        "website":["https://lite-cash.com/"],
+        "explorer":["http://explorer.lite-cash.com"],
+        "discord":["https://discord.gg/TEdjcpp"],
+	    "twitter":["https://twitter.com/mylitecash"],
+        "telegram":["https://t.me/litecashgroup"],
+        "reddit":["https://www.reddit.com/r/OfficialLiteCash/"],
+        "github":["https://github.com/Litecash-Dev/"]
+    }
+}

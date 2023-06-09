@@ -1,0 +1,14 @@
+{
+    "tokenId": "tti_62488531f24de9ac21e8aaed",
+    "overview":{
+        "zh":"Celo是一个开放平台，使使用手机的任何人都可以使用金融工具",
+        "en":"Celo is an open platform that makes financial tools accessible to anyone with a mobile phone"
+    },
+    "links":{
+        "website":["https://celo.org"],
+        "whitepaper":["https://celo.org/papers"],
+        "explorer":["https://thecelo.com"],
+        "twitter":["https://twitter.com/CeloOrg"],
+        "github":["https://github.com/celo-org"]
+    }
+}

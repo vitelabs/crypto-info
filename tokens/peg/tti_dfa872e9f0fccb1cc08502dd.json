@@ -1,0 +1,16 @@
+{
+    "tokenId": "tti_dfa872e9f0fccb1cc08502dd",
+    "overview":{
+        "en":"Peg Network Token (PEG) is the PegNet token that summarizes the value of the set of pegged tokens in the market. PEG can be converted into any pegged asset and any pegged asset can be converted into PEG.",
+        "zh":"Peg网络代币PEG反映了市场中流通p资产的价值，PEG和p资产之间可根据市场定价自由转换。"
+    },
+    "links":{
+        "website":["https://pegnet.org/"],
+        "explorer": ["https://explorer.pegnetmarketcap.com/"],
+        "github":["https://github.com/pegnet"],
+        "twitter":["https://twitter.com/PegNetNews"],
+        "reddit":["https://www.reddit.com/r/PegNet/"],
+        "bitcointalk":["https://bitcointalk.org/index.php?topic=5174967.0"],
+        "faq":["https://pegnet.org/docs/faq.html"]
+     }
+}

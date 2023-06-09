@@ -1,0 +1,26 @@
+{
+    "tokenId": "tti_c192655916fa8582e71d9999",
+    "overview": {
+        "en": "HBIT is a PoS blockchain built with Java. It is a blockchain that can be used for digital assets, messaging, decentralized voting and secure applications."
+    },
+    "links": {
+        "website": [
+            "https://hashbit.org"
+        ],
+        "explorer": [
+            "https://hashbit.org/explorer.html"
+        ],
+        "twitter": [
+            "https://twitter.com/HashBitorg"
+        ],
+        "github": [
+            "https://github.com/HashBitorg"
+        ],
+        "telegram": [
+            "https://t.me/hashbitofficial"
+        ],
+        "discord": [
+            "https://discord.gg/z3YMDXjvCn"
+        ]
+    }
+}

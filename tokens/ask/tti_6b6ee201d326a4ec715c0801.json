@@ -1,0 +1,15 @@
+{
+  "tokenId": "tti_6b6ee201d326a4ec715c0801",
+  "overview":{
+    "en":"Permission.io is the leading provider of permission advertising for eCommerce. The Permission Coin (ASK) was created to give individuals back ownership of their time and data. Powered by the Permission blockchain, ASK is a payment coin that enables individuals (\"Members\") to securely grant permission and monetize their time and personal data across global e-commerce platforms and myriad advertising verticals.",
+    "zh":"Permission.io 是集电子商务、广告、大数据领域于一体的底层区块链解决方案， 通过创建Permission 区块链及其应用通证ASK，开发了一种广告协议，该协议使每个人都能够掌握、授予许可并利用其日常网络互动中付出的时间和数据获利。"
+  },
+  "links":{
+    "website":["https://permission.io/"],
+    "telegram":["https://t.me/permission_io"],
+    "explorer":["https://explorer.permission.io/"],
+    "github":["https://gitlab.com/permission/"],
+    "twitter":["https://twitter.com/permissionIO"],
+    "whitepaper":["https://cdn.permission.io/about/Permission-Foundation-Technical-Whitepaper.pdf"]
+  }
+}

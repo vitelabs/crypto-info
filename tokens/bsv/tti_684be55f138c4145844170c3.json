@@ -1,0 +1,13 @@
+{
+  "tokenId": "tti_684be55f138c4145844170c3",
+  "overview":{
+    "en":"Stemming from Bitcoin Cash, BSV is a hard fork (community-activated update to the protocol or code) established as distinct from BCH after the network upgrade scheduled for November 15th, 2018 resulted in a hash war determining the chains would be split.",
+    "zh":"BSV（Bitcoin Satoshi Vision）是遵循中本聪白皮书原始设计和协议稳定的比特币，实现原定的大规模链上扩容愿景，旨在成为全球通用的点对点电子现金与价值数据传输网络。Bitcoin SV中的“SV”是Satoshi Vision（中本聪愿景）的缩写。Bitcoin SV提供了一种全新的全节点比特币现金（BCH）实现方式，旨在实现中本聪（Satoshi Nakamoto）最初在其比特币白皮书中所设定的愿景。"
+  },
+  "links":{
+    "website":["https://bitcoinsv.io/"],
+    "explorer":["https://explorer.vite.net/token/tti_684be55f138c4145844170c3", "https://blockchair.com/bitcoin-sv"],
+    "github":["https://github.com/bitcoin-sv/bitcoin-sv"],
+    "twitter":["https://twitter.com/BitcoinSVNode/"]
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "tokenId":"tti_08afaead8fe29b24b6da330f",
+    "overview":{
+        "en":"A fully scalable, decentralized platform that enables encrypted data streaming and high volume of micro-transactions.",
+        "zh":"一个完全可扩展，去中心化的端到端平台，支持加密数据流和海量微交易，旨在成为端到端数据流和用户到用户通信的真正分散且安全的方法。"
+    },
+    "links":{
+        "website":["https://www.ixian.io/"],
+        "explorer":["https://explorer.ixian.io/"],
+        "telegram":["https://telegram.me/Ixianofficial"],
+        "github":["https://github.com/ProjectIxian/Ixian-source"],
+        "discrod":["https://discord.gg/pdJNVhv"],
+        "twitter":["https://twitter.com/ixian_IO"],
+        "reddit":["https://www.reddit.com/r/ixian/"]
+    }
+}

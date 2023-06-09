@@ -1,0 +1,13 @@
+{
+    "tokenId": "tti_514ee9c2eddcaae07a0feaa0",
+    "overview":{
+	    "en":"Unit protocol is a decentralized borrowing protocol that allows using a variety of tokens as collateral."
+    },
+    "links":{
+        "website":["https://unit.xyz/"],
+        "telegram":["https://t.me/unit_en"],
+        "github":["https://github.com/unitprotocol"],
+        "explorer":["https://etherscan.io/token/0xC76FB75950536d98FA62ea968E1D6B45ffea2A55"],
+        "twitter":["https://twitter.com/unitprotocol"]
+     }
+}

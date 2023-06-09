@@ -1,0 +1,18 @@
+{
+    "tokenId": "tti_181e08c4fdb2876956245076",
+    "overview":{
+        "zh":"Stellar is an open network that allows money to be moved and stored with low fees. Jed McCaleb founded Stellar after leaving Ripple in 2013 over disagreements about the company’s future direction.",
+        "en":"Stellar is an open network that allows money to be moved and stored with low fees. Jed McCaleb founded Stellar after leaving Ripple in 2013 over disagreements about the company’s future direction."
+    },
+    "links":{
+        "website":["https://www.stellar.org/"],
+        "whitepaper":["https://www.stellar.org/papers/stellar-consensus-protocol.pdf"],
+        "github":["https://github.com/stellar/"],
+        "explorer":["https://dashboard.stellar.org/"],
+        "twitter":["https://twitter.com/StellarOrg"],
+        "reddit":["https://reddit.com/r/stellar"],
+        "facebook":["https://www.facebook.com/stellarfoundation/"],
+        "linkedin":["https://www.linkedin.com/company/stellar-development-foundation/"],
+        "medium":["https://medium.com/stellar-community"]
+    }
+}

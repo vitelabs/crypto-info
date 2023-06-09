@@ -1,0 +1,14 @@
+{
+  "tokenId": "tti_c90c146c059b821527f40b98",
+  "overview":{
+    "en":"Dai is decentralized and backed by collateral. The Maker Protocol, which allows anyone anywhere in the world to generate Dai, aims to facilitate greater security, transparency, and trust.",
+    "zh":"Dai是以太坊上最大的去中心化稳定币，由MakerDAO开发并管理，是去中心化金融（DeFi）的基础设施。Dai由链上资产足额抵押担保发行，和美元保持1:1锚定，1Dai=1美元。"
+  },
+  "links":{
+    "website":["http://www.makerdao.com/"],
+    "explorer":["https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f"],
+    "github":["https://github.com/makerdao"],
+    "twitter":["https://twitter.com/makerDAO"],
+    "reddit":["https://reddit.com/r/makerDAO"]
+  }
+}

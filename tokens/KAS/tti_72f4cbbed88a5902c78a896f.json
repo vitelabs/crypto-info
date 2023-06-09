@@ -1,0 +1,17 @@
+{
+    "tokenId": "tti_72f4cbbed88a5902c78a896f",
+    "overview": {
+        "en": "Kaspa is a PoW-based ledger organized in a DAG (Directed Acyclic Graph) of blocks -- a blockDAG."
+    },
+    "links": {
+        "website": [
+            "https://kaspa.org/"
+        ],
+        "whitepaper": [
+            "https://github.com/kaspanet/whitepaper"
+        ],
+        "explorer": [
+            "http://explorer.kaspa.org/"
+        ]
+    }
+}

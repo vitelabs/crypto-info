@@ -1,0 +1,15 @@
+{
+  "tokenId": "tti_a0631aab52bbb9cf398fa5ed",
+  "overview":{
+    "en":"Statera (STA) is a smart contract powered Indexed Deflationary Token (IDT), which synergizes with a trustless and community driven portfolio of class-leading cryptocurrencies.",
+    "zh":"Statera(STA)是一个智能合约驱动的指数型通缩代币(IDT)，它与无信任和社区驱动的类领先加密货币组合协同。Statera的每一笔交易都会创造一个套利机会。交易吸引流动性，进而吸引交易。流动性产生涟漪，Statera的供应量就会减少。"
+  },
+  "links":{
+    "website":["https://stateratoken.com/"],
+    "explorer":["https://etherscan.io/token/0xa7DE087329BFcda5639247F96140f9DAbe3DeED1"],
+    "telegram":["https://t.me/stateratoken"],
+    "twitter":["https://twitter.com/StateraProject"],
+    "reddit":["https://reddit.com/r/StateraToken"],
+    "github":["https://github.com/StateraProject/statera-token/blob/master/contracts/Statera.sol"]
+  }
+}

@@ -4,24 +4,26 @@
 
 ### Information Preparation
 
-Prepare the profile with json-type and logo image.
+Prepare submission documents under the following requirements.
 
 `LOGO IMAGE`
 
-- Image format: `png` `transparent background`
-- Image size: `20x20 pixels`
+- Image format: `png`
+- Image size: `200x200 pixels`
+
+![Icon Specification](../assets/images/icon-specification.jpg)
 
 `JSON FILE`
 
-| field | necessity |description | schema type |
+| field | value required |description | schema type |
 |:------------:|:-----:|:-----------:|:-----:|
 | name | necessary | gateway name | String |
 | address | necessary | owner of the trade pairs | String |
 | overview | necessary | introduction of your token | Map<String,String> |
-| links | optional | website,whitepaper,github, and other media links. | Map<String,List<String>> |
-| support | necessary | customer service, eg: support@*****.com | String |
+| links | necessary | website, whitepaper, github, and other media links | Map<String,List<String>> |
+| support | necessary | customer service can be provided through Discord or Telegram | String |
 
-> Filename in the `lowercase` format, named by your operator address, same name for both .json and .png (Including capitalization), eg: vite_050697d3810c30816b005a03511c734c1159f50907662b046f
+> Filename should be your operator address in all `lowercase` letters, same name for both .json and .png (Including capitalization), eg: vite_050697d3810c30816b005a03511c734c1159f50907662b046f
 
 #### Keyword in the field  Map-Value above.
 
@@ -45,8 +47,6 @@ Prepare the profile with json-type and logo image.
     * medium
     * blog
 
-    > Note: We consider projects that fill in the `website`,`whitepaper`,`github` fields to be generally reliable gateways that do not give warning messages in ViteX.
-
 * `overview`
     
     * **en** 
@@ -59,7 +59,6 @@ Prepare the profile with json-type and logo image.
 
 ##### Example:
 
-::: demo
 ```json 
 {
 	"name":"Vite Labs",
@@ -81,13 +80,14 @@ Prepare the profile with json-type and logo image.
 }
 
 ```
-:::
 
 ## Steps to upload
 
+We recommend that you complete the procedures with your developers, or you can follow [Github Guideline](../github-tutorial.en.md) to operate on github web page.
+
 1. Fork the repo to your own github account
 
-2. Clone the repo from your own account, please note: do no clone the origin one directly, but clone the repo you forked
+2. Clone the repo from your own account, please note: do not clone the origin one directly, but clone the repo you forked
 ```
 git clone https://github.com/[your-own-repo]/crypto-info.git
 cd crypto-info/
@@ -116,11 +116,11 @@ vite_050697d3810c30816b005a03511c734c1159f50907662b046f.png
   For example:
 ```
 git add -A
-git commit -m "Add operator-[vite_xxx]"
+git commit -m "add operator [Operator Name] [vite_xxx]"
 git push origin operator-[vite_xxx]
 ```
 
-8. Under your repo page, click the "New pull request" button. Then, attach the detailed operator informatio, this includes but not limited to the following: (Operator name; Operator address on vite blockchain; Contact information).
+8. Under your repo page, click the "New pull request" button. Then, attach the detailed operator information, this includes but not limited to the following: (Operator name; Operator address on vite blockchain; Contact information).
 
    Sample PR: https://github.com/vitelabs/crypto-info/pull/xxx
 

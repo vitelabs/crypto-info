@@ -1,0 +1,14 @@
+{
+    "tokenId": "tti_c8c9ad17bc7b45e38eb88a44",
+    "overview":{
+        "en":"BUSD is a stablecoin issued by Paxos in partnership with Binance.",
+        "zh":"Binance USD（BUSD）是与美元挂钩的稳定币，已获得纽约州金融服务部（NYDFS）的批准。BUSD可用于直接购买和兑换，汇率为1 BUSD = 1 USD"
+    },
+    "links":{
+        "website":["https://www.paxos.com/busd/"],
+        "explorer":["https://etherscan.io/token/0x4Fabb145d64652a948d72533023f6E7A623C7C53/","https://bscscan.com/token/0xe9e7cea3dedca5984780bafc599bd69add087d56"],
+        "github":["https://github.com/paxosglobal/busd-contract/"],
+        "facebook":["https://www.facebook.com/paxosglobal/"],
+	    "twitter":["https://twitter.com/PaxosGlobal/"]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Kivigate",
+    "policy": {
+        "en": "https://github.com/ViNo-community/ViNo-Custodial-Gateway/blob/main/TOS"
+    },
+    "overview": {
+        "en": "A Gateway DAO on Vite that bridges revolutionary networks.",
+        "zh": "Vite 上的网关 DAO，连接了革命性的网络"
+    },
+    "links": {
+        "website": [
+            "https://twitter.com/Kivivite"
+        ],
+        "github": [
+            "https://github.com/Kivivite"
+        ],
+        "discord": [
+            "https://discord.gg/2wJAsvWJR9"
+        ],
+        "explorer": [
+            "https://vitcscan.com"
+        ],
+        "email": [
+            "KaffinPX@protonmail.com"
+        ],
+        "twitter": [
+            "https://twitter.com/Kivivte"
+        ]
+    },
+    "support": "KaffinPX@protonmail.com",
+    "serviceSupport": "https://discord.gg/2wJAsvWJR9",
+    "gatewayTokens": {
+        "tti_72f4cbbed88a5902c78a896f": {
+            "mappedSymbol": "KAS",
+            "mappedNet": "Kaspa",
+            "mappedTokenId": "",
+            "url": "https://gateways.kivi.lol/kaspa"
+        },
+        "tti_1d0df1e636c9cb8ffecf535e": {
+            "mappedSymbol": "HBAR",
+            "mappedNet": "Hedera",
+            "mappedTokenId": "",
+            "url": "https://gateways.kivi.lol/hedera"
+        }
+    },
+    "selfCertification": "YES"
+}

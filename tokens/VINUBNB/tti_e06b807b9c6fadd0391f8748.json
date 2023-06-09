@@ -1,0 +1,13 @@
+{
+    "tokenId": "tti_e06b807b9c6fadd0391f8748",
+    "overview":{
+        "zh":"This is the LP token for the VINUBNB PancakeSwap pool.",
+        "en":"This is the LP token for the VINUBNB PancakeSwap pool."
+    },
+    "links":{
+        "website":["https://vitainu.org/"],
+        "whitepaper":["https://vitainu.org/wp-content/uploads/2022/01/Vita-Inu-Whitepaper-NEW-INTRO_compressed.pdf"],
+        "documentation":["https://docs.pancakeswap.finance/"],
+        "explorer":["https://bscscan.com/token/0xdd9114597217125d60f67Ebf099F0E9570954F46"]
+    }
+}

@@ -1,42 +1,241 @@
 {
-	"name":"Vite Labs",
-    "policy":{
-    	"en":"https://x.vite.net/privacy.html"
+  "name": "Vite Gateway",
+  "policy": {
+    "en": "https://x.vite.net/viteLabsGatePrivacy.html"
+  },
+  "overview": {
+    "zh": "Vite Gateway runs cross-chain services for four coins: BTC, ETH, USDT(ERC20)",
+    "en": "Vite Gateway runs cross-chain services for four coins: BTC, ETH, USDT(ERC20)"
+  },
+  "links": {
+    "website": [
+      "https://vite.org"
+    ],
+    "explorer": [
+      "https://explorer.vite.net"
+    ],
+    "whitepaper": [
+      "https://github.com/vitelabs/whitepaper/"
+    ]
+  },
+  "support": "gateway@vite.org",
+  "serviceSupport": "https://vitex.zendesk.com/hc/en-001/requests/new",
+  "gatewayTokens": {
+    "tti_687d8a93915393b219212c73": {
+      "mappedSymbol": "ETH",
+      "mappedNet": "ETH",
+      "mappedTokenId": "",
+      "url": "https://crosschain.vite.net/gateway/eth/"
     },
-    "overview":{
-    	"zh":"Vite Labs官方网关，负责BTC、ETH、USDT(ERC20)、GRIN四种代币跨链服务",
-    	"en":"The gateway provided by Vite Labs, running cross-chain services for four coins: BTC, ETH, USDT(ERC20)"
+    "tti_b90c9baffffc9dae58d1f33f": {
+      "mappedSymbol": "BTC",
+      "mappedNet": "BTC",
+      "mappedTokenId": "",
+      "url": "https://crosschain.vite.net/gateway/btc/"
     },
-    "links": {
-      "website":["https://vite.org"],
-      "explorer":["https://explorer.vite.net"],
-      "whitepaper":["https://github.com/vitelabs/whitepaper/"]
+    "tti_80f3751485e4e83456059473": {
+      "mappedSymbol": "USDT",
+      "mappedNet": "ETH",
+      "mappedTokenId": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "url": "https://crosschain.vite.net/gateway/eth/",
+      "extraStandards": [{
+        "mappedNet": "BSC",
+        "mappedTokenId": "0x55d398326f99059ff775485246999027b3197955",
+        "standard": "BEP20",
+        "url": "https://crosschain.vite.net/gateway/bsc/"
+      }]
     },
-    "support":"gateway@vite.org",
-    "gatewayTokens":{
-    	"tti_687d8a93915393b219212c73":{
-			"mappedSymbol": "ETH",
-			"mappedNet": "ETH",
-			"mappedTokenId": "",
-			"url": "https://gate.vite.net/gateway/eth/"
-    	},
-    	"tti_b90c9baffffc9dae58d1f33f":{
-			"mappedSymbol": "BTC",
-			"mappedNet": "BTC",
-			"mappedTokenId": "",
-			"url": "https://gate.vite.net/gateway/btc/"
-    	},
-    	"tti_80f3751485e4e83456059473":{
-			"mappedSymbol": "USDT",
-			"mappedNet": "ETH",
-			"mappedTokenId": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-			"url": "https://gate.vite.net/gateway/eth/"
-    	},
-    	"tti_289ee0569c7d3d75eac1b100":{
-			"mappedSymbol": "GRIN",
-			"mappedNet": "GRIN",
-			"mappedTokenId": "",
-			"url": "https://gate.vite.net/gateway/grin/"
-    	}
+    "tti_289ee0569c7d3d75eac1b100": {
+      "mappedSymbol": "GRIN",
+      "mappedNet": "GRIN",
+      "mappedTokenId": "",
+      "url": "https://crosschain.vite.net/gateway/grin/"
+    },
+    "tti_2f875c97d3a51b66a59c4411": {
+      "mappedSymbol": "ANKR",
+      "mappedNet": "ETH",
+      "mappedTokenId": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4",
+      "url": "https://crosschain.vite.net/gateway/eth"
+    },
+    "tti_c8c9ad17bc7b45e38eb88a44": {
+      "mappedSymbol": "BUSD",
+      "mappedNet": "ETH",
+      "mappedTokenId": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+      "url": "https://crosschain.vite.net/gateway/eth",
+      "extraStandards": [{
+        "mappedNet": "BSC",
+        "mappedTokenId": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "standard": "BEP20",
+        "url": "https://crosschain.vite.net/gateway/bsc/"
+      }]
+    },
+    "tti_4a04203e28bb8f3dc3d8f9b1": {
+      "mappedNet": "XRP",
+      "mappedSymbol": "XRP",
+      "mappedTokenId": "",
+      "url": "https://crosschain.vite.net/gateway/xrp"
+    },
+    "tti_9b8b779b0ca5b55464e1cfda": {
+      "mappedNet": "EOS",
+      "mappedSymbol": "EOS",
+      "mappedTokenId": "",
+      "url": "https://crosschain.vite.net/gateway/eos"
+    },
+    "tti_3fa548491ae1309fb6045786": {
+      "mappedNet": "WAVES",
+      "mappedSymbol": "WAVES",
+      "mappedTokenId": "",
+      "url": "https://crosschain.vite.net/gateway/waves"
+    },
+    "tti_c05c2c2fb8f6b428e3d60b04": {
+      "mappedSymbol": "TRB",
+      "mappedNet": "ETH",
+      "mappedTokenId": "0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0",
+      "url": "https://crosschain.vite.net/gateway/eth"
+    },
+    "tti_93df321906bf2fc3699e8996": {
+      "mappedSymbol": "OKB",
+      "mappedNet": "ETH",
+      "mappedTokenId": "0x75231f58b43240c9718dd58b4967c5114342a86c",
+      "url": "https://crosschain.vite.net/gateway/eth"
+    },
+    "tti_ba08360030939f1af8e4db88": {
+      "mappedSymbol": "FRM",
+      "mappedNet": "ETH",
+      "mappedTokenId": "0xe5caef4af8780e59df925470b050fb23c43ca68c",
+      "url": "https://crosschain.vite.net/gateway/eth"
+    },
+    "tti_3d1ed2b1151ed9bb64d51fee": {
+      "mappedSymbol": "ONE",
+      "mappedNet": "ONE",
+      "mappedTokenId": "",
+      "url": "https://crosschain.vite.net/gateway/harmony",
+      "extraStandards": [{
+        "mappedNet": "BSC",
+        "mappedTokenId": "0x03fF0ff224f904be3118461335064bB48Df47938",
+        "standard": "BEP20",
+        "url": "https://crosschain.vite.net/gateway/bsc/"
+      }]
+    },
+    "tti_216a5553fcfc24126b06db19": {
+      "mappedSymbol": "BCH",
+      "mappedNet": "BCH",
+      "mappedTokenId": "",
+      "url": "https://crosschain.vite.net/gateway/bch"
+    },
+    "tti_684be55f138c4145844170c3": {
+      "mappedSymbol": "BSV",
+      "mappedNet": "BSV",
+      "mappedTokenId": "",
+      "url": "https://crosschain.vite.net/gateway/bsv"
+    },
+    "tti_ffcd2355f4843e8db240b013": {
+      "mappedSymbol": "LINK",
+      "mappedNet": "ETH",
+      "mappedTokenId": "0x514910771af9ca656af840dff83e8264ecf986ca",
+      "url": "https://crosschain.vite.net/gateway/eth"
+    },
+    "tti_e5750d3c5b3bb5a31b8ba637": {
+      "mappedSymbol": "XMR",
+      "mappedNet": "XMR",
+      "mappedTokenId": "",
+      "url": "https://crosschain.vite.net/gateway/monero"
+    },
+    "tti_e0f975aa35963870f29ee413": {
+      "mappedSymbol": "KAI",
+      "mappedNet": "ETH",
+      "mappedTokenId": "0xBD6467a31899590474cE1e84F70594c53D628e46",
+      "url": "https://crosschain.vite.net/gateway/eth"
+    },
+    "tti_b0c07c71206c1db4aa8fb442": {
+      "mappedSymbol": "HNS",
+      "mappedNet": "HNS",
+      "mappedTokenId": "",
+      "url": "https://crosschain.vite.net/gateway/hns"
+    },
+    "tti_e9b6e81bb50376874d74183b": {
+      "mappedSymbol": "NAMI",
+      "mappedNet": "ETH",
+      "mappedTokenId": "0x2f7b618993cc3848d6c7ed9cdd5e835e4fe22b98",
+      "url": "https://crosschain.vite.net/gateway/eth/"
+    },
+    "tti_cd927832cb1890645e627693": {
+      "mappedSymbol": "AUTO",
+      "mappedNet": "BSC",
+      "mappedTokenId": "0xa184088a740c695e156f91f5cc086a06bb78b827",
+      "url": "https://crosschain.vite.net/gateway/bsc/"
+    },
+    "tti_e9034802dcd5a2b5603e42fc": {
+      "mappedSymbol": "HFI",
+      "mappedNet": "HECO",
+      "mappedTokenId": "0x98fc3b60ed4a504f588342a53746405e355f9347",
+      "url": "https://crosschain.vite.net/gateway/heco/"
+    },
+    "tti_5649544520544f4b454e6e40": {
+      "mappedSymbol": "VITE",
+      "mappedNet": "ETH",
+      "mappedTokenId": "0xadd5e881984783dd432f80381fb52f45b53f3e70",
+      "url": "https://crosschain.vite.net/gateway/eth/",
+      "extraStandards": [{
+        "mappedNet": "BSC",
+        "mappedTokenId": "0x2794dad4077602ed25a88d03781528d1637898b4",
+        "standard": "BEP20",
+        "url": "https://crosschain.vite.net/gateway/bsc/"
+      }]
+    },
+    "tti_564954455820434f494e69b5": {
+      "mappedSymbol": "VX",
+      "mappedNet": "BSC",
+      "mappedTokenId": "0xbbdac6ca30ba9189c7bf67a1f7160379f7e25835",
+      "url": "https://crosschain.vite.net/gateway/bsc/"
+    },
+    "tti_a2a290f98c963f6aca7bb9e7": {
+      "mappedSymbol": "NFY",
+      "mappedNet": "ETH",
+      "mappedTokenId": "0x1cbb83ebcd552d5ebf8131ef8c9cd9d9bab342bc",
+      "url": "https://crosschain.vite.net/gateway/eth/"
+    },
+    "tti_733c4026779953052bd68017": {
+      "mappedSymbol": "RAD",
+      "mappedNet": "ETH",
+      "mappedTokenId": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
+      "url": "https://crosschain.vite.net/gateway/eth/"
+    },
+    "tti_392a4a23e84f514608f0b3f0": {
+      "mappedSymbol": "MIST",
+      "mappedNet": "ETH",
+      "mappedTokenId": "0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab",
+      "url": "https://crosschain.vite.net/gateway/eth/"
+    },
+    "tti_e6218b92d202a0bef2d91fb1": {
+      "mappedSymbol": "WEX",
+      "mappedNet": "BSC",
+      "mappedTokenId": "0xa9c41a46a6b3531d28d5c32f6633dd2ff05dfb90",
+      "url": "https://crosschain.vite.net/gateway/bsc/"
+    },
+    "tti_c06a133b8e89de647febc357": {
+      "mappedSymbol": "PANTHER",
+      "mappedNet": "BSC",
+      "mappedTokenId": "0x1f546ad641b56b86fd9dceac473d1c7a357276b7",
+      "url": "https://crosschain.vite.net/gateway/bsc/"
+    },
+    "tti_fb901364ef662c25cf43125c": {
+      "mappedSymbol": "BNB",
+      "mappedNet": "BSC",
+      "mappedTokenId": "",
+      "url": "https://crosschain.vite.net/gateway/bsc/"
+    },
+    "tti_ffcb16eab521ec54daeba2ba": {
+      "mappedSymbol": "TON",
+      "mappedNet": "TON",
+      "mappedTokenId": "",
+      "url": "https://crosschain.vite.net/gateway/ton/"
+    },
+    "tti_15d7902d9c4b5d6efb9618af": {
+      "mappedSymbol": "PEPE",
+      "mappedNet": "ETH",
+      "mappedTokenId": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+      "url": "https://crosschain.vite.net/gateway/eth/"
     }
+  }
 }

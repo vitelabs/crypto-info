@@ -1,0 +1,10 @@
+{
+    "tokenId": "tti_dfa271071c263fe835c9dd2c",
+    "overview":{
+        "en":"It is a brand new, open and compatible multi-chain parallel blockchain operating system. It adopts the consensus algorithm of CPoW+DPoS+PoT, combines the advantages of blockchain superbook (Hyperledger) and DAG fast confirmation to effectively solve the bit. The problem of rapid expansion of the volume of coins and Ethereum systems. It also provides a multi-modal ledger structure, business model and editable smart contract templates to help customers quickly build applications. ITDC also designed a flexible cross-chain mechanism to break down the barriers between different blockchains and realize the diversified management of users' digital assets. It is a blockchain ecosystem that can be truly commercialized."
+    },
+    "links":{
+        "website":["http://itdc.top/"],
+        "whitepaper":["http://itdc.top/img/itdc.pdf"]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "tokenId": "tti_52c672080a7f5cdcb8addbdc",
+    "overview": {
+        "en": "HBOT Tokens will be used to empower holders to decide how the Hummingbot codebase changes over time through voting."
+    },
+    "links": {
+        "website": [
+            "https://hummingbot.io/"
+        ],
+        "whitepaper": [
+            "https://hummingbot.org/governance/whitepaper/"
+        ],
+        "explorer": [
+            "https://etherscan.io/token/0xe5097d9baeafb89f9bcb78c9290d545db5f9e9cb/"
+        ],
+        "github": [
+            "https://github.com/hummingbot"
+        ],
+        "twitter": [
+            "https://twitter.com/hummingbot_io"
+        ]
+    }
+}

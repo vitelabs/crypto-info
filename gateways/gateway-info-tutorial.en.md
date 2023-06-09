@@ -4,36 +4,51 @@
 
 ### Information Preparation
 
-Prepare the profile with json-type and logo image.
+Prepare submission documents under the following requirements.
 
 `LOGO IMAGE`
 
-- Image format: `png` `transparent background`
-- Image size: `20x20 pixels`
+- Image format: `png`
+- Image size: `200x200 pixels`
+
+![Icon Specification](../assets/images/icon-specification.jpg)
 
 `JSON FILE`
 
-| field | necessity |description | schema type |
+| field | value required |description | schema type |
 |:------------:|:-----:|:-----------:|:-----:|
 | name | necessary | gateway name | String |
-| policy | necessary | Terms of service, terms of exchange, restrictions and privacy policies | Map<String,String> |
-| overview | necessary | introduction of your token | Map<String,String> |
-| links | optional | website,whitepaper,github, and other media links. | Map<String,List<String>> |
-| support | necessary | customer service, eg: support@*****.com | String |
-| gatewayTokens | necessary | details of extranet coin mapped | Map<String,GatewayMappedTokenDetail> |
+| policy | necessary | Terms of service, terms of exchange, restrictions and privacy policies | Map<String, String> |
+| overview | necessary | introduction of your token | Map<String, String> |
+| links | necessary | website, whitepaper, github, and other media links | Map<String, List<String>> |
+| support | necessary | customer service can be provided through Discord or Telegram | String |
+| gatewayTokens | necessary | details of cross-chain coin | Map<String, GatewayMappedTokenDetail> |
+| selfCertification | necessary | self-certification status. It should be YES (see below for more details) | String |
 
-> Filename in the `lowercase` format, string join with `-`, same name for both .json and .png (Including capitalization), eg: Vite Labs -> vite-labs, vite-labs.json | vite-labs.png
+> The logo and json file names should both be your gateway name, and written in all `lowercase` letters. If the original name contains space, replace with `-`. Example: if your gateway name is Vite Labs, your file names should be vite-labs.json and vite-labs.png.
 
-#### GatewayMappedTokenDetail
+#### Self-Certification
+	
+Gateway applicants should self-certify that the following guidelines have been met.
+
+- The cross-chain gateway has been set up and running for at a minimum of 1 month without known issues
+- Internal policy on securing the original assets, such as managing custody with hot/cold wallet approach, safeguarding keys to ensure they are not stolen
+- Unit Tests to make sure deposit/withdraw works well (try with edge cases)
+- Code Review of the gateway code by a trusted third-party (without sharing the code with a potential attacker looking to exploit the code)
+	
+**_Ultimately the gateway is solely responsible for customer funds, and ViteX bears no liability for any loss._**
+	
+
+#### Gateway Cross-chain Token ("Mapped Token") Detail
 
 | field | necessity |description | schema type |
 |:------------:|:-----:|:-----------:|:-----:|
-| mappedSymbol | necessary | symbol of the extranet coin mapped , eg: VITE | String |
-| mappedNet | necessary | category of the extranet coin mapped , eg: ETH | String |
-| mappedTokenId | necessary | unique key of the extranet coin mapped, eg: 0x1b793E49237758dBD8b752AFC9Eb4b329d5Da016 | String |
-| url | necessary | apiUrl your gateway provided | String |
+| mappedSymbol | necessary | symbol of the cross-chain coin, eg: UNI | String |
+| mappedNet | necessary | category of the cross-chain coin, eg: ETH | String |
+| mappedTokenId | necessary | unique key of the cross-chain coin, eg: 0x1b793E49237758dBD8b752AFC9Eb4b329d5Da016 | String |
+| url | necessary | apiUrl for your gateway | String |
 
-> Note: For more information about API specification for the field `url`, please refer to the tutorial here: [Gateway Profile Guideline](apiurl-tutorial.en.md)
+> Note: To learn more about the API specification for the field `url`, see this tutorial: [Gateway Profile Guideline](https://docs.vite.org/go-vite/dex/gateway/gateway-protocol.html)
 
 #### Keyword in the field  Map-Value above.
 
@@ -61,28 +76,26 @@ Prepare the profile with json-type and logo image.
     * medium
     * blog
 
-    > Note: We consider projects that fill in the `website`,`whitepaper`,`github` fields to be generally reliable gateways that do not give warning messages in ViteX.
-
 * `overview`
     
     * **en** 
-    * zh
 
-    > Note: Providing an English version is essential.
+* `policy`
+    
+    * **en** 
 
 > Note: you must use the right key name, and all must be `lowercase`.
 
 
 ##### Example:
-::: demo
+
 ```json
 {
-	"name":"Vite Labs",
+    "name":"Vite Labs",
     "policy":{
     	"en":"https://x.vite.net/privacy.html"
     },
     "overview":{
-    	"zh":"Vite Labs官方网关，负责BTC、ETH、USDT(ERC20)、GRIN四种代币跨链服务",
     	"en":"The gateway provided by Vite Labs, running cross-chain services for four coins: BTC, ETH, USDT(ERC20)"
     },
     "links": {
@@ -123,10 +136,11 @@ Prepare the profile with json-type and logo image.
 }
 
 ```
-:::
 
 
 ### Steps to upload
+
+We recommend that you complete the procedures with your developers, or you can follow [Github Guideline](../github-tutorial.en.md) to operate on github web page.
 
 1. Fork the repo to your own github account
 
@@ -159,11 +173,15 @@ vite-labs.png
   For example:
 ```
 git add -A
-git commit -m "Add gateway-[gatewayname]"
+git commit -m "add gateway [Gateway Name]"
 git push origin gateway-[gatewayname]
 ```
 
-8. Under your repo page, click the "New pull request" button. Then, attach the detailed gateway informatio, this includes but not limited to the following: (Gateway name;  Gateway original applicant name; Real name of submitter; Contact information).
+8. Under your repo page, click the "New pull request" button. Then, attach the detailed gateway informatio, this includes but not limited to the following: 
+  * Name of gateway
+  * Applicant's legal name of gateway
+  * Legal name of submitter
+  * Contacts
 
    Sample PR: https://github.com/vitelabs/crypto-info/pull/xxx
 

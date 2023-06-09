@@ -1,0 +1,26 @@
+{
+  "name": "Viterium",
+  "address": "vite_24db8c0957ab7a38291208e5156f7a4f7a33dcde16a97f69a7",
+  "overview": {
+    "en": "Viterium manages all VT trading pairs on ViteX."
+  },
+  "links": {
+    "website": [
+      "https://viterium.io"
+    ],
+    "github": [
+      "https://github.com/viterium"
+    ],
+    "twitter": [
+      "https://twitter.com/viterium"
+    ],
+    "explorer": [
+      "https://vitcscan.com/token/tti_b18e6488eeb30541da7f5010",
+      "https://vitescan.io/token/tti_b18e6488eeb30541da7f5010"
+    ],
+    "whitepaper": [
+      "https://github.com/viterium/whitepaper/raw/main/viterium_whitepaper.pdf"
+    ]
+  },
+  "support": "https://discord.gg/MF8pe8upYR"
+}

@@ -1,15 +1,15 @@
 # crypto-info
-Crypto information collection. This repository is used as information source for token,gateway,operator,etc.
+This repository is used to collect profiles of tokens, gateways, and operators on ViteX.
 
 ##  Tokens
-Currently Vite demonstrates information of tokens on Vite chain. To specify the profile of your own token, please refer to the tutorial here:
+Minting token is easy on Vite. In order to have your token well explained, such as adding a good description and a nice icon, you should submit the information here. 
 - [Vite Token Profile Guideline](tokens/vite-tutorial.en.md)
 
 ##  Gateways
-Cross-chain Gateways provide a way to transfer digital assets between any chains (Source Chain) and digital assets on the Vite chain (Gateway Tokens). You can create your own gateway. If you want to have a better display on Vite‘s apps, you should specify your gateway's information. For more instructions, please refer to the tutorial here:
+Cross-chain gateway provides a way to transfer digital assets between native chains and the Vite chain. You are able to setup your own gateway, and submit the gateway's information so it can be correctly presented in ViteX. 
 - [Gateway Profile Guideline](gateways/gateway-info-tutorial.en.md)
 
 
 ##  Operators
-The concept of the operator is mainly for ViteX exchange. To promote themselves to the ViteX community, Operators should prepare a detailed introduction of themselves.  Instructions for polishing instructions are here:
+Operator is responsible for listing token and providing service related to deposits and withdrawals on ViteX, and is required to prepare a detailed introduction.  The information should be provided here:
 - [Operator Profile Guideline](operators/operator-info-tutorial.en.md)

@@ -1,0 +1,23 @@
+{
+    "tokenId": "tti_c34069d833433fa25ae97441",
+    "overview": {
+        "en": "Avalanche is the fastest smart contracts platform in the blockchain industry, as measured by time-to-finality, and has the most validators securing its activity of any proof-of-stake protocol."
+    },
+    "links": {
+        "website": [
+            "https://www.avax.network/"
+        ],
+        "whitepaper": [
+            "https://www.avalabs.org/whitepapers "
+        ],
+        "explorer": [
+            "https://snowtrace.io/"
+        ],
+        "github": [
+            "https://github.com/ava-labs"
+        ],
+        "twitter": [
+            "https://twitter.com/AvalancheAVAX"
+        ]
+    }
+}

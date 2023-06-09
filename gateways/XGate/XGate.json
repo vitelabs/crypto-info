@@ -1,0 +1,158 @@
+{
+  "name": "XGate",
+  "policy": {
+    "en": "https://github.com/ViNo-community/ViNo-Custodial-Gateway/blob/main/TOS"
+  },
+  "overview": {
+    "zh": "XGate runs cross-chain services for various cryptocurrencies on Vitex",
+    "en": "XGate runs cross-chain services for various cryptocurrencies on Vitex"
+  },
+  "links": {
+    "website": [
+      "https://twitter.com/xgatevite"
+    ],
+    "explorer": [
+      "https://explorer.vite.net"
+    ],
+    "github": [
+      "https://github.com/ViNo-community"
+    ],
+    "twitter": [
+      "https://twitter.com/xgatevite"
+    ],
+    "discord": [
+      "https://t.co/lm3GpFXzoZ?amp=1"
+    ]
+  },
+  "support": "xgatevite@gmail.com",
+  "serviceSupport": "https://twitter.com/xgatevite",
+  "gatewayTokens": {
+    "tti_ae7c9df2d83d9815424c5ecc": {
+      "mappedSymbol": "PAW",
+      "mappedNet": "PAW",
+      "mappedTokenId": "",
+      "url": "https://paw.patrola.me/"
+    },
+    "tti_8a088649de995d0dd54a6046": {
+      "mappedSymbol": "CAKE",
+      "mappedNet": "BSC",
+      "mappedTokenId": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "url": "https://patrola.me/gateways/bsc"
+    },
+    "tti_b3d361aee7d057585a752271": {
+      "mappedSymbol": "ADIA",
+      "mappedNet": "ADIA",
+      "mappedTokenId": "",
+      "url": "https://paw.patrola.me/arcadia/"
+    },
+    "tti_21e0cc2caf8b86b8b9cbd1c7": {
+      "mappedSymbol": "VOLT",
+      "mappedNet": "BSC",
+      "mappedTokenId": "0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac",
+      "url": "https://patrola.me/gateways/bsc"
+        },
+    "tti_2d064c49aeae9f460258faed": {
+      "mappedSymbol": "OSC",
+      "mappedNet": "BSC",
+      "mappedTokenId": "0xc6c94867d18b826022191b158334e1d6f70ae589",
+      "url": "https://patrola.me/gateways/bsc"
+    },
+    "tti_1ef6a8bef889022e0351886e": {
+      "mappedSymbol": "CENT",
+      "mappedNet": "BSC",
+      "mappedTokenId": "0xee37A338e781b9b86f3E79fBF09D6032D2DBc109",
+      "url": "https://patrola.me/gateways/bsc"
+    },
+    "tti_ac94b6c8081008a3a54cdae7": {
+      "mappedSymbol": "CENTBNB",
+      "mappedNet": "BSC",
+      "mappedTokenId": "0x292b2118812c9a43d8994271a81dbce870eeaf6b",
+      "url": "https://patrola.me/gateways/bsc"
+    },
+    "tti_34c5ed639f97d1e826451c92": {
+      "mappedSymbol": "UNI",
+      "mappedNet": "ETH",
+      "mappedTokenId": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+      "url": "https://patrola.me/gateways/eth"
+    },
+    "tti_6ec2144693dd31db48b20a63": {
+      "mappedSymbol": "MATIC",
+      "mappedNet": "BSC",
+      "mappedTokenId": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+      "url": "https://patrola.me/gateways/bsc",
+      "extraStandards": [{
+        "mappedNet": "MATIC",
+        "mappedTokenId": "0x0000000000000000000000000000000000001010",
+        "standard": "MATIC",
+        "url": "https://patrola.me/gateways/matic"
+      }]
+    },
+    "tti_3e84e81880b9eb297dd411e6": {
+      "mappedSymbol": "POOCOIN",
+      "mappedNet": "BSC",
+      "mappedTokenId": "0xB27ADAfFB9fEa1801459a1a81B17218288c097cc",
+      "url": "https://patrola.me/gateways/bsc"
+    },
+    "tti_905289db7f48f0a8ac64c824": {
+      "mappedSymbol": "MNTO",
+      "mappedNet": "BSC",
+      "mappedTokenId": "0x854A63B35B70A7becbED508ff0b6Ff5038D0C917",
+      "url": "https://patrola.me/gateways/bsc"
+    },
+    "tti_6adff43eaa32068c9c8dbbfe": {
+      "mappedSymbol": "GNO",
+      "mappedNet": "Gnosis",
+      "mappedTokenId": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
+      "url": "https://patrola.me/gateways/gnosis"
+    },
+    "tti_2dceb296d0dfb34487837806": {
+      "mappedSymbol": "CELO",
+      "mappedNet": "Celo",
+      "mappedTokenId": "0x471EcE3750Da237f93B8E339c536989b8978a438",
+      "url": "https://patrola.me/gateways/celo"
+    },
+    "tti_fa197647bfee344a03440cd0": {
+      "mappedSymbol": "TRX",
+      "mappedNet": "TRX",
+      "mappedTokenId": "",
+      "url": "https://patrola.me/gateways/tron"
+    },
+    "tti_181e08c4fdb2876956245076": {
+      "mappedSymbol": "XLM",
+      "mappedNet": "XLM",
+      "mappedTokenId": "",
+      "url": "https://patrola.me/gateways/xlm"
+    },
+    "tti_e06b807b9c6fadd0391f8748": {
+      "mappedSymbol": "VINUBNB",
+      "mappedNet": "BSC",
+      "mappedTokenId": "0xdd9114597217125d60f67Ebf099F0E9570954F46",
+      "url": "https://patrola.me/gateways/bsc"
+    },
+    "tti_541b25bd5e5db35166864096": {
+      "mappedSymbol": "VINU",
+      "mappedNet": "ETH",
+      "mappedTokenId": "0xafcdd4f666c84fed1d8bd825aa762e3714f652c9",
+      "url": "https://patrola.me/gateways/eth",
+      "extraStandards": [{
+          "mappedNet": "BSC",
+          "mappedTokenId": "0xfEbe8C1eD424DbF688551D4E2267e7A53698F0aa",
+          "standard": "BEP20",
+          "url": "https://patrola.me/gateways/bsc"
+        },
+        {
+          "mappedNet": "MATIC",
+          "mappedTokenId": "0xAFCdd4f666c84Fed1d8BD825aA762e3714F652c9",
+          "standard": "MATIC",
+          "url": "https://patrola.me/gateways/matic"
+        },
+        {
+          "mappedNet": "OKC",
+          "mappedTokenId": "0xAFCdd4f666c84Fed1d8BD825aA762e3714F652c9",
+          "standard": "KIP20",
+          "url": "https://patrola.me/gateways/okc"
+        }
+      ]
+    }
+  }
+}

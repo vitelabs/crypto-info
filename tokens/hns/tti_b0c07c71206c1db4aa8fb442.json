@@ -1,0 +1,16 @@
+{
+  "tokenId": "tti_b0c07c71206c1db4aa8fb442",
+  "overview":{
+    "zh":"Handshake是一条公链，专注于去中心化的域名注册、认证、交易和解析。采用了一种与DNS兼容的分散式，无权限的命名协议，其中每个对等方都在验证并负责管理根区域，目的是创建现有证书颁发机构的替代方案。",
+    "en":"Handshake is a decentralized, permissionless naming protocol compatible with DNS where every peer is validating and in charge of managing the root zone with the goal of creating an alternative to existing certificate authorities. "
+  },
+  "links":{
+    "website":["https://handshake.org/"],
+    "telegram":["https://t.me/hns_tech"],
+    "explorer":["https://hnscan.com/"],
+    "github":["https://github.com/handshake-org"],
+    "twitter":["https://twitter.com/hns"],
+    "reddit":["https://reddit.com/r/handshake"],
+    "forum":["https://kiwi.freenode.net/#handshake"]
+  }
+}

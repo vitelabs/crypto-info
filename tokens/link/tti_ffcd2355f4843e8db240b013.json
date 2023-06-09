@@ -1,0 +1,21 @@
+{
+  "tokenId": "tti_ffcd2355f4843e8db240b013",
+  "overview":{
+    "zh":"LINK是基于以太坊区块链的ERC20标准化代币，用于支付Chainlink节点运营商，以便从脱链数据中检索数据，将数据格式化为区块链可读格式，脱链计算以及保证正常运行时间。Chainlink代币作为运行节点的一部分，可防止不良参与者。",
+    "en":"Chainlink (LINK) is a decentralized oracle service, which aims to connect smart contracts with data from the real world."
+  },
+  "links":{
+    "website":["https://chain.link/"],
+    "whitepaper":["https://link.smartcontract.com/whitepaper"],
+    "explorer":["https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca"],
+    "github":["https://github.com/smartcontractkit/chainlink"],
+    "telegram":["https://telegram.me/chainlinkofficial"],
+    "reddit":["https://reddit.com/r/chainlink"],
+    "twitter":["https://twitter.com/smart_contract"],
+    "forum": ["https://medium.com/chainlink"],
+    "coinmarketcap":["https://coinmarketcap.com/currencies/chainlink/"],
+    "youtube":["https://www.youtube.com/chainlinkofficial"],
+    "discord":["https://discord.gg/aSK4zew"],
+    "blog":["https://blog.chain.link/"]
+  }
+}

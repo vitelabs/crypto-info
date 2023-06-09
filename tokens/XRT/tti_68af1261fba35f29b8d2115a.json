@@ -1,0 +1,15 @@
+{
+  "tokenId": "tti_68af1261fba35f29b8d2115a",
+  "overview":{
+    "en":"Robonomics Network is a set of open-source packages for Robotics, Smart Cities and Industry 4.0 developers.",
+    "zh":"Robonomics Network是一个面向机器人、智慧城市和工业4.0的开源项目。"
+  },
+  "links":{
+    "website":["https://robonomics.network/"],
+    "explorer":["https://etherscan.io/token/0x7de91b204c1c737bcee6f000aaa6569cf7061cb7"],
+    "github":["https://github.com/airalab"],
+    "reddit":["https://reddit.com/r/robonomics"],
+    "forum":["https://blog.aira.life/"],
+    "twitter":["https://twitter.com/AIRA_Robonomics"]
+  }
+}

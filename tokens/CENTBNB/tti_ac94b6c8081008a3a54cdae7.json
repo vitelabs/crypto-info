@@ -1,0 +1,15 @@
+{
+    "tokenId": "tti_ac94b6c8081008a3a54cdae7",
+    "overview": {
+      "en": "This is the LP token for the CENTBNB PancakeSwap pool."
+    },
+    "links": {
+       "website": ["https://makingcents.xyz"],
+       "explorer": ["https://bscscan.com/token/0x292b2118812c9a43d8994271a81dbce870eeaf6b"],
+      "discord": ["https://discord.gg/G9XAAxynZ2"],
+      "twitter": ["https://twitter.com/bemakingcents"],
+      "whitepaper": ["https://makingcents.xyz/_files/ugd/062eef_2311c42827c640f29394a9b5c7a3dd36.pdf"],
+      "telegram": ["https://twitter.com/bemakingcents"],
+      "github": ["https://github.com/MakingCents"]
+    }
+  }

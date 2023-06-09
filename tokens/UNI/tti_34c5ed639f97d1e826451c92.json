@@ -1,0 +1,18 @@
+{
+    "tokenId": "tti_34c5ed639f97d1e826451c92",
+    "overview":{
+        "zh":"UNI token served as governance token for Uniswap protocol with 1 billion UNI have been minted at genesis. 60% of the UNI genesis supply is allocated to Uniswap community members and remaining for team, investors and advisors.",
+        "en":"UNI token served as governance token for Uniswap protocol with 1 billion UNI have been minted at genesis. 60% of the UNI genesis supply is allocated to Uniswap community members and remaining for team, investors and advisors."
+    },
+    "links":{
+        "website":["https://uniswap.org/"],
+        "whitepaper":["https://uniswap.org/whitepaper-v3.pdf"],
+        "github":["https://github.com/Uniswap/"],
+        "explorer":["https://etherscan.io/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"],
+        "twitter":["https://twitter.com/uniswap/"],
+        "reddit":["https://www.reddit.com/r/Uniswap"],        
+        "coinmarketcap":["https://coinmarketcap.com/currencies/uniswap/"],
+        "discord":["https://discord.gg/FCfyBSbCU5"],
+        "blog":["https://uniswap.org/blog"]
+    }
+}

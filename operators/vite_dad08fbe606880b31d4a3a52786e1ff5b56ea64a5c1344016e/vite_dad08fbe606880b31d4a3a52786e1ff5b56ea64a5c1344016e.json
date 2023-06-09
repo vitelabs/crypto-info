@@ -1,0 +1,14 @@
+{
+	"name": "VivaFi",
+        "address": "vite_dad08fbe606880b31d4a3a52786e1ff5b56ea64a5c1344016e",
+        "overview": {
+            "en": "VivaFi builds DeFi applications on the Vite network and is an operator on the ViteX Exchange. For more information go to VivaFi.org"
+        },
+        "links":{
+            "website":["https://vivafi.org"],
+	    "github":["https://github.com/Viva-Pools"],
+	    "twitter": ["https://twitter.com/VivaStakingPool"],
+	    "explorer":["https://vitescan.io/token/tti_a23c2f75791efafe5fada99e"]
+        },
+        "support":"https://discord.gg/KH9dfdmycc"
+}

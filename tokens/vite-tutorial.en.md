@@ -4,23 +4,26 @@
 
 ### Information Preparation
 
-Prepare the profile with json-type and logo image.
+Prepare submission documents under the following requirements.
 
 `LOGO IMAGE`
 
-- Image format: `png` `transparent background`
-- Image size: `20x20 pixels`
+- Image format: `png`
+- Image size: `200x200 pixels`
+
+![Icon Specification](../assets/images/icon-specification.jpg)
+
 
 `JSON FILE`
 
-| field | necessity |description | schema type |
+| field | value required | description | schema type |
 |:------------:|:-----:|:-----------:|:-----:|
 | tokenId | necessary | tokenId on Vite BlockChain | String |
-| overview | necessary | introduction of your token | Map<String,String> |
-| links | optional | website,whitepaper,github, and other media links. | Map<String,List<String>> |
+| overview | necessary | introduction of your token | Map<String, String> |
+| links | optional | website, whitepaper, github, and other media links. | Map<String, List<String>> |
 | initialPrice | optional | the initial price of your token to the base currency | String |
 
-> Filename in the `lowercase` format, named by your tokenId, same name for both .json and .png (Including capitalization), eg: tti_b90c9baffffc9dae58d1f33f.json, tti_b90c9baffffc9dae58d1f33f.png
+> Filename should be your token ID in all `lowercase` letters, same name for both .json and .png (Including capitalization), eg: tti_b90c9baffffc9dae58d1f33f.json, tti_b90c9baffffc9dae58d1f33f.png
 
 #### Keyword in the field  Map-Value above.
 
@@ -44,8 +47,6 @@ Prepare the profile with json-type and logo image.
     * medium
     * blog
 
-    > Note: We consider projects that fill in the `website`,`whitepaper`,`github` fields to be generally reliable gateways that do not give warning messages in ViteX.
-
 * `overview`
     
     * **en** 
@@ -64,7 +65,6 @@ Prepare the profile with json-type and logo image.
 
 ##### Example:
 
-::: demo
 ```json 
 {
     "tokenId": "tti_b90c9baffffc9dae58d1f33f",
@@ -85,10 +85,11 @@ Prepare the profile with json-type and logo image.
 }
 
 ```
-:::
 
 
 ## Steps to upload
+
+We recommend that you complete the procedures with your developers, or you can follow [Github Guideline](../github-tutorial.en.md) to operate on github web page.
 
 1. Fork the repo to your own github account
 
@@ -121,7 +122,7 @@ ti_b90c9baffffc9dae58d1f33f.png
   For example:
 ```
 git add -A
-git commit -m "Add token-[tti_xxx]"
+git commit -m "add token [token_symbol] [tti_xxx]"
 git push origin token-[tti_xxx]
 ```
 

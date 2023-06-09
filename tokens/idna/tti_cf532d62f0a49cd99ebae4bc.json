@@ -1,0 +1,17 @@
+{
+  "tokenId": "tti_cf532d62f0a49cd99ebae4bc",
+  "overview":{
+    "en":"Idena is the first proof-of-person blockchain where every node belongs to a certain individual and has equal voting power.",
+    "zh":"Idena是一种使人们在区块链上正式化的新颖方法，它不收集或存储个人身份信息。Idena通过同时为全球每个人运行AI硬性Turing测试，证明了参与者的独特性，Idena区块链受人证明共识的驱动：每个节点都与一个加密身份相关联，一个具有同等投票权的人。"},
+  "links":{
+    "website":["https://idena.io/"],
+    "telegram":["https://t.me/IdenaAnnouncements"],
+    "github":["https://github.com/idena-network"],
+    "bitcointalk":["https://bitcointalk.org/index.php?topic=5194871.0"],
+    "explorer":["https://scan.idena.io"],
+    "discord":["https://discord.gg/8BusRj7"],
+    "forum":["https://medium.com/@idena.network"],
+    "twitter":["https://twitter.com/incognitochain"],
+    "reddit":["https://reddit.com/r/Idena"]
+  }
+}

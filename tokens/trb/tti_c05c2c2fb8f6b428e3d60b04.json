@@ -1,0 +1,15 @@
+{
+    "tokenId": "tti_c05c2c2fb8f6b428e3d60b04",
+    "overview":{
+        "en":"Tellor is a decentralized Oracle for bringing high value off-chain data onto Ethereum. The system utilizes a network of staked miners that compete to solve a PoW challenge to submit the official value for requested data.  Tokens are mined with every successful Tellor data point and the company takes a 10% dev share to support the development of the ecosystem. ",
+        "zh":"Tellor是一个去中心化的Oracle预言机网络平台，用于将高价值的链下数据融入以太坊。该系统利用有争议的矿工网络竞争解决PoW问题，在链上监测用户数据请求，链下监控和接收数据请求。每个成功的Tellor数据点都将使用代币进行开采，该公司拿出10％的开发份额以支持生态系统的发展。"
+    },
+    "links":{
+        "website":["http://www.tellor.io/"],
+        "explorer":["https://etherscan.io/token/0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0"],
+        "github":["https://github.com/tellor-io/TellorCore"],
+        "telegram":["https://telegram.me/tellor"],
+        "twitter":["https://twitter.com/WeAreTellor"],
+        "discord":["https://discordapp.com/invite/n7drGjh"]
+     }
+}

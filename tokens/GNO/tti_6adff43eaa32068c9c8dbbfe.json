@@ -1,0 +1,19 @@
+{
+    "tokenId": "tti_6adff43eaa32068c9c8dbbfe",
+    "overview":{
+        "zh":"Gnosis Chain is the associated execution-layer EVM chain for stable transactions. It uses the xDai token and includes a wide-ranging group of projects and users.",
+        "en":"Gnosis Chain is the associated execution-layer EVM chain for stable transactions. It uses the xDai token and includes a wide-ranging group of projects and users."
+    },
+    "links":{
+        "website":["https://gnosis.io/"],
+        "whitepaper":["https://github.com/gnosis/research/blob/master/gnosis-whitepaper.pdf"],
+        "github":["https://github.com/gnosis"],
+        "documentation":["https://docs.gnosis.io/protocol/"],
+        "explorer":["https://blockscout.com/xdai/mainnet/token/0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb/"],
+        "twitter":["https://twitter.com/gnosisdao"],
+        "reddit":["https://reddit.com/r/gnosisPM"],        
+        "coinmarketcap":["https://coinmarketcap.com/currencies/gnosis-gno/"],
+        "discord":["https://discord.gg/xqMHAUeu"],
+        "blog":["https://blog.gnosis.io/"]
+    }
+}

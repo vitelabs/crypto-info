@@ -1,0 +1,13 @@
+{
+    "tokenId": "tti_93df321906bf2fc3699e8996",
+    "overview":{
+        "en":"OKB is a global utility token issued by OK Blockchain Foundation. ",
+        "zh":"OKB 通用积分（以下简称 OKB）是由 OK Blockchain 基金会发行的全球通用积分，OKB 初期基于以太坊 ERC-20协议发行，未来会转移到自研的公有链之上。OKB 基金会和 OKEx 将建立战略合作关系，把 OKB 建设成 OKEx 生态中的重要组成部分，未来会应用在 OKEx 平台和 OKEx 投资的各生态链项目之中。"
+    },
+    "links":{
+        "website":["https://www.okex.com/"],
+        "explorer":["https://explorer.vite.net/token/tti_93df321906bf2fc3699e8996"],
+        "telegram":["https://telegram.me/okexofficial_en"],
+        "twitter":["https://twitter.com/okex_"]
+    }
+}
