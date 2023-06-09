@@ -27,12 +27,6 @@
       "mappedTokenId": "",
       "url": "https://crosschain.vite.net/gateway/eth/"
     },
-    "tti_b90c9baffffc9dae58d1f33f": {
-      "mappedSymbol": "BTC",
-      "mappedNet": "BTC",
-      "mappedTokenId": "",
-      "url": "https://crosschain.vite.net/gateway/btc/"
-    },
     "tti_80f3751485e4e83456059473": {
       "mappedSymbol": "USDT",
       "mappedNet": "ETH",
