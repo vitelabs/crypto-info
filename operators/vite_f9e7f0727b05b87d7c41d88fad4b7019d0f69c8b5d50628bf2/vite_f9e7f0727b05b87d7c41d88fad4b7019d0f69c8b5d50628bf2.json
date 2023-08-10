@@ -1,0 +1,13 @@
+{
+	"name": "WOLKEN",
+        "address": "vite_f9e7f0727b05b87d7c41d88fad4b7019d0f69c8b5d50628bf2",
+        "overview": {
+            "en": "WOLKEN manages all trading pairs of WOLK on the ViteX Dex."
+        },
+        "links":{
+            "website":["https://wolken.info"],
+	        "twitter": ["https://twitter.com/WolkenVite"],
+	        "explorer":["https://vitcscan.com/token/tti_e52613a75562cc20917785fd"]
+        },
+        "support":"https://discord.gg/RBWnKfTaaN"
+}
