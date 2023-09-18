@@ -1,0 +1,18 @@
+{
+    "tokenId": "tti_faf113d9c8515bb0df0ab347",
+    "overview":{
+        "zh":"VinuChain (VC) is a new determinably feeless layer 1 DAG chain with EVM compatibility.",
+        "en":"VinuChain (VC) is a new determinably feeless layer 1 DAG chain with EVM compatibility."
+    },
+    "links":{
+        "website":["https://vinuchain.org"],
+        "whitepaper":["https://vinu.gitbook.io/vinuchain/whitepaper"],
+        "github":["https://github.com/vinuchain"],
+        "explorer":["https://vinuscan.com"],
+        "twitter":["https://twitter.com/vinuchain"],
+        "reddit":["https://www.reddit.com/r/Vitainu"],
+        "instagram":["https://www.instagram.com/vinuchaindao"],
+        "telegram":["https://t.me/VitaInu"],
+        "discord":["https://discord.gg/vinu"],
+    }
+}
