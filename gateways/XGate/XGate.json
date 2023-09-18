@@ -87,6 +87,18 @@
         "url": "https://patrola.me/gateways/matic"
       }]
     },
+        "tti_faf113d9c8515bb0df0ab347": {
+      "mappedSymbol": "VC",
+      "mappedNet": "VinuChain",
+      "mappedTokenId": "",
+      "url": "https://patrola.me/gateways/vinuchain",
+      "extraStandards": [{
+        "mappedNet": "BSC",
+        "mappedTokenId": "0x0",
+        "standard": "BEP20",
+        "url": "https://patrola.me/gateways/bsc"
+      }]
+    },
     "tti_3e84e81880b9eb297dd411e6": {
       "mappedSymbol": "POOCOIN",
       "mappedNet": "BSC",
