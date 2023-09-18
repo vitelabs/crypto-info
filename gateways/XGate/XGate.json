@@ -94,7 +94,7 @@
       "url": "https://patrola.me/gateways/vinuchain",
       "extraStandards": [{
         "mappedNet": "BSC",
-        "mappedTokenId": "0x0",
+        "mappedTokenId": "0x2bf83d080d8bc4715984e75e5b3d149805d11751",
         "standard": "BEP20",
         "url": "https://patrola.me/gateways/bsc"
       }]
