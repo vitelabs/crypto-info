@@ -163,6 +163,12 @@
           "mappedTokenId": "0xAFCdd4f666c84Fed1d8BD825aA762e3714F652c9",
           "standard": "KIP20",
           "url": "https://patrola.me/gateways/okc"
+        },
+        {
+          "mappedNet": "VINUCHAIN",
+          "mappedTokenId": "0x00c1e515ea9579856304198efb15f525a0bb50f6",
+          "standard": "VINUCHAIN",
+          "url": "https://patrola.me/gateways/vinuchain"   
         }
       ]
     }
