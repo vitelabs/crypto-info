@@ -1,1 +1,15 @@
-
+{
+    "tokenId": "tti_cc901f2d7a2cae72f9c79aee",
+    "overview":{
+	    "en":"VDAO holds intrinsic value by allowing holders to shape the future of VITE through active participation in Vitesensus tool voting. This process not only encourages broader community engagement but also serves as a pivotal step towards the decentralization of governance."
+    },
+    "links":{
+        "website":["https://vite.org/"],
+        "explorer":["https://explorer.vite.net/","https://vitescan.io/"],
+        "github":["https://github.com/vitelabs"],
+	    "twitter":["https://twitter.com/vitelabs/"],
+	    "medium":["https://medium.com/vitelabs/"],
+	    "instagram":["https://www.instagram.com/vite.labs/"],
+	    "discord":["https://discordapp.com/invite/CsVY76q/"]
+    }
+}
