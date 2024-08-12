@@ -236,6 +236,12 @@
       "mappedNet": "ETH",
       "mappedTokenId": "0x2ad9addd0d97ec3cdba27f92bf6077893b76ab0b",
       "url": "https://crosschain.vite.net/gateway/eth/"
+    },
+    "tti_cc901f2d7a2cae72f9c79aee": {
+      "mappedSymbol": "VDAO",
+      "mappedNet": "BSC",
+      "mappedTokenId": "0x073e152efbdbd6cbc20bb5f14893dc2969539210",
+      "url": "https://crosschain.vite.net/gateway/bsc/"
     }
   }
 }
